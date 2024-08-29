@@ -1,0 +1,927 @@
+date,team_1,team_2,score,location,change_1,score_1_points,change_2,score_2_points
+January 3 2016,India,Afghanistan,2 1,South Asian Championship in India,+19 −19,1082 1124,+1 0,182 174
+January 6 2016,Estonia,Sweden,1 1,Friendly in the United Arab Emirates,+7 −7,1501 1760,0 −2,87 29
+January 8 2016,Bangladesh,Sri Lanka,4 2,Bangabandhu Gold Cup in Bangladesh,+10 −10,900 765,0 0,202 211
+January 8 2016,Haiti,Trinidad and Tobago,1 0,Copa América qualifier in Panama,+28 −28,1504 1587,+5 −6,87 61
+January 8 2016,Panama,Cuba,4 0,Copa América qualifier in Panama,+5 −5,1688 1335,0 −3,42 125
+January 10 2016,Sweden,Finland,3 0,Friendly in the United Arab Emirates,+10 −10,1770 1593,+3 −2,26 60
+January 11 2016,Maldives,Cambodia,3 2,Bangabandhu Gold Cup in Bangladesh,+5 −5,998 724,+1 −1,187 217
+January 13 2016,Iceland,Finland,1 0,Friendly in the United Arab Emirates,+8 −8,1681 1585,0 −1,43 61
+January 13 2016,Nepal,Sri Lanka,1 0,Bangabandhu Gold Cup in Bangladesh,+12 −12,857 753,+1 −3,206 214
+January 15 2016,Bangladesh,Nepal,0 0,Bangabandhu Gold Cup in Bangladesh,−6 +6,894 863,0 0,202 206
+January 16 2016,United Arab Emirates,Iceland,2 1,Friendly in the United Arab Emirates,+9 −9,1635 1672,0 −1,50 44
+January 19 2016,Nepal,Maldives,4 1,Bangabandhu Gold Cup in Bangladesh,+36 −36,899 962,+4 −4,202 191
+January 27 2016,Egypt,Jordan,0 1,Friendly in Egypt,−15 +15,1610 1544,−3 +4,55 73
+January 27 2016,Nicaragua,Honduras,1 3,Friendly in Nicaragua,−8 +8,1240 1518,−1 +1,147 80
+January 29 2016,Egypt,Libya,2 0,Friendly in Egypt,+7 −7,1617 1499,+1 −2,54 88
+January 31 2016,United States,Iceland,3 2,Friendly in the United States,+5 −5,1763 1667,0 0,30 44
+February 2 2016,Venezuela,Costa Rica,1 0,Friendly in Venezuela,+13 −13,1613 1781,+3 −2,55 23
+February 5 2016,Bahrain,Lebanon,2 0,Friendly in Bahrain,+10 −10,1421 1389,+1 −1,106 111
+February 5 2016,United States,Canada,1 0,Friendly in the United States,+3 −3,1766 1526,+2 0,28 78
+February 6 2016,Guadeloupe,Martinique,1 1,Friendly in Guadeloupe,0 0,1319 1435,0 0,131 100
+February 10 2016,Guatemala,Honduras,3 1,Friendly in Guatemala,+13 −13,1467 1505,+2 −5,95 85
+February 14 2016,Uzbekistan,Lebanon,2 0,Friendly in the United Arab Emirates,+6 −6,1654 1383,0 −1,46 112
+February 17 2016,Panama,El Salvador,1 0,Friendly in Panama,+3 −3,1691 1473,0 −1,42 94
+February 21 2016,Guyana,Suriname,2 0,Friendly in Guyana,+9 −9,1234 1161,+4 −1,150 170
+February 21 2016,Saint Kitts and Nevis,Bermuda,3 0,Friendly in Saint Kitts and Nevis,+13 −13,1244 1221,+6 −6,146 155
+February 25 2016,French Guiana,Suriname,2 3,Friendly in French Guiana,−16 +16,1287 1177,−3 +3,136 167
+March 2 2016,Guatemala,El Salvador,1 0,Friendly in Guatemala,+7 −7,1474 1466,+2 −1,93 95
+March 9 2016,Nicaragua,El Salvador,1 1,Friendly in Nicaragua,+3 −3,1243 1463,0 0,148 95
+March 13 2016,Sint Maarten,Anguilla,2 0,Friendly in Sint Maarten,+2 −2,926 561,0 −1,199 235
+March 13 2016,St Vincent & Grenadines,Martinique,0 4,Friendly in Saint Vincent and the Grenadines,−10 +10,1150 1445,−1 +1,172 99
+March 15 2016,Nicaragua,Panama,1 0,Friendly in Nicaragua,+18 −18,1261 1673,+5 0,143 42
+March 18 2016,Syria,Iraq,1 0,Friendly in Iran,+10 −10,1526 1497,+2 −5,78 88
+March 18 2016,United Arab Emirates,Bangladesh,6 1,Friendly in the United Arab Emirates,0 0,1635 894,0 0,50 203
+March 19 2016,Grenada,Trinidad and Tobago,2 2,Friendly in Grenada,+8 −8,1131 1579,+1 −4,174 64
+March 19 2016,Taiwan,Guam,3 2,Friendly in Taiwan,+10 −10,794 872,0 0,210 205
+March 22 2016,Cuba,Bermuda,2 1,CONCACAF Champ & Carib Champ q in Cuba,+9 −9,1344 1212,+3 −3,122 158
+March 22 2016,Grenada,Sint Maarten,5 0,CONCACAF Champ & Carib Champ q in Grenada,+12 −12,1143 914,0 0,174 199
+March 22 2016,Guyana,Anguilla,7 0,CONCACAF Champ & Carib Champ q in Guyana,+1 −1,1235 560,0 0,150 235
+March 22 2016,Sierra Leone,Malawi,1 1,Friendly in Sierra Leone,−3 +3,1334 1314,−2 0,125 132
+March 23 2016,Antigua and Barbuda,Aruba,2 1,CONCACAF Champ & Carib Champ q in Antigua and Barbuda,+3 −3,1247 931,0 0,147 198
+March 23 2016,Barbados,Curaçao,1 0,CONCACAF Champ & Carib Champ q in Barbados,+13 −13,1157 1109,+2 −3,171 179
+March 23 2016,Chad,Tanzania,0 1,African Nations Cup qualifier in Chad,−23 +23,1255 1345,−5 +9,143 121
+March 23 2016,Croatia,Israel,2 0,Friendly in Croatia,+4 −4,1818 1575,+1 −2,16 66
+March 23 2016,Gibraltar,Liechtenstein,0 0,Friendly in Gibraltar,0 0,1119 1203,0 −1,177 161
+March 23 2016,Guadeloupe,Suriname,0 0,CONCACAF Champ & Carib Champ q in Guadeloupe,−12 +12,1307 1189,−1 +5,132 162
+March 23 2016,Guinea-Bissau,Kenya,1 0,African Nations Cup qualifier in Guinea-Bissau,+25 −25,1225 1356,+7 −3,154 117
+March 23 2016,Martinique,British Virgin Islands,3 0,CONCACAF Champ & Carib Champ q in Martinique,0 0,1445 624,0 0,99 229
+March 23 2016,Poland,Serbia,1 0,Friendly in Poland,+6 −6,1779 1710,+1 0,24 38
+March 23 2016,Romania,Lithuania,1 0,Friendly in Romania,+1 −1,1765 1426,0 0,30 102
+March 23 2016,São Tomé and Príncipe,Libya,2 1,African Nations Cup qualifier in São Tomé and Príncipe,+34 −34,1120 1465,+5 −7,176 94
+March 23 2016,Slovenia,Macedonia,1 0,Friendly in Slovenia,+3 −3,1622 1436,0 0,53 100
+March 23 2016,South Sudan,Benin,1 2,African Nations Cup qualifier in South Sudan,−13 +13,1143 1389,−2 +4,173 111
+March 23 2016,Zambia,Congo,1 1,African Nations Cup qualifier in Zambia,−7 +7,1503 1495,−4 +1,85 88
+March 24 2016,Australia,Tajikistan,7 0,World Cup  and  Asian Cup qualifier in Australia,+3 −3,1704 1226,−1 0,40 153
+March 24 2016,Bahrain,Yemen,3 0,World Cup  and  Asian Cup qualifier in Bahrain,+9 −9,1430 1172,+4 −3,102 169
+March 24 2016,Bolivia,Colombia,2 3,World Cup qualifier in Bolivia,−8 +8,1616 1962,−4 +2,56 5
+March 24 2016,Chile,Argentina,1 2,World Cup qualifier in Chile,−23 +23,1953 2046,−3 +1,8 2
+March 24 2016,China,Maldives,4 0,World Cup  and  Asian Cup qualifier in China,+1 −1,1548 961,0 −1,71 192
+March 24 2016,Comoros,Botswana,1 0,African Nations Cup qualifier in the Comoros,+34 −34,973 1297,+7 −4,190 132
+March 24 2016,Czechia,Scotland,0 1,Friendly in Czechia,−14 +14,1752 1714,−2 +2,30 38
+March 24 2016,Denmark,Iceland,2 1,Friendly in Denmark,+6 −6,1733 1661,−1 −1,35 45
+March 24 2016,Djibouti,Liberia,0 1,African Nations Cup qualifier in Djibouti,−3 +3,757 1333,0 +2,212 127
+March 24 2016,Ecuador,Paraguay,2 2,World Cup qualifier in Ecuador,−14 +14,1901 1741,−1 +1,13 33
+March 24 2016,Estonia,Norway,0 0,Friendly in Estonia,+1 −1,1502 1625,0 −1,86 52
+March 24 2016,Ghana,Mozambique,3 1,African Nations Cup qualifier in Ghana,+5 −5,1649 1327,+1 −2,47 129
+March 24 2016,Greece,Montenegro,2 1,Friendly in Greece,+6 −6,1618 1563,+2 −1,54 68
+March 24 2016,Iran,India,4 0,World Cup  and  Asian Cup qualifier in Iran,+1 −1,1728 1081,−2 0,36 182
+March 24 2016,Iraq,Thailand,2 2,World Cup  and  Asian Cup qualifier in Iran,−5 +5,1492 1412,−1 0,88 108
+March 24 2016,Italy,Spain,1 1,Friendly in Italy,+1 −1,1872 2002,0 0,15 4
+March 24 2016,Japan,Afghanistan,5 0,World Cup  and  Asian Cup qualifier in Japan,+1 −1,1750 1123,0 0,31 175
+March 24 2016,Jordan,Bangladesh,8 0,World Cup  and  Asian Cup qualifier in Jordan,+1 −1,1545 893,+1 0,72 203
+March 24 2016,Madagascar,Central African Republic,1 1,African Nations Cup qualifier in Madagascar,−7 +7,1275 1258,0 +3,137 143
+March 24 2016,Malta,Moldova,0 0,Friendly in Malta,+1 −1,1234 1352,0 0,151 119
+March 24 2016,Oman,Guam,1 0,World Cup  and  Asian Cup qualifier in Oman,+1 −1,1475 871,0 0,92 205
+March 24 2016,Peru,Venezuela,2 2,World Cup qualifier in Peru,−13 +13,1774 1626,−3 +4,24 51
+March 24 2016,Qatar,Hong Kong,2 0,World Cup  and  Asian Cup qualifier in Qatar,+4 −4,1572 1215,+1 −2,67 158
+March 24 2016,Saudi Arabia,Malaysia,2 0,World Cup  and  Asian Cup qualifier in Saudi Arabia,+3 −3,1513 1115,0 0,81 178
+March 24 2016,Singapore,Myanmar,2 1,Friendly in Singapore,+4 −4,1189 1028,+2 0,162 186
+March 24 2016,Solomon Islands,Papua New Guinea,2 0,Friendly in the Solomon Islands,+7 −7,1182 1045,+4 0,165 185
+March 24 2016,South Korea,Lebanon,1 0,World Cup  and  Asian Cup qualifier in South Korea,+2 −2,1789 1381,0 −1,21 114
+March 24 2016,Syria,Cambodia,6 0,World Cup  and  Asian Cup qualifier in Oman,+1 −1,1527 723,0 0,78 217
+March 24 2016,Turkey,Sweden,2 1,Friendly in Turkey,+6 −6,1811 1764,+1 −3,18 29
+March 24 2016,United Arab Emirates,Palestine,2 0,World Cup  and  Asian Cup qualifier in the United Arab Emirates,+6 −6,1641 1339,+1 −2,49 123
+March 24 2016,Ukraine,Cyprus,1 0,Friendly in Ukraine,+1 −1,1818 1423,+1 −1,16 105
+March 24 2016,Uzbekistan,Philippines,1 0,World Cup  and  Asian Cup qualifier in Uzbekistan,+2 −2,1656 1235,0 0,46 149
+March 24 2016,Vietnam,Taiwan,4 1,World Cup  and  Asian Cup qualifier in Vietnam,+3 −3,1216 791,+1 0,157 210
+March 24 2016,Wales,Northern Ireland,1 1,Friendly in Wales,−5 +5,1668 1599,−1 0,43 59
+March 25 2016,Algeria,Ethiopia,7 1,African Nations Cup qualifier in Algeria,+5 −5,1671 1267,+2 −3,42 141
+March 25 2016,Armenia,Belarus,0 0,Friendly in Armenia,0 0,1484 1578,−2 0,91 65
+March 25 2016,Brazil,Uruguay,2 2,World Cup qualifier in Brazil,−10 +10,2028 1957,0 +1,3 8
+March 25 2016,Canada,Mexico,0 3,World Cup qualifier in Canada,−12 +12,1514 1918,−2 +1,81 11
+March 25 2016,El Salvador,Honduras,2 2,World Cup qualifier in El Salvador,−3 +3,1460 1508,0 0,95 83
+March 25 2016,Gabon,Sierra Leone,2 1,Friendly in Gabon,+4 −4,1486 1330,0 −1,90 127
+March 25 2016,Guatemala,United States,2 0,World Cup qualifier in Guatemala,+45 −45,1519 1721,+13 −10,80 37
+March 25 2016,Guinea,Malawi,0 0,African Nations Cup qualifier in Guinea,−15 +15,1540 1329,−5 +2,74 128
+March 25 2016,Haiti,Panama,0 0,World Cup qualifier in Haiti,+4 −4,1508 1669,+1 −1,83 43
+March 25 2016,Ireland,Switzerland,1 0,Friendly in Ireland,+8 −8,1778 1801,+3 −1,23 20
+March 25 2016,Ivory Coast,Sudan,1 0,African Nations Cup qualifier in Ivory Coast,+2 −2,1738 1288,+2 −1,32 135
+March 25 2016,Jamaica,Costa Rica,1 1,World Cup qualifier in Jamaica,+5 −5,1589 1776,0 −2,61 24
+March 25 2016,Luxembourg,Bosnia and Herzegovina,0 3,Friendly in Luxembourg,−4 +4,1250 1726,−1 +1,146 36
+March 25 2016,Mali,Equatorial Guinea,1 0,African Nations Cup qualifier in Mali,+7 −7,1545 1357,+3 −1,71 116
+March 25 2016,Mauritania,Gambia,2 1,African Nations Cup qualifier in Mauritania,+19 −19,1273 1309,+7 −2,138 130
+March 25 2016,Netherlands,France,2 3,Friendly in the Netherlands,−11 +11,1887 1965,0 +2,14 5
+March 25 2016,Nigeria,Egypt,1 1,African Nations Cup qualifier in Nigeria,−7 +7,1630 1624,0 +2,50 53
+March 25 2016,Portugal,Bulgaria,0 1,Friendly in Portugal,−18 +18,1902 1602,−1 +2,12 59
+March 25 2016,Slovakia,Latvia,0 0,Friendly in Slovakia,−8 +8,1736 1458,−1 +1,33 97
+March 25 2016,St Vincent & Grenadines,Trinidad and Tobago,2 3,World Cup qualifier in Saint Vincent and the Grenadines,−5 +5,1145 1584,0 +1,172 63
+March 25 2016,Swaziland,Zimbabwe,1 1,African Nations Cup qualifier in Swaziland,0 0,1264 1360,−1 +1,142 115
+March 25 2016,Tunisia,Togo,1 0,African Nations Cup qualifier in Tunisia,+8 −8,1558 1395,+1 0,69 109
+March 26 2016,Anguilla,Puerto Rico,0 4,CONCACAF Champ & Carib Champ q in Anguilla,−7 +7,553 1068,0 0,235 184
+March 26 2016,Aruba,Saint Kitts and Nevis,0 2,CONCACAF Champ & Carib Champ q in Aruba,−14 +14,917 1258,0 +4,198 144
+March 26 2016,Austria,Albania,2 1,Friendly in Austria,+3 −3,1805 1605,0 +1,19 57
+March 26 2016,Bermuda,French Guiana,2 1,CONCACAF Champ & Carib Champ q in Bermuda,+19 −19,1231 1268,+6 −4,153 140
+March 26 2016,British Virgin Islands,Dominica,0 7,CONCACAF Champ & Carib Champ q in the British Virgin Islands,−19 +19,605 975,−1 +2,230 191
+March 26 2016,Burkina Faso,Uganda,1 0,African Nations Cup qualifier in Burkina Faso,+20 −20,1451 1514,+2 −6,99 81
+March 26 2016,Burundi,Namibia,1 3,African Nations Cup qualifier in Burundi,−40 +40,1311 1377,−8 +10,128 115
+March 26 2016,Cameroon,South Africa,2 2,African Nations Cup qualifier in Cameroon,−7 +7,1602 1590,−1 +3,58 61
+March 26 2016,Cape Verde,Morocco,0 1,African Nations Cup qualifier in Cape Verde,−26 +26,1519 1556,−7 +7,78 70
+March 26 2016,Curaçao,Dominican Republic,2 1,CONCACAF Champ & Carib Champ q in Curaçao,+17 −17,1126 1147,+4 0,175 170
+March 26 2016,Democratic Republic of Congo,Angola,2 1,African Nations Cup qualifier in the Dem Rep of the Congo,+10 −10,1517 1412,+5 0,80 106
+March 26 2016,Germany,England,2 3,Friendly in Germany,−15 +15,2054 1975,0 +2,1 5
+March 26 2016,Hungary,Croatia,1 1,Friendly in Hungary,+1 −1,1701 1817,0 −1,41 17
+March 26 2016,Kazakhstan,Azerbaijan,1 0,Friendly in Turkey,+11 −11,1399 1408,+3 −1,109 108
+March 26 2016,Mauritius,Rwanda,1 0,African Nations Cup qualifier in Mauritius,+28 −28,1117 1310,+2 −5,179 129
+March 26 2016,Poland,Finland,5 0,Friendly in Poland,+6 −6,1785 1579,0 −2,22 64
+March 26 2016,Russia,Lithuania,3 0,Friendly in Russia,+2 −2,1776 1424,+1 −1,24 104
+March 26 2016,Senegal,Niger,2 0,African Nations Cup qualifier in Senegal,+4 −4,1651 1285,+1 −1,47 135
+March 26 2016,Seychelles,Lesotho,2 0,African Nations Cup qualifier in the Seychelles,+40 −40,996 1137,+6 −6,187 174
+March 26 2016,Sint Maarten,US Virgin Islands,1 2,CONCACAF Champ & Carib Champ q in Sint Maarten,−34 +34,880 741,−5 +3,204 215
+March 26 2016,Vanuatu,New Caledonia,2 1,Friendly in Vanuatu,+12 −12,1194 1344,+3 −4,162 121
+March 27 2016,Benin,South Sudan,4 1,African Nations Cup qualifier in Benin,+8 −8,1397 1135,+2 −2,110 174
+March 27 2016,Botswana,Comoros,2 1,African Nations Cup qualifier in Botswana,+3 −3,1300 970,0 0,132 192
+March 27 2016,Congo,Zambia,1 1,African Nations Cup qualifier in Congo,−5 +5,1490 1508,−1 +2,89 84
+March 27 2016,Kenya,Guinea-Bissau,0 1,African Nations Cup qualifier in Kenya,−32 +32,1324 1257,−9 +9,127 146
+March 27 2016,Mozambique,Ghana,0 0,African Nations Cup qualifier in Mozambique,+11 −11,1338 1638,+4 −1,123 49
+March 27 2016,Romania,Spain,0 0,Friendly in Romania,+4 −4,1769 1998,0 0,27 4
+March 27 2016,Solomon Islands,Papua New Guinea,1 2,Friendly in the Solomon Islands,−16 +16,1166 1061,−2 0,168 185
+March 27 2016,Thailand,South Korea,0 1,Friendly in Thailand,−3 +3,1409 1792,−1 0,107 21
+March 28 2016,Central African Republic,Madagascar,2 1,African Nations Cup qualifier in Central African Republic,+15 −15,1273 1260,+8 −7,136 143
+March 28 2016,Equatorial Guinea,Mali,0 1,African Nations Cup qualifier in Equatorial Guinea,−15 +15,1342 1560,−4 +3,121 69
+March 28 2016,Faroe Islands,Liechtenstein,3 2,Friendly in Spain,+9 −9,1241 1194,+3 0,150 161
+March 28 2016,Libya,São Tomé and Príncipe,4 0,African Nations Cup qualifier in Algeria,+9 −9,1474 1111,+1 −3,93 180
+March 28 2016,Moldova,Andorra,1 0,Friendly in Malta,+2 −2,1354 952,+1 0,117 195
+March 28 2016,Northern Ireland,Slovenia,1 0,Friendly in Northern Ireland,+8 −8,1607 1614,+3 −2,57 56
+March 28 2016,Sierra Leone,Gabon,1 0,Friendly in Sierra Leone,+12 −12,1342 1474,+4 −3,121 93
+March 28 2016,Ukraine,Wales,1 0,Friendly in Ukraine,+4 −4,1822 1664,0 0,16 44
+March 28 2016,Zimbabwe,Swaziland,4 0,African Nations Cup qualifier in Zimbabwe,+18 −18,1378 1246,+1 −7,115 149
+March 29 2016,Afghanistan,Singapore,2 1,World Cup  and  Asian Cup qualifier in Iran,+24 −24,1147 1165,+5 −6,171 169
+March 29 2016,Angola,Democratic Republic of Congo,0 2,African Nations Cup qualifier in Angola,−30 +30,1382 1547,−6 +6,112 74
+March 29 2016,Argentina,Bolivia,2 0,World Cup qualifier in Argentina,+3 −3,2049 1613,0 0,2 55
+March 29 2016,Australia,Jordan,5 1,World Cup  and  Asian Cup qualifier in Australia,+14 −14,1718 1531,+1 −2,39 75
+March 29 2016,Austria,Turkey,1 2,Friendly in Austria,−13 +13,1792 1824,0 +2,19 16
+March 29 2016,China,Qatar,2 0,World Cup  and  Asian Cup qualifier in China,+24 −24,1572 1548,+5 −6,67 73
+March 29 2016,Colombia,Ecuador,3 1,World Cup qualifier in Colombia,+17 −17,1979 1884,+2 −1,5 14
+March 29 2016,Costa Rica,Jamaica,3 0,World Cup qualifier in Costa Rica,+11 −11,1787 1578,+3 −2,21 64
+March 29 2016,Dominica,Martinique,1 4,CONCACAF Champ & Carib Champ q in Dominica,−7 +7,968 1452,−1 +1,192 99
+March 29 2016,Dominican Republic,Barbados,2 0,CONCACAF Champ & Carib Champ q in the Dominican Republic,+22 −22,1169 1135,+3 −5,167 174
+March 29 2016,Egypt,Nigeria,1 0,African Nations Cup qualifier in Egypt,+15 −15,1639 1615,+5 −2,48 52
+March 29 2016,England,Netherlands,1 2,Friendly in England,−15 +15,1960 1902,−4 +1,9 13
+March 29 2016,Estonia,Serbia,0 1,Friendly in Estonia,−7 +7,1495 1717,−1 −1,88 40
+March 29 2016,Ethiopia,Algeria,3 3,African Nations Cup qualifier in Ethiopia,+14 −14,1281 1657,+4 −5,137 47
+March 29 2016,France,Russia,4 2,Friendly in France,+5 −5,1970 1771,0 −1,6 25
+March 29 2016,French Guiana,Cuba,3 0,CONCACAF Champ & Carib Champ q in French Guiana,+33 −33,1301 1311,+8 −10,132 129
+March 29 2016,Gambia,Mauritania,0 0,African Nations Cup qualifier in The Gambia,−7 +7,1302 1280,−1 −2,131 138
+March 29 2016,Georgia,Kazakhstan,1 1,Friendly in Georgia,−5 +5,1475 1404,0 +1,91 108
+March 29 2016,Germany,Italy,4 1,Friendly in Germany,+6 −6,2060 1866,0 0,1 15
+March 29 2016,Gibraltar,Latvia,0 5,Friendly in Gibraltar,−8 +8,1111 1466,0 +2,177 95
+March 29 2016,Greece,Iceland,2 3,Friendly in Greece,−12 +12,1606 1673,−6 +2,60 43
+March 29 2016,Honduras,El Salvador,2 0,World Cup qualifier in Honduras,+18 −18,1526 1442,+8 −5,76 100
+March 29 2016,India,Turkmenistan,1 2,World Cup  and  Asian Cup qualifier in India,−15 +15,1066 1285,−1 +2,183 136
+March 29 2016,Iran,Oman,2 0,World Cup  and  Asian Cup qualifier in Iran,+7 −7,1735 1468,+1 −2,34 94
+March 29 2016,Iraq,Vietnam,1 0,World Cup  and  Asian Cup qualifier in Iran,+7 −7,1499 1209,+1 −1,87 159
+March 29 2016,Ireland,Slovakia,2 2,Friendly in Ireland,−4 +4,1774 1740,−1 0,24 33
+March 29 2016,Japan,Syria,5 0,World Cup  and  Asian Cup qualifier in Japan,+11 −11,1761 1516,+2 −3,28 79
+March 29 2016,Lebanon,Myanmar,1 1,World Cup  and  Asian Cup qualifier in Lebanon,−17 +17,1364 1045,−1 0,115 186
+March 29 2016,Lesotho,Seychelles,2 1,African Nations Cup qualifier in Lesotho,+8 −8,1145 988,+1 −3,172 190
+March 29 2016,Liberia,Djibouti,5 0,African Nations Cup qualifier in Liberia,+2 −2,1335 755,+1 −1,124 213
+March 29 2016,Luxembourg,Albania,0 2,Friendly in Luxembourg,−6 +6,1244 1611,−3 +2,150 56
+March 29 2016,Macedonia,Bulgaria,0 2,Friendly in Macedonia,−12 +12,1424 1614,−2 +6,103 53
+March 29 2016,Malawi,Guinea,1 2,African Nations Cup qualifier in Malawi,−14 +14,1315 1554,−2 +3,128 71
+March 29 2016,Malaysia,Macao,0 0,Friendly in Malaysia,−9 +9,1106 623,0 0,179 229
+March 29 2016,Maldives,Bhutan,4 2,World Cup  and  Asian Cup qualifier in the Maldives,+3 −3,964 550,+1 −1,193 236
+March 29 2016,Mexico,Canada,2 0,World Cup qualifier in Mexico,+3 −3,1921 1511,+1 +1,10 80
+March 29 2016,Montenegro,Belarus,0 0,Friendly in Montenegro,−2 +2,1561 1580,−1 +2,69 63
+March 29 2016,Morocco,Cape Verde,2 0,African Nations Cup qualifier in Morocco,+19 −19,1575 1500,+6 −8,65 86
+March 29 2016,Namibia,Burundi,1 3,African Nations Cup qualifier in Namibia,−43 +43,1334 1354,−9 +12,125 116
+March 29 2016,Niger,Senegal,1 2,African Nations Cup qualifier in Niger,−7 +7,1278 1658,−4 +1,139 46
+March 29 2016,Norway,Finland,2 0,Friendly in Norway,+9 −9,1634 1570,+2 −4,50 68
+March 29 2016,Palestine,East Timor,7 0,World Cup  and  Asian Cup qualifier in Palestine,+1 −1,1340 729,+1 0,122 216
+March 29 2016,Panama,Haiti,1 0,World Cup qualifier in Panama,+7 −7,1676 1501,+1 −1,42 85
+March 29 2016,Paraguay,Brazil,2 2,World Cup qualifier in Paraguay,+10 −10,1751 2018,0 0,31 3
+March 29 2016,Philippines,North Korea,3 2,World Cup  and  Asian Cup qualifier in the Philippines,+30 −30,1265 1502,+8 −9,143 84
+March 29 2016,Portugal,Belgium,2 1,Friendly in Portugal,+8 −8,1910 1920,0 −1,12 11
+March 29 2016,Puerto Rico,Guyana,0 1,CONCACAF Champ & Carib Champ q in Puerto Rico,−16 +16,1052 1251,−1 +3,185 148
+March 29 2016,Rwanda,Mauritius,5 0,African Nations Cup qualifier in Rwanda,+12 −12,1322 1105,+2 −2,127 180
+March 29 2016,Scotland,Denmark,1 0,Friendly in Scotland,+8 −8,1722 1725,0 −2,38 36
+March 29 2016,South Africa,Cameroon,0 0,African Nations Cup qualifier in South Africa,−5 +5,1585 1607,−1 +1,62 58
+March 29 2016,Saint Kitts and Nevis,Antigua and Barbuda,1 0,CONCACAF Champ & Carib Champ q in Saint Kitts and Nevis,+14 −14,1272 1233,+3 −5,141 153
+March 29 2016,Sudan,Ivory Coast,1 1,African Nations Cup qualifier in Sudan,+15 −15,1303 1723,+4 −5,130 37
+March 29 2016,Suriname,Guadeloupe,3 2,CONCACAF Champ & Carib Champ q in Suriname,+21 −21,1210 1286,+5 −4,158 135
+March 29 2016,Sweden,Czechia,1 1,Friendly in Sweden,−3 +3,1761 1755,0 −1,28 30
+March 29 2016,Switzerland,Bosnia and Herzegovina,0 2,Friendly in Switzerland,−22 +22,1779 1748,−3 +4,23 32
+March 29 2016,Tajikistan,Kyrgyzstan,0 1,World Cup  and  Asian Cup qualifier in Tajikistan,−28 +28,1198 1208,−7 +6,162 160
+March 29 2016,Togo,Tunisia,0 0,African Nations Cup qualifier in Togo,+4 −4,1399 1554,+2 −1,109 71
+March 29 2016,Trinidad and Tobago,St Vincent & Grenadines,6 0,World Cup qualifier in Trinidad and Tobago,+4 −4,1588 1141,+2 −2,61 173
+March 29 2016,United Arab Emirates,Saudi Arabia,1 1,World Cup  and  Asian Cup qualifier in the United Arab Emirates,−12 +12,1629 1525,−3 +6,51 77
+March 29 2016,Uganda,Burkina Faso,0 0,African Nations Cup qualifier in Uganda,−9 +9,1505 1460,−2 +3,83 96
+March 29 2016,Uruguay,Peru,1 0,World Cup qualifier in Uruguay,+7 −7,1964 1767,0 −1,8 27
+March 29 2016,United States,Guatemala,4 0,World Cup qualifier in the United States,+11 −11,1732 1508,+2 −3,35 81
+March 29 2016,US Virgin Islands,Grenada,1 2,CONCACAF Champ & Carib Champ q in the US Virgin Islands,−6 +6,735 1149,0 +2,215 170
+March 29 2016,Uzbekistan,Bahrain,1 0,World Cup  and  Asian Cup qualifier in Uzbekistan,+5 −5,1661 1425,+1 +1,45 101
+March 29 2016,Venezuela,Chile,1 4,World Cup qualifier in Venezuela,−15 +15,1611 1968,−5 +2,56 7
+April 27 2016,Martinique,Panama,0 2,Friendly in Martinique,−10 +10,1442 1686,0 0,99 42
+May 20 2016,Hungary,Ivory Coast,0 0,Friendly in Hungary,−2 +2,1699 1725,0 +1,41 36
+May 21 2016,Botswana,Lesotho,2 1,Friendly in Botswana,+4 −4,1304 1141,+3 0,130 172
+May 22 2016,England,Turkey,2 1,Friendly in England,+4 −4,1964 1820,+1 −1,8 17
+May 22 2016,Puerto Rico,United States,1 3,Friendly in Puerto Rico,−1 +1,1051 1733,0 0,185 35
+May 23 2016,Peru,Trinidad and Tobago,4 0,Friendly in Peru,+6 −6,1773 1582,+2 −1,25 62
+May 24 2016,Panama,Venezuela,0 0,Friendly in Panama,−5 +5,1681 1616,0 +4,42 52
+May 25 2016,Democratic Republic of Congo,Romania,1 1,Friendly in Italy,+6 −6,1553 1763,+1 0,73 27
+May 25 2016,Serbia,Cyprus,2 1,Friendly in Serbia,+2 −2,1719 1421,+1 0,39 105
+May 25 2016,United States,Ecuador,1 0,Friendly in the United States,+11 −11,1744 1873,+2 0,33 14
+May 26 2016,Andorra,Azerbaijan,0 0,Friendly in Austria,+9 −9,961 1399,0 −1,195 108
+May 27 2016,Argentina,Honduras,1 0,Friendly in Argentina,+1 −1,2050 1525,0 0,2 76
+May 27 2016,Chile,Jamaica,1 2,Friendly in Chile,−19 +19,1949 1597,−2 +3,9 61
+May 27 2016,Costa Rica,Venezuela,2 1,Friendly in Costa Rica,+3 −3,1790 1613,0 −4,21 56
+May 27 2016,Croatia,Moldova,1 0,Friendly in Croatia,+1 −1,1818 1353,0 −1,18 117
+May 27 2016,Czechia,Malta,6 0,Friendly in Austria,+2 −2,1757 1232,0 −1,30 153
+May 27 2016,England,Australia,2 1,Friendly in England,+2 −2,1966 1716,+1 0,7 40
+May 27 2016,Ireland,Netherlands,1 1,Friendly in Ireland,+1 −1,1775 1901,0 0,24 13
+May 27 2016,Lesotho,Swaziland,0 2,Friendly in Lesotho,−15 +15,1126 1261,−3 +5,175 144
+May 27 2016,Morocco,Congo,2 0,Friendly in Morocco,+8 −8,1583 1482,+2 −1,63 90
+May 27 2016,Nigeria,Mali,1 0,Friendly in France,+8 −8,1623 1552,+1 −3,52 73
+May 27 2016,Northern Ireland,Belarus,3 0,Friendly in Northern Ireland,+11 −11,1618 1569,+5 −5,53 68
+May 27 2016,Slovakia,Georgia,3 1,Friendly in Austria,+5 −5,1745 1470,+1 −2,33 93
+May 27 2016,Togo,Zambia,1 0,Friendly in Togo,+10 −10,1409 1498,+2 −6,106 87
+May 27 2016,Uruguay,Trinidad and Tobago,3 1,Friendly in Uruguay,+2 −2,1966 1580,+1 −2,7 64
+May 28 2016,Armenia,Guatemala,7 1,Friendly in the United States,+23 −23,1507 1485,+8 −8,81 89
+May 28 2016,Mauritania,Gabon,2 0,Friendly in Spain,+23 −23,1303 1451,+7 −7,131 98
+May 28 2016,Mexico,Paraguay,1 0,Friendly in the United States,+5 −5,1926 1746,−1 −2,11 33
+May 28 2016,Myanmar,Malaysia,0 0,Friendly in Myanmar,−1 +1,1044 1107,0 0,186 179
+May 28 2016,New Zealand,Fiji,3 1,World Cup qual  &  Oceania Cup in Papua New Guinea,+14 −14,1534 1256,+3 −5,75 147
+May 28 2016,Peru,El Salvador,3 1,Friendly in the United States,+4 −4,1777 1438,+2 −1,23 100
+May 28 2016,Rwanda,Senegal,0 2,Friendly in Rwanda,−6 +6,1316 1664,0 +2,127 44
+May 28 2016,Solomon Islands,Vanuatu,1 0,World Cup qual  &  Oceania Cup in Papua New Guinea,+27 −27,1193 1167,+4 −5,164 168
+May 28 2016,Switzerland,Belgium,1 2,Friendly in Switzerland,−9 +9,1770 1929,−3 +1,26 10
+May 28 2016,United States,Bolivia,4 0,Friendly in the United States,+8 −8,1752 1605,+3 −4,31 60
+May 29 2016,Albania,Qatar,3 1,Friendly in Austria,+12 −12,1623 1536,+5 0,52 74
+May 29 2016,Brazil,Panama,2 0,Friendly in the United States,+4 −4,2022 1677,0 0,3 42
+May 29 2016,Cambodia,East Timor,2 0,Friendly in Cambodia,+11 −11,734 718,+2 −2,216 218
+May 29 2016,Colombia,Haiti,3 1,Friendly in the United States,+2 −2,1981 1499,0 −1,5 85
+May 29 2016,Germany,Slovakia,1 3,Friendly in Germany,−27 +27,2033 1772,−1 +9,2 25
+May 29 2016,Italy,Scotland,1 0,Friendly in Malta,+6 −6,1872 1716,0 −1,15 39
+May 29 2016,Kenya,Tanzania,1 1,Friendly in Kenya,−2 +2,1322 1347,0 0,126 118
+May 29 2016,Laos,Nepal,1 1,Friendly in Laos,0 0,812 899,0 0,208 201
+May 29 2016,Lithuania,Estonia,2 0,Baltic Cup in Lithuania,+21 −21,1445 1474,+4 −2,99 90
+May 29 2016,Macedonia,Azerbaijan,3 1,Friendly in Austria,+14 −14,1438 1385,+2 −2,101 111
+May 29 2016,Papua New Guinea,New Caledonia,1 1,World Cup qual  &  Oceania Cup in Papua New Guinea,+12 −12,1073 1332,+1 −6,183 125
+May 29 2016,Portugal,Norway,3 0,Friendly in Portugal,+4 −4,1914 1630,0 0,12 50
+May 29 2016,Spain,Bosnia and Herzegovina,3 1,Friendly in Switzerland,+6 −6,2004 1742,0 −2,4 34
+May 29 2016,Tahiti,Samoa,4 0,World Cup qual  &  Oceania Cup in Papua New Guinea,+4 −4,1228 701,0 0,155 219
+May 29 2016,Turkey,Montenegro,1 0,Friendly in Turkey,+2 −2,1822 1559,0 0,17 69
+May 29 2016,Ukraine,Romania,4 3,Friendly in Italy,+8 −8,1830 1755,0 −4,16 31
+May 30 2016,France,Cameroon,3 2,Friendly in France,+1 −1,1971 1606,0 0,6 58
+May 30 2016,Gambia,Zambia,0 0,Friendly in The Gambia,+3 −3,1305 1495,+3 0,130 87
+May 30 2016,Sweden,Slovenia,0 0,Friendly in Sweden,−6 +6,1755 1620,−2 +1,30 54
+May 31 2016,Austria,Malta,2 1,Friendly in Austria,0 0,1792 1232,0 0,19 153
+May 31 2016,Fiji,Solomon Islands,1 0,World Cup qual  &  Oceania Cup in Papua New Guinea,+21 −21,1277 1172,+7 −1,140 165
+May 31 2016,Ireland,Belarus,1 2,Friendly in Ireland,−17 +17,1758 1586,−4 +6,28 62
+May 31 2016,Kenya,Sudan,1 1,Friendly in Kenya,−3 +3,1319 1306,0 +2,126 130
+May 31 2016,Luxembourg,Nigeria,1 3,Friendly in Luxembourg,−5 +5,1239 1628,−1 0,151 52
+May 31 2016,New Zealand,Vanuatu,5 0,World Cup qual  &  Oceania Cup in Papua New Guinea,+11 −11,1545 1156,+1 −1,74 169
+May 31 2016,Serbia,Israel,3 1,Friendly in Serbia,+6 −6,1725 1569,+2 −3,36 68
+May 31 2016,Vietnam,Syria,2 0,Friendly in Vietnam,+23 −23,1232 1493,+6 −7,153 86
+May 31 2016,Zimbabwe,Uganda,2 0,Friendly in Zimbabwe,+16 −16,1394 1489,+4 −5,110 87
+June 1 2016,Armenia,El Salvador,4 0,Friendly in the United States,+15 −15,1522 1423,+1 −3,79 104
+June 1 2016,Belgium,Finland,1 1,Friendly in Belgium,−9 +9,1920 1579,−1 +1,11 66
+June 1 2016,Curaçao,Guyana,5 2,CONCACAF Champ & Carib Champ q in Curaçao,+38 −38,1164 1213,+6 −9,169 158
+June 1 2016,Czechia,Russia,2 1,Friendly in Austria,+10 −10,1767 1761,+3 −2,26 27
+June 1 2016,Estonia,Andorra,2 0,Friendly in Estonia,+1 −1,1475 960,−1 0,91 195
+June 1 2016,French Guiana,Bermuda,0 1,CONCACAF Champ & Carib Champ q in French Guiana,−29 +29,1272 1260,−8 +9,142 146
+June 1 2016,Grenada,Puerto Rico,3 3,CONCACAF Champ & Carib Champ q in Grenada,−10 +10,1139 1061,−3 0,173 185
+June 1 2016,Guatemala,Venezuela,1 1,Friendly in the United States,+4 −4,1489 1609,+1 0,87 57
+June 1 2016,Latvia,Lithuania,2 1,Baltic Cup in Latvia,+10 −10,1476 1435,+4 −2,90 101
+June 1 2016,Martinique,Guadeloupe,2 0,CONCACAF Champ & Carib Champ q in Martinique,+11 −11,1453 1275,+2 −4,98 140
+June 1 2016,Mexico,Chile,1 0,Friendly in the United States,+11 −11,1937 1938,+1 0,10 9
+June 1 2016,New Caledonia,Samoa,7 0,World Cup qual  &  Oceania Cup in Papua New Guinea,+3 −3,1335 698,+2 −1,123 220
+June 1 2016,Norway,Iceland,3 2,Friendly in Norway,+8 −8,1638 1665,+1 0,49 43
+June 1 2016,Papua New Guinea,Tahiti,2 2,World Cup qual  &  Oceania Cup in Papua New Guinea,+4 −4,1077 1224,0 +1,183 155
+June 1 2016,Poland,Netherlands,1 2,Friendly in Poland,−10 +10,1775 1911,−1 0,23 13
+June 1 2016,Spain,South Korea,6 1,Friendly in Austria,+9 −9,2013 1783,0 −2,4 21
+June 1 2016,Saint Kitts and Nevis,Suriname,1 0,CONCACAF Champ & Carib Champ q in Saint Kitts and Nevis,+11 −11,1283 1199,+6 −2,136 161
+June 2 2016,England,Portugal,1 0,Friendly in England,+6 −6,1972 1908,+1 −1,6 13
+June 2 2016,Laos,India,0 1,Asian Cup qualifier in Laos,−12 +12,800 1078,0 +2,208 182
+June 2 2016,Macedonia,Iran,1 3,Friendly in Macedonia,−7 +7,1431 1742,−1 +1,101 34
+June 2 2016,Malaysia,East Timor,3 0,Asian Cup qualifier in Malaysia,+4 −4,1111 714,+2 0,177 218
+June 2 2016,Maldives,Yemen,0 2,Asian Cup qualifier in the Maldives,−21 +21,943 1193,−4 +1,197 164
+June 2 2016,Seychelles,Algeria,0 2,African Nations Cup qualifier in the Seychelles,−2 +2,986 1659,0 0,190 47
+June 2 2016,Somaliland,Chagos Islands,3 2,World Football Cup in Georgia,+10 −10,1002 798,+1 0,187 209
+June 2 2016,Taiwan,Cambodia,2 2,Asian Cup qualifier in Taiwan,−8 +8,783 742,0 +1,210 215
+June 2 2016,Tajikistan,Bangladesh,5 0,Asian Cup qualifier in Tajikistan,+7 −7,1205 886,+1 0,161 202
+June 3 2016,Azerbaijan,Canada,1 1,Friendly in Austria,+3 −3,1388 1508,0 0,112 80
+June 3 2016,Bosnia and Herzegovina,Denmark,2 2,Friendly tournament in Japan,−1 +1,1741 1726,0 0,34 36
+June 3 2016,China,Trinidad and Tobago,4 2,Friendly in China,+11 −11,1583 1569,+3 −2,64 67
+June 3 2016,Djibouti,Tunisia,0 3,African Nations Cup qualifier in Djibouti,−1 +1,754 1555,0 −1,213 71
+June 3 2016,Hong Kong,Vietnam,2 2,Friendly tournament in Myanmar,+1 −1,1216 1231,0 −1,157 154
+June 3 2016,Japan,Bulgaria,7 2,Friendly tournament in Japan,+12 −12,1773 1602,+3 −3,24 59
+June 3 2016,Jordan,United Arab Emirates,3 1,King's Cup in Thailand,+29 −29,1560 1600,+7 −9,69 60
+June 3 2016,Kosovo,Faroe Islands,2 0,Friendly in Germany,+9 −9,1400 1232,+2 −2,109 152
+June 3 2016,Libya,Morocco,1 1,African Nations Cup qualifier in Tunisia,+6 −6,1480 1577,+2 −2,90 66
+June 3 2016,Mauritania,Cameroon,0 1,African Nations Cup qualifier in Mauritania,−9 +9,1294 1615,0 +3,133 55
+June 3 2016,Myanmar,Singapore,0 1,Friendly tournament in Myanmar,−14 +14,1030 1179,0 +2,186 166
+June 3 2016,Romania,Georgia,5 1,Friendly in Romania,+4 −4,1759 1466,+1 −1,29 94
+June 3 2016,Switzerland,Moldova,2 1,Friendly in Switzerland,+1 −1,1771 1352,−1 0,26 117
+June 3 2016,Thailand,Syria,2 2,King's Cup in Thailand,−1 +1,1408 1494,−1 0,107 86
+June 3 2016,Ukraine,Albania,3 1,Friendly in Italy,+7 −7,1837 1616,0 −1,16 54
+June 3 2016,United States,Colombia,0 2,Copa América in the United States,−24 +24,1728 2005,−3 0,35 5
+June 4 2016,Australia,Greece,1 0,Friendly in Australia,+5 −5,1721 1601,0 −3,39 60
+June 4 2016,Austria,Netherlands,0 2,Friendly in Austria,−14 +14,1778 1925,−3 +1,22 11
+June 4 2016,Bermuda,Dominican Republic,0 1,CONCACAF Champ & Carib Champ q in Bermuda,−30 +30,1230 1199,−7 +5,153 163
+June 4 2016,Botswana,Uganda,1 2,African Nations Cup qualifier in Botswana,−15 +15,1289 1504,−1 +5,133 82
+June 4 2016,Brazil,Ecuador,0 0,Copa América in the United States,−10 +10,2012 1883,−1 0,4 14
+June 4 2016,Burundi,Senegal,0 2,African Nations Cup qualifier in Burundi,−14 +14,1340 1678,−5 +2,121 42
+June 4 2016,Costa Rica,Paraguay,0 0,Copa América in the United States,−3 +3,1787 1749,+1 0,19 32
+June 4 2016,Croatia,San Marino,10 0,Friendly in Croatia,0 0,1818 884,0 0,18 203
+June 4 2016,Estonia,Latvia,0 0,Baltic Cup in Estonia,−4 +4,1471 1480,+1 +2,91 89
+June 4 2016,France,Scotland,3 0,Friendly in France,+4 −4,1975 1712,+1 −1,6 40
+June 4 2016,Gambia,South Africa,0 4,African Nations Cup qualifier in The Gambia,−20 +20,1285 1605,−3 +6,134 57
+June 4 2016,Germany,Hungary,2 0,Friendly in Germany,+2 −2,2035 1697,0 0,2 41
+June 4 2016,Guadeloupe,Dominica,2 1,CONCACAF Champ & Carib Champ q in Guadeloupe,+4 −4,1279 964,+1 0,139 192
+June 4 2016,Guinea-Bissau,Zambia,3 2,African Nations Cup qualifier in Guinea-Bissau,+28 −28,1285 1467,+14 −8,134 93
+June 4 2016,Ivory Coast,Gabon,2 1,Friendly in Ivory Coast,+2 −2,1727 1449,+1 0,36 99
+June 4 2016,Namibia,Niger,1 0,African Nations Cup qualifier in Namibia,+12 −12,1346 1266,+6 −4,119 142
+June 4 2016,New Zealand,Solomon Islands,1 0,World Cup qual  &  Oceania Cup in Papua New Guinea,+5 −5,1550 1167,0 −2,75 169
+June 4 2016,Peru,Haiti,1 0,Copa América in the United States,+8 −8,1785 1491,+2 −3,20 86
+June 4 2016,Puerto Rico,Antigua and Barbuda,2 1,CONCACAF Champ & Carib Champ q in Puerto Rico,+24 −24,1085 1209,+3 −8,182 159
+June 4 2016,Rwanda,Mozambique,2 3,African Nations Cup qualifier in Rwanda,−24 +24,1292 1362,−4 +6,131 116
+June 4 2016,São Tomé and Príncipe,Cape Verde,1 2,African Nations Cup qualifier in São Tomé and Príncipe,−6 +6,1105 1506,−2 +1,179 81
+June 4 2016,Sierra Leone,Sudan,1 0,African Nations Cup qualifier in Sierra Leone,+13 −13,1355 1293,+2 0,117 130
+June 4 2016,Slovakia,Northern Ireland,0 0,Friendly in Slovakia,−6 +6,1766 1624,−2 +1,27 52
+June 4 2016,South Sudan,Mali,0 3,African Nations Cup qualifier in South Sudan,−10 +10,1125 1562,−2 +5,176 69
+June 4 2016,Suriname,St Vincent & Grenadines,2 1,CONCACAF Champ & Carib Champ q in Suriname,+11 −11,1210 1130,+4 −2,158 174
+June 4 2016,Tanzania,Egypt,0 2,African Nations Cup qualifier in Tanzania,−15 +15,1332 1654,−7 0,125 48
+June 4 2016,US Virgin Islands,Guyana,0 7,CONCACAF Champ & Carib Champ q in the US Virgin Islands,−9 +9,726 1222,0 +3,216 155
+June 4 2016,Vanuatu,Fiji,3 2,World Cup qual  &  Oceania Cup in Papua New Guinea,+33 −33,1189 1244,+4 −9,166 148
+June 5 2016,Belgium,Norway,3 2,Friendly in Belgium,+2 −2,1922 1636,0 −1,12 50
+June 5 2016,Central African Republic,Angola,3 1,African Nations Cup qualifier in Central African Republic,+31 −31,1304 1351,+12 −5,128 118
+June 5 2016,Comoros,Burkina Faso,0 1,African Nations Cup qualifier in the Comoros,−4 +4,966 1464,0 +1,191 94
+June 5 2016,Czechia,South Korea,1 2,Friendly in Czechia,−12 +12,1755 1795,−5 +2,31 19
+June 5 2016,Kenya,Congo,2 1,African Nations Cup qualifier in Kenya,+24 −24,1343 1458,+6 −8,120 96
+June 5 2016,Lesotho,Ethiopia,1 2,African Nations Cup qualifier in Lesotho,−17 +17,1109 1298,−3 +9,178 129
+June 5 2016,Liberia,Togo,2 2,African Nations Cup qualifier in Liberia,−1 +1,1334 1410,−1 −2,124 108
+June 5 2016,Madagascar,Democratic Republic of Congo,1 6,African Nations Cup qualifier in Madagascar,−20 +20,1240 1573,−2 +8,148 66
+June 5 2016,Mauritius,Ghana,0 2,African Nations Cup qualifier in Mauritius,−5 +5,1100 1643,−2 0,181 49
+June 5 2016,Mexico,Uruguay,3 1,Copa América in the United States,+41 −41,1978 1925,+4 −2,6 10
+June 5 2016,New Caledonia,Tahiti,1 1,World Cup qual  &  Oceania Cup in Papua New Guinea,−8 +8,1327 1232,−3 +4,126 150
+June 5 2016,Papua New Guinea,Samoa,8 0,World Cup qual  &  Oceania Cup in Papua New Guinea,+7 −7,1084 691,+2 −1,183 221
+June 5 2016,Russia,Serbia,1 1,Friendly in Monaco,−1 +1,1760 1726,0 +1,28 37
+June 5 2016,Slovenia,Turkey,0 1,Friendly in Slovenia,−7 +7,1613 1829,−3 0,56 17
+June 5 2016,Swaziland,Guinea,1 0,African Nations Cup qualifier in Swaziland,+30 −30,1291 1524,+10 −5,134 78
+June 5 2016,Sweden,Wales,3 0,Friendly in Sweden,+9 −9,1764 1655,+4 −2,27 47
+June 5 2016,Syria,United Arab Emirates,1 0,King's Cup in Thailand,+19 −19,1513 1581,+5 −2,80 63
+June 5 2016,Thailand,Jordan,2 0,King's Cup in Thailand,+26 −26,1434 1534,+6 −5,101 75
+June 5 2016,Venezuela,Jamaica,1 0,Copa América in the United States,+24 −24,1633 1573,+5 −4,51 66
+June 5 2016,Zimbabwe,Malawi,3 0,African Nations Cup qualifier in Zimbabwe,+18 −18,1412 1297,+4 −3,107 130
+June 6 2016,Argentina,Chile,2 1,Copa América in the United States,+17 −17,2067 1921,0 −3,1 12
+June 6 2016,Iceland,Liechtenstein,4 0,Friendly in Iceland,+1 −1,1666 1193,0 +1,44 163
+June 6 2016,Italy,Finland,2 0,Friendly in Italy,+3 −3,1875 1576,0 −1,15 65
+June 6 2016,Malaysia,East Timor,3 0,Asian Cup qualifier in Malaysia,+4 −4,1115 710,0 0,176 218
+June 6 2016,Myanmar,Hong Kong,3 0,Friendly tournament in Myanmar,+33 −33,1063 1183,0 −10,186 167
+June 6 2016,Panama,Bolivia,2 1,Copa América in the United States,+20 −20,1697 1585,+2 −4,41 61
+June 6 2016,Poland,Lithuania,0 0,Friendly in Poland,−9 +9,1766 1444,−2 0,25 100
+June 6 2016,Vietnam,Singapore,3 0,Friendly tournament in Myanmar,+22 −22,1253 1157,+6 −2,147 170
+June 7 2016,Antigua and Barbuda,Grenada,5 1,CONCACAF Champ & Carib Champ q in Antigua and Barbuda,+20 −20,1229 1119,+3 −2,155 174
+June 7 2016,Australia,Greece,1 2,Friendly in Australia,−16 +16,1705 1617,−1 +5,40 54
+June 7 2016,Bangladesh,Tajikistan,0 1,Asian Cup qualifier in Bangladesh,−9 +9,877 1214,−2 +2,204 159
+June 7 2016,Cambodia,Taiwan,2 0,Asian Cup qualifier in Cambodia,+25 −25,767 758,+5 −2,210 212
+June 7 2016,Canada,Uzbekistan,2 1,Friendly in Austria,+14 −14,1522 1647,+2 −3,79 48
+June 7 2016,China,Kazakhstan,0 1,Friendly in China,−17 +17,1566 1421,−7 +3,69 106
+June 7 2016,Colombia,Paraguay,2 1,Copa América in the United States,+9 −9,2014 1740,+2 −4,3 36
+June 7 2016,Curaçao,US Virgin Islands,7 0,CONCACAF Champ & Carib Champ q in Curaçao,+4 −4,1168 722,+1 −1,168 217
+June 7 2016,Denmark,Bulgaria,4 0,Friendly tournament in Japan,+18 −18,1744 1584,+3 −3,34 61
+June 7 2016,Dominica,Martinique,0 4,CONCACAF Champ & Carib Champ q in Dominica,−7 +7,957 1460,−2 +3,194 95
+June 7 2016,Dominican Republic,French Guiana,2 1,CONCACAF Champ & Carib Champ q in the Dominican Republic,+18 −18,1217 1254,+4 −4,158 146
+June 7 2016,India,Laos,6 1,Asian Cup qualifier in India,+8 −8,1086 792,+2 −1,182 209
+June 7 2016,Iran,Kyrgyzstan,6 0,Friendly in Iran,+1 −1,1743 1207,−2 −3,35 162
+June 7 2016,Japan,Bosnia and Herzegovina,1 2,Friendly tournament in Japan,−20 +20,1753 1761,−9 +7,32 27
+June 7 2016,Spain,Georgia,0 1,Friendly in Spain,−20 +20,1993 1486,−2 +5,5 88
+June 7 2016,St Vincent & Grenadines,Saint Kitts and Nevis,0 1,CONCACAF Champ & Carib Champ q in Saint Vincent and the Grenadines,−17 +17,1113 1300,−2 +11,176 129
+June 7 2016,United States,Costa Rica,4 0,Copa América in the United States,+41 −41,1769 1746,+12 −13,23 33
+June 7 2016,Yemen,Maldives,2 0,Asian Cup qualifier in Qatar,+12 −12,1205 931,0 0,163 197
+June 8 2016,Brazil,Haiti,7 1,Copa América in the United States,+5 −5,2017 1486,+1 −1,3 87
+June 8 2016,Ecuador,Peru,2 2,Copa América in the United States,−7 +7,1876 1792,0 0,14 20
+June 8 2016,Namibia,Malawi,0 0,Friendly in Namibia,−4 +4,1342 1301,−1 +2,120 129
+June 8 2016,New Zealand,New Caledonia,1 0,Oceania Nations Cup in Papua New Guinea,+11 −11,1561 1316,+2 0,71 126
+June 8 2016,Papua New Guinea,Solomon Islands,2 1,Oceania Nations Cup in Papua New Guinea,+24 −24,1108 1143,+5 −2,179 171
+June 8 2016,Portugal,Estonia,7 0,Friendly in Portugal,+2 −2,1910 1469,0 0,13 91
+June 9 2016,Mexico,Jamaica,2 0,Copa América in the United States,+7 −7,1985 1566,0 −3,6 68
+June 9 2016,Venezuela,Uruguay,1 0,Copa América in the United States,+42 −42,1675 1883,+7 −4,44 13
+June 10 2016,Argentina,Panama,5 0,Copa América in the United States,+11 −11,2078 1686,0 −1,1 42
+June 10 2016,Chile,Bolivia,2 1,Copa América in the United States,+6 −6,1927 1579,+2 −2,9 62
+June 10 2016,France,Romania,2 1,European Championship in France,+7 −7,1982 1752,0 −3,7 32
+June 11 2016,Costa Rica,Colombia,3 2,Copa América in the United States,+41 −41,1787 1973,+12 −3,21 7
+June 11 2016,England,Russia,1 1,European Championship in France,−14 +14,1958 1774,0 +3,8 25
+June 11 2016,Madagascar,Seychelles,1 0,COSAFA Cup in Namibia,+8 −8,1248 978,+1 0,148 190
+June 11 2016,Papua New Guinea,New Zealand,0 0,Oceania Nations Cup in Papua New Guinea,+19 −19,1127 1542,+6 −2,173 73
+June 11 2016,Swaziland,Zimbabwe,2 2,COSAFA Cup in Namibia,+7 −7,1298 1405,+4 −1,131 109
+June 11 2016,Switzerland,Albania,1 0,European Championship in France,+15 −15,1786 1601,0 −3,22 58
+June 11 2016,United States,Paraguay,1 0,Copa América in the United States,+16 −16,1785 1724,0 −2,23 38
+June 11 2016,Wales,Slovakia,2 1,European Championship in France,+33 −33,1688 1733,+5 −11,42 35
+June 12 2016,Benin,Equatorial Guinea,2 1,African Nations Cup qualifier in Benin,+12 −12,1409 1330,+2 −5,109 125
+June 12 2016,Croatia,Turkey,1 0,European Championship in France,+26 −26,1844 1803,+2 −2,16 19
+June 12 2016,Ecuador,Haiti,4 0,Copa América in the United States,+9 −9,1885 1477,+1 −3,13 90
+June 12 2016,Germany,Ukraine,2 0,European Championship in France,+18 −18,2053 1819,0 −2,2 18
+June 12 2016,Lesotho,Mauritius,3 0,COSAFA Cup in Namibia,+34 −34,1143 1066,+8 −3,171 185
+June 12 2016,Malawi,Angola,3 0,COSAFA Cup in Namibia,+40 −40,1341 1311,+9 −9,120 127
+June 12 2016,Peru,Brazil,1 0,Copa América in the United States,+39 −39,1831 1978,+3 −3,17 6
+June 12 2016,Poland,Northern Ireland,1 0,European Championship in France,+15 −15,1781 1609,+2 −3,24 56
+June 13 2016,Ireland,Sweden,1 1,European Championship in France,0 0,1758 1764,0 0,29 27
+June 13 2016,Italy,Belgium,2 0,European Championship in France,+43 −43,1918 1879,+4 −4,11 15
+June 13 2016,Madagascar,Zimbabwe,0 0,COSAFA Cup in Namibia,+8 −8,1256 1397,+3 −1,145 111
+June 13 2016,Mexico,Venezuela,1 1,Copa América in the United States,−18 +18,1967 1693,−3 +3,7 42
+June 13 2016,Spain,Czechia,1 0,European Championship in France,+10 −10,2003 1745,0 −2,3 32
+June 13 2016,Swaziland,Seychelles,4 0,COSAFA Cup in Namibia,+10 −10,1308 968,+2 0,129 190
+June 13 2016,Uruguay,Jamaica,3 0,Copa América in the United States,+12 −12,1895 1554,+1 −4,13 72
+June 14 2016,Argentina,Bolivia,3 0,Copa América in the United States,+5 −5,2083 1574,0 −2,1 64
+June 14 2016,Chile,Panama,4 2,Copa América in the United States,+15 −15,1942 1671,0 −2,9 46
+June 14 2016,Hungary,Austria,2 0,European Championship in France,+46 −46,1743 1732,+8 −11,33 36
+June 14 2016,Iceland,Portugal,1 1,European Championship in France,+15 −15,1681 1895,+2 0,44 12
+June 14 2016,Lesotho,Angola,2 0,COSAFA Cup in Namibia,+43 −43,1186 1268,+4 −14,167 141
+June 14 2016,Malawi,Mauritius,1 0,COSAFA Cup in Namibia,+7 −7,1348 1059,+2 −1,118 186
+June 15 2016,France,Albania,2 0,European Championship in France,+4 −4,1986 1597,0 0,4 58
+June 15 2016,Romania,Switzerland,1 1,European Championship in France,+2 −2,1754 1784,+1 −1,29 23
+June 15 2016,Slovakia,Russia,2 1,European Championship in France,+28 −28,1761 1746,+9 −6,26 31
+June 15 2016,Swaziland,Madagascar,1 0,COSAFA Cup in Namibia,+17 −17,1325 1239,+2 −4,126 149
+June 15 2016,Zimbabwe,Seychelles,5 0,COSAFA Cup in Namibia,+6 −6,1403 962,+1 −2,110 192
+June 16 2016,England,Wales,2 1,European Championship in France,+9 −9,1967 1679,+1 −1,7 44
+June 16 2016,Germany,Poland,0 0,European Championship in France,−16 +16,2037 1797,0 +4,2 20
+June 16 2016,Lesotho,Malawi,1 0,COSAFA Cup in Namibia,+29 −29,1215 1319,+8 −8,159 126
+June 16 2016,Mauritius,Angola,2 0,COSAFA Cup in Namibia,+46 −46,1105 1222,+6 −14,180 155
+June 16 2016,Northern Ireland,Ukraine,2 0,European Championship in France,+58 −58,1667 1761,+9 −7,47 25
+June 16 2016,United States,Ecuador,2 1,Copa América in the United States,+25 −25,1810 1860,+4 −1,18 15
+June 17 2016,Colombia,Peru,0 0,Copa América in the United States,−10 +10,1963 1841,−2 +1,8 16
+June 17 2016,Croatia,Czechia,2 2,European Championship in France,−7 +7,1837 1752,−1 +2,17 30
+June 17 2016,Italy,Sweden,1 0,European Championship in France,+15 −15,1933 1749,+1 −7,10 31
+June 17 2016,Papua New Guinea,Malaysia,2 0,Friendly in Papua New Guinea,+10 −10,1137 1105,+1 −2,173 179
+June 17 2016,Spain,Turkey,3 0,European Championship in France,+21 −21,2024 1782,0 −4,3 23
+June 18 2016,Argentina,Venezuela,4 1,Copa América in the United States,+8 −8,2091 1685,0 0,1 42
+June 18 2016,Austria,Portugal,0 0,European Championship in France,+11 −11,1743 1884,+3 −2,33 14
+June 18 2016,Belgium,Ireland,3 0,European Championship in France,+29 −29,1908 1729,+3 −9,11 36
+June 18 2016,Chile,Mexico,7 0,Copa América in the United States,+60 −60,2002 1907,+5 −6,4 12
+June 18 2016,Hungary,Iceland,1 1,European Championship in France,−4 +4,1739 1685,−1 +1,35 42
+June 18 2016,Lesotho,South Africa,1 1,COSAFA Cup in Namibia,+16 −16,1231 1589,+6 −1,153 58
+June 18 2016,Namibia,Botswana,1 1,COSAFA Cup in Namibia,−8 +8,1334 1297,−2 +4,121 132
+June 19 2016,Albania,Romania,1 0,European Championship in France,+36 −36,1633 1718,+4 −12,53 39
+June 19 2016,Democratic Republic of Congo,Mozambique,1 0,COSAFA Cup in Namibia,+9 −9,1582 1353,+4 −1,61 116
+June 19 2016,France,Switzerland,0 0,European Championship in France,−18 +18,1968 1802,−1 +3,6 19
+June 19 2016,French Guiana,Bermuda,3 0,CONCACAF Champ & Carib Champ q in French Guiana,+23 −23,1277 1207,+4 −8,141 162
+June 19 2016,Swaziland,Zambia,0 0,COSAFA Cup in Namibia,+8 −8,1333 1459,+2 −3,123 96
+June 20 2016,England,Slovakia,0 0,European Championship in France,−13 +13,1954 1774,−1 0,8 24
+June 20 2016,Wales,Russia,3 0,European Championship in France,+52 −52,1731 1694,+10 −12,34 42
+June 21 2016,Croatia,Spain,2 1,European Championship in France,+37 −37,1874 1987,+2 −1,15 4
+June 21 2016,Germany,Northern Ireland,1 0,European Championship in France,+5 −5,2042 1662,0 0,2 47
+June 21 2016,Namibia,Mozambique,3 0,COSAFA Cup in Namibia,+27 −27,1361 1326,+6 −9,115 125
+June 21 2016,Poland,Ukraine,1 0,European Championship in France,+22 −22,1819 1739,+2 −6,18 31
+June 21 2016,Turkey,Czechia,2 0,European Championship in France,+34 −34,1816 1718,+4 −10,19 38
+June 21 2016,United States,Argentina,0 4,Copa América in the United States,−24 +24,1786 2115,−5 0,23 1
+June 21 2016,Zambia,Lesotho,3 2,COSAFA Cup in Namibia,+8 −8,1467 1223,+3 −1,93 154
+June 22 2016,Belgium,Sweden,1 0,European Championship in France,+14 −14,1922 1735,+1 −5,10 32
+June 22 2016,Botswana,Democratic Republic of Congo,0 0,COSAFA Cup in Namibia,+14 −14,1311 1568,+5 −6,127 67
+June 22 2016,Chile,Colombia,2 0,Copa América in the United States,+33 −33,2035 1930,0 −1,3 8
+June 22 2016,Hungary,Portugal,3 3,European Championship in France,+10 −10,1749 1874,+3 0,28 14
+June 22 2016,Iceland,Austria,2 1,European Championship in France,+29 −29,1714 1714,+4 −10,39 39
+June 22 2016,Ireland,Italy,1 0,European Championship in France,+38 −38,1767 1895,+9 −3,25 12
+June 22 2016,New Caledonia,Malaysia,1 2,Friendly in New Caledonia,−17 +17,1299 1122,−4 +3,131 176
+June 22 2016,South Africa,Swaziland,5 1,COSAFA Cup in Namibia,+14 −14,1603 1319,0 −3,58 125
+June 24 2016,Namibia,Zambia,1 0,COSAFA Cup in Namibia,+20 −20,1381 1447,+1 −6,114 99
+June 25 2016,Poland,Switzerland,1 1,European Championship in France,−1 +1,1818 1803,0 0,18 20
+June 25 2016,Portugal,Croatia,1 0,European Championship in France,+25 −25,1899 1849,+2 −2,12 16
+June 25 2016,South Africa,Botswana,3 2,COSAFA Cup in Namibia,+6 −6,1609 1305,0 −1,58 128
+June 25 2016,Swaziland,Democratic Republic of Congo,1 0,COSAFA Cup in Namibia,+32 −32,1351 1536,+7 −6,118 73
+June 25 2016,United States,Colombia,0 1,Copa América in the United States,−22 +22,1764 1952,−2 0,25 8
+June 25 2016,Wales,Northern Ireland,1 0,European Championship in France,+20 −20,1751 1642,+5 −4,28 51
+June 26 2016,Argentina,Chile,0 0,Copa América in the United States,−6 +6,2109 2041,0 0,1 3
+June 26 2016,Belgium,Hungary,4 0,European Championship in France,+25 −25,1947 1724,+1 −6,9 35
+June 26 2016,Fiji,Malaysia,1 1,Friendly in Fiji,−6 +6,1238 1128,−2 +1,149 175
+June 26 2016,France,Ireland,2 1,European Championship in France,+8 −8,1976 1759,0 −1,6 25
+June 26 2016,Germany,Slovakia,3 0,European Championship in France,+15 −15,2057 1759,0 −2,2 25
+June 27 2016,Iceland,England,2 1,European Championship in France,+40 −40,1754 1914,+12 −4,27 11
+June 27 2016,Italy,Spain,2 0,European Championship in France,+47 −47,1942 1940,+5 −5,8 9
+June 30 2016,Macao,Mongolia,2 2,East Asian Championship qualifier in Guam,+3 −3,626 672,0 0,229 225
+June 30 2016,Poland,Portugal,1 1,European Championship in France,+6 −6,1824 1893,0 −1,18 14
+June 30 2016,Taiwan,Northern Mariana Islands,8 1,East Asian Championship qualifier in Guam,+14 −14,772 448,+2 0,210 240
+July 1 2016,Wales,Belgium,3 1,European Championship in France,+57 −57,1808 1890,+9 −7,20 14
+July 2 2016,Germany,Italy,1 1,European Championship in France,−8 +8,2049 1950,0 0,2 7
+July 2 2016,Macao,Northern Mariana Islands,3 1,East Asian Championship qualifier in Guam,+16 −16,642 432,+1 0,228 240
+July 2 2016,Taiwan,Mongolia,2 0,East Asian Championship qualifier in Guam,+22 −22,794 650,+1 −1,209 226
+July 3 2016,France,Iceland,5 2,European Championship in France,+12 −12,1988 1742,+1 −3,4 31
+July 4 2016,Mongolia,Northern Mariana Islands,8 0,East Asian Championship qualifier in Guam,+21 −21,671 411,+1 0,225 240
+July 4 2016,Taiwan,Macao,3 2,East Asian Championship qualifier in Guam,+12 −12,806 630,+1 −1,208 229
+July 6 2016,Portugal,Wales,2 0,European Championship in France,+29 −29,1922 1779,+3 −3,10 23
+July 7 2016,France,Germany,2 0,European Championship in France,+33 −33,2021 2016,+1 −2,3 4
+July 10 2016,France,Portugal,0 1,European Championship in France,−38 +38,1983 1960,−1 +4,4 6
+July 24 2016,Uzbekistan,Iraq,2 1,Friendly in Uzbekistan,+4 −4,1651 1495,0 0,49 85
+July 28 2016,Cambodia,Singapore,2 1,Friendly in Cambodia,+17 −17,784 1140,0 −2,211 172
+August 8 2016,Oman,Turkmenistan,1 0,Friendly in Oman,+3 −3,1471 1282,+1 −2,91 139
+August 8 2016,Qatar,Iraq,2 1,Friendly in Qatar,+6 −6,1542 1489,+1 0,72 85
+August 10 2016,Panama,Guatemala,0 0,Friendly in Panama,−7 +7,1664 1496,0 0,46 85
+August 13 2016,Bhutan,India,0 3,Friendly in Bhutan,−3 +3,547 1089,0 0,236 183
+August 16 2016,North Korea,Iraq,1 0,Friendly in Malaysia,+10 −10,1512 1479,+2 −3,82 89
+August 18 2016,Qatar,Jordan,3 2,Friendly in Switzerland,+10 −10,1552 1524,0 −2,72 77
+August 21 2016,Iraq,North Korea,1 1,Friendly in Malaysia,+1 −1,1480 1511,+2 0,87 82
+August 24 2016,Honduras,Nicaragua,1 0,Friendly in Honduras,+2 −2,1527 1259,−1 0,76 144
+August 24 2016,North Korea,United Arab Emirates,2 0,Friendly in China,+18 −18,1529 1563,+7 −6,75 67
+August 24 2016,Saudi Arabia,Laos,4 0,Friendly in Qatar,+1 −1,1526 791,−2 0,77 210
+August 24 2016,Uzbekistan,Burkina Faso,1 0,Friendly in Uzbekistan,+3 −3,1654 1461,+1 0,48 93
+August 25 2016,Qatar,Thailand,3 0,Friendly in Qatar,+8 −8,1560 1426,+3 −1,69 102
+August 27 2016,Tajikistan,Syria,0 0,Friendly in Tajikistan,+5 −5,1219 1508,+2 0,157 82
+August 28 2016,Dominican Republic,Puerto Rico,5 0,Friendly in the Dominican Republic,+8 −8,1225 1077,+5 −1,154 185
+August 30 2016,Egypt,Guinea,1 1,Friendly in Egypt,−6 +6,1648 1530,−1 +3,49 75
+August 30 2016,Kyrgyzstan,Kazakhstan,2 0,Friendly in Kyrgyzstan,+20 −20,1227 1401,+7 −4,155 110
+August 30 2016,Puerto Rico,Dominican Republic,0 1,Friendly in Puerto Rico,−9 +9,1068 1234,0 +4,185 150
+August 30 2016,Uganda,Kenya,0 0,Friendly in Uganda,−6 +6,1498 1349,0 0,84 119
+August 31 2016,Albania,Morocco,0 0,Friendly in Albania,−4 +4,1629 1581,+1 0,52 61
+August 31 2016,Czechia,Armenia,3 0,Friendly in Czechia,+5 −5,1723 1517,0 −1,38 81
+August 31 2016,Denmark,Liechtenstein,5 0,Friendly in Denmark,+1 −1,1745 1192,0 0,29 165
+August 31 2016,Estonia,Malta,1 1,Friendly in Estonia,−7 +7,1462 1239,0 +4,92 147
+August 31 2016,Germany,Finland,2 0,Friendly in Germany,+1 −1,2017 1575,0 0,3 62
+August 31 2016,Ireland,Oman,4 0,Friendly in Ireland,+4 −4,1763 1467,+1 0,25 91
+August 31 2016,Lebanon,Jordan,1 1,Friendly in Lebanon,+2 −2,1366 1522,0 0,115 79
+August 31 2016,Nicaragua,Saint Kitts and Nevis,0 0,Friendly in Nicaragua,−2 +2,1257 1302,0 0,144 130
+August 31 2016,Norway,Belarus,0 1,Friendly in Norway,−14 +14,1622 1600,−2 0,54 59
+August 31 2016,Turkey,Russia,0 0,Friendly in Turkey,−6 +6,1810 1700,0 0,19 43
+September 1 2016,Argentina,Uruguay,1 0,World Cup qualifier in Argentina,+6 −6,2115 1889,0 0,1 13
+September 1 2016,Australia,Iraq,2 0,World Cup qualifier in Australia,+8 −8,1713 1472,+1 −3,41 90
+September 1 2016,Bahrain,Singapore,3 1,Friendly in Bahrain,+3 −3,1428 1137,+1 0,102 172
+September 1 2016,Belgium,Spain,0 2,Friendly in Belgium,−17 +17,1873 1957,0 +1,14 8
+September 1 2016,Bolivia,Peru,2 0,World Cup qualifier in Bolivia,+43 −43,1617 1798,+7 −4,56 21
+September 1 2016,Colombia,Venezuela,2 0,World Cup qualifier in Colombia,+6 −6,1958 1679,0 0,7 44
+September 1 2016,Ecuador,Brazil,0 3,World Cup qualifier in Ecuador,−33 +33,1827 2011,−1 +2,16 3
+September 1 2016,Hong Kong,Cambodia,4 2,Friendly in Hong Kong,+2 −2,1185 782,0 0,168 211
+September 1 2016,Iran,Qatar,2 0,World Cup qualifier in Iran,+10 −10,1753 1550,+1 −3,29 72
+September 1 2016,Italy,France,1 3,Friendly in Italy,−18 +18,1932 2001,−1 −1,9 5
+September 1 2016,Japan,United Arab Emirates,1 2,World Cup qualifier in Japan,−34 +34,1719 1597,−10 +6,38 61
+September 1 2016,Maldives,Bangladesh,5 0,Friendly in the Maldives,+12 −12,943 865,0 −1,197 205
+September 1 2016,Netherlands,Greece,1 2,Friendly in the Netherlands,−18 +18,1907 1635,−1 +3,11 52
+September 1 2016,Paraguay,Chile,2 1,World Cup qualifier in Paraguay,+31 −31,1755 2010,+8 −2,28 4
+September 1 2016,Portugal,Gibraltar,5 0,Friendly in Portugal,0 0,1960 1111,0 0,6 179
+September 1 2016,Saudi Arabia,Thailand,1 0,World Cup qualifier in Saudi Arabia,+10 −10,1536 1416,+4 −4,74 106
+September 1 2016,South Korea,China,3 2,World Cup qualifier in South Korea,+5 −5,1800 1561,+1 −2,20 68
+September 1 2016,Uzbekistan,Syria,1 0,World Cup qualifier in Uzbekistan,+8 −8,1662 1500,+1 −1,47 83
+September 2 2016,El Salvador,Mexico,1 3,World Cup qualifier in El Salvador,−6 +6,1417 1913,−1 0,105 11
+September 2 2016,Haiti,Costa Rica,0 1,World Cup qualifier in Haiti,−9 +9,1468 1796,−1 0,90 22
+September 2 2016,Honduras,Canada,2 1,World Cup qualifier in Honduras,+14 −14,1541 1508,+5 −2,73 81
+September 2 2016,Latvia,Luxembourg,3 1,Friendly in Latvia,+4 −4,1484 1235,0 −3,87 150
+September 2 2016,Panama,Jamaica,2 0,World Cup qualifier in Panama,+14 −14,1678 1540,+1 −3,45 74
+September 2 2016,South Africa,Mauritania,1 1,African Nations Cup qualifier in South Africa,−17 +17,1592 1311,−2 +6,61 127
+September 2 2016,St Vincent & Grenadines,United States,0 6,World Cup qualifier in Saint Vincent and the Grenadines,−3 +3,1110 1767,−1 0,179 24
+September 2 2016,Sudan,Gabon,1 2,Friendly in Sudan,−8 +8,1285 1457,−2 +1,136 97
+September 2 2016,Trinidad and Tobago,Guatemala,2 2,World Cup qualifier in Trinidad and Tobago,−9 +9,1560 1505,−3 +2,68 83
+September 3 2016,Angola,Madagascar,1 1,African Nations Cup qualifier in Angola,−5 +5,1217 1244,−3 0,160 147
+September 3 2016,Cameroon,Gambia,2 0,African Nations Cup qualifier in Cameroon,+5 −5,1620 1280,+1 −3,56 139
+September 3 2016,Cape Verde,Libya,0 1,African Nations Cup qualifier in Cape Verde,−27 +27,1479 1507,−6 +6,88 82
+September 3 2016,Ethiopia,Seychelles,2 1,African Nations Cup qualifier in Ethiopia,+3 −3,1301 959,0 −1,133 193
+September 3 2016,Ghana,Rwanda,1 1,African Nations Cup qualifier in Ghana,−17 +17,1626 1309,−4 +5,54 129
+September 3 2016,India,Puerto Rico,4 1,Friendly in India,+12 −12,1101 1056,+1 −1,182 186
+September 3 2016,Ivory Coast,Sierra Leone,1 1,African Nations Cup qualifier in Ivory Coast,−18 +18,1709 1373,−8 +1,42 115
+September 3 2016,Mozambique,Mauritius,1 0,African Nations Cup qualifier in Mozambique,+5 −5,1331 1100,+2 −3,123 183
+September 3 2016,Nigeria,Tanzania,1 0,African Nations Cup qualifier in Nigeria,+4 −4,1632 1328,+2 −2,52 125
+September 3 2016,Senegal,Namibia,2 0,African Nations Cup qualifier in Senegal,+6 −6,1684 1375,+1 0,44 114
+September 4 2016,Algeria,Lesotho,6 0,African Nations Cup qualifier in Algeria,+4 −4,1663 1219,+1 −1,47 157
+September 4 2016,Bahrain,Jordan,0 0,Friendly in Bahrain,0 0,1428 1522,0 0,102 79
+September 4 2016,Burkina Faso,Botswana,2 1,African Nations Cup qualifier in Burkina Faso,+7 −7,1468 1298,+3 −3,90 133
+September 4 2016,Congo,Guinea-Bissau,1 0,African Nations Cup qualifier in Congo,+7 −7,1465 1278,+3 −5,93 141
+September 4 2016,Czechia,Northern Ireland,0 0,World Cup qualifier in Czechia,−10 +10,1713 1652,−3 +1,39 49
+September 4 2016,Denmark,Armenia,1 0,World Cup qualifier in Denmark,+5 −5,1750 1512,+1 0,29 80
+September 4 2016,Democratic Republic of Congo,Central African Republic,4 1,African Nations Cup qualifier in the Dem Rep of the Congo,+9 −9,1545 1295,+3 −3,72 134
+September 4 2016,Equatorial Guinea,South Sudan,4 0,African Nations Cup qualifier in Equatorial Guinea,+11 −11,1341 1114,+5 −1,119 177
+September 4 2016,Guinea,Zimbabwe,1 0,African Nations Cup qualifier in Guinea,+9 −9,1539 1394,+1 −2,76 111
+September 4 2016,Kazakhstan,Poland,2 2,World Cup qualifier in Kazakhstan,+15 −15,1416 1809,+4 −1,106 18
+September 4 2016,Lithuania,Slovenia,2 2,World Cup qualifier in Lithuania,+4 −4,1448 1609,+1 0,99 58
+September 4 2016,Malawi,Swaziland,1 0,African Nations Cup qualifier in Malawi,+16 −16,1335 1335,+5 −3,121 121
+September 4 2016,Mali,Benin,5 2,African Nations Cup qualifier in Mali,+13 −13,1575 1396,+2 −2,64 110
+September 4 2016,Malta,Scotland,1 5,World Cup qualifier in Malta,−8 +8,1231 1720,−5 +5,153 36
+September 4 2016,Morocco,São Tomé and Príncipe,2 0,African Nations Cup qualifier in Morocco,+2 −2,1583 1103,0 0,63 180
+September 4 2016,Niger,Burundi,3 1,African Nations Cup qualifier in Niger,+28 −28,1294 1312,+7 −6,135 126
+September 4 2016,Norway,Germany,0 3,World Cup qualifier in Norway,−11 +11,1611 2028,−2 0,57 2
+September 4 2016,Romania,Montenegro,1 1,World Cup qualifier in Romania,−13 +13,1705 1572,−4 +3,42 66
+September 4 2016,San Marino,Azerbaijan,0 1,World Cup qualifier in San Marino,−4 +4,880 1392,0 0,202 112
+September 4 2016,Slovakia,England,0 1,World Cup qualifier in Slovakia,−17 +17,1742 1931,−3 0,30 10
+September 4 2016,Togo,Djibouti,5 0,African Nations Cup qualifier in Togo,+1 −1,1411 753,−1 0,108 214
+September 4 2016,Tunisia,Liberia,4 1,African Nations Cup qualifier in Tunisia,+10 −10,1565 1324,+2 −3,68 125
+September 4 2016,Uganda,Comoros,1 0,African Nations Cup qualifier in Uganda,+1 −1,1499 965,0 0,85 190
+September 4 2016,Zambia,Kenya,1 1,African Nations Cup qualifier in Zambia,−10 +10,1437 1359,−1 +2,100 117
+September 5 2016,Croatia,Turkey,1 1,World Cup qualifier in Croatia,−8 +8,1841 1818,0 0,15 17
+September 5 2016,Finland,Kosovo,1 1,World Cup qualifier in Finland,−13 +13,1562 1413,−3 +1,67 108
+September 5 2016,Georgia,Austria,1 2,World Cup qualifier in Georgia,−13 +13,1473 1727,−2 +4,88 34
+September 5 2016,Israel,Italy,1 3,World Cup qualifier in Israel,−11 +11,1558 1943,−3 0,70 9
+September 5 2016,Lebanon,Afghanistan,2 0,Friendly in Lebanon,+4 −4,1370 1143,0 0,116 170
+September 5 2016,Serbia,Ireland,2 2,World Cup qualifier in Serbia,−4 +4,1722 1767,−2 +1,36 24
+September 5 2016,Spain,Liechtenstein,8 0,World Cup qualifier in Spain,+1 −1,1958 1191,+1 0,7 165
+September 5 2016,Ukraine,Iceland,1 1,World Cup qualifier in Ukraine,−5 +5,1734 1747,−1 0,33 30
+September 5 2016,Wales,Moldova,4 0,World Cup qualifier in Wales,+3 −3,1782 1349,0 0,23 118
+September 6 2016,Albania,Macedonia,2 1,World Cup qualifier in Albania,+6 −6,1635 1425,+2 −1,51 102
+September 6 2016,Andorra,Latvia,0 1,World Cup qualifier in Andorra,−3 +3,957 1487,−1 −1,193 87
+September 6 2016,Bangladesh,Bhutan,0 0,Asian Cup qualifier in Bangladesh,−17 +17,848 564,−1 +3,206 233
+September 6 2016,Belarus,France,0 0,World Cup qualifier in Belarus,+14 −14,1614 1987,+2 0,57 5
+September 6 2016,Bosnia and Herzegovina,Estonia,5 0,World Cup qualifier in Bosnia and Herzegovina,+7 −7,1768 1455,+1 −3,25 97
+September 6 2016,Brazil,Colombia,2 1,World Cup qualifier in Brazil,+12 −12,2023 1946,0 0,3 7
+September 6 2016,Bulgaria,Luxembourg,4 3,World Cup qualifier in Bulgaria,+3 −3,1587 1232,+1 −2,61 151
+September 6 2016,Cameroon,Gabon,2 1,Friendly in Cameroon,+4 −4,1624 1453,0 −1,55 98
+September 6 2016,Canada,El Salvador,3 1,World Cup qualifier in Canada,+15 −15,1523 1402,+3 −3,78 108
+September 6 2016,Chile,Bolivia,0 0,World Cup qualifier in Chile,−18 +18,1992 1635,0 +5,4 51
+September 6 2016,China,Iran,0 0,World Cup qualifier in China,+5 −5,1566 1748,+2 0,66 28
+September 6 2016,Costa Rica,Panama,3 1,World Cup qualifier in Costa Rica,+13 −13,1809 1665,+2 −1,20 47
+September 6 2016,Cyprus,Belgium,0 3,World Cup qualifier in Cyprus,−8 +8,1413 1881,−1 0,105 14
+September 6 2016,Faroe Islands,Hungary,0 0,World Cup qualifier in the Faroe Islands,+16 −16,1248 1708,+4 −6,147 41
+September 6 2016,Gibraltar,Greece,1 4,World Cup qualifier in Portugal,−3 +3,1108 1638,0 +1,178 50
+September 6 2016,Guatemala,St Vincent & Grenadines,9 3,World Cup qualifier in Guatemala,+5 −5,1510 1105,0 0,83 179
+September 6 2016,Indonesia,Malaysia,3 0,Friendly in Indonesia,+9 −9,1217 1119,+3 0,159 175
+September 6 2016,Iraq,Saudi Arabia,1 2,World Cup qualifier in Malaysia,−16 +16,1456 1552,−6 +6,95 71
+September 6 2016,Jamaica,Haiti,0 2,World Cup qualifier in Jamaica,−44 +44,1496 1512,−11 +9,86 81
+September 6 2016,Kyrgyzstan,Philippines,1 2,Friendly in Kyrgyzstan,−12 +12,1215 1277,−6 +1,161 142
+September 6 2016,Maldives,Laos,4 0,Asian Cup qualifier in the Maldives,+14 −14,957 777,+4 −1,193 211
+September 6 2016,Mexico,Honduras,0 0,World Cup qualifier in Mexico,−18 +18,1895 1559,−2 +5,13 69
+September 6 2016,Palestine,Tajikistan,1 1,Friendly in Palestine,−6 +6,1334 1225,−2 +2,122 155
+September 6 2016,Peru,Ecuador,2 1,World Cup qualifier in Peru,+16 −16,1814 1811,+3 −3,18 19
+September 6 2016,Qatar,Uzbekistan,0 1,World Cup qualifier in Qatar,−19 +19,1531 1681,−5 +2,76 46
+September 6 2016,Russia,Ghana,1 0,Friendly in Russia,+5 −5,1705 1621,+1 −2,42 56
+September 6 2016,South Africa,Egypt,1 0,Friendly tournament in South Africa,+13 −13,1605 1635,+1 −1,60 51
+September 6 2016,Sweden,Netherlands,1 1,World Cup qualifier in Sweden,+4 −4,1739 1903,0 0,32 12
+September 6 2016,Switzerland,Portugal,2 0,World Cup qualifier in Switzerland,+35 −35,1838 1925,+3 −4,16 10
+September 6 2016,Syria,South Korea,0 0,World Cup qualifier in Malaysia,+14 −14,1514 1786,+4 −2,80 22
+September 6 2016,Thailand,Japan,0 2,World Cup qualifier in Thailand,−14 +14,1402 1733,−2 +4,108 34
+September 6 2016,United Arab Emirates,Australia,0 1,World Cup qualifier in the United Arab Emirates,−19 +19,1578 1732,−3 +4,63 35
+September 6 2016,Uruguay,Paraguay,4 0,World Cup qualifier in Uruguay,+15 −15,1904 1740,+2 −4,11 31
+September 6 2016,United States,Trinidad and Tobago,4 0,World Cup qualifier in the United States,+11 −11,1778 1549,0 −3,24 72
+September 6 2016,Venezuela,Argentina,2 2,World Cup qualifier in Venezuela,+15 −15,1694 2100,+1 0,44 1
+September 29 2016,Qatar,Serbia,3 0,Friendly in Qatar,+22 −22,1553 1700,+5 −6,71 43
+September 30 2016,Botswana,Angola,1 1,Friendly in Botswana,−5 +5,1293 1222,−2 +3,135 156
+October 4 2016,Democratic Republic of Congo,Kenya,0 1,Friendly in the Dem Rep of the Congo,−17 +17,1528 1376,−3 +3,77 114
+October 4 2016,Togo,Uganda,1 0,Friendly in Togo,+10 −10,1421 1489,+3 −1,104 86
+October 5 2016,Curaçao,Antigua and Barbuda,3 0,CONCACAF Champ & Carib Champ q in Curaçao,+31 −31,1199 1198,+5 −11,164 165
+October 5 2016,Solomon Islands,New Caledonia,0 3,Friendly in the Solomon Islands,−15 +15,1128 1314,−4 +6,174 126
+October 5 2016,Tajikistan,Palestine,3 3,Friendly in Tajikistan,0 0,1225 1334,+1 0,154 122
+October 5 2016,Trinidad and Tobago,Dominican Republic,4 0,CONCACAF Champ & Carib Champ q in Trinidad and Tobago,+6 −6,1555 1228,+2 −3,71 153
+October 6 2016,Austria,Wales,2 2,World Cup qualifier in Austria,−3 +3,1724 1785,0 0,36 23
+October 6 2016,Brazil,Bolivia,5 0,World Cup qualifier in Brazil,+5 −5,2028 1630,+1 −3,2 54
+October 6 2016,Cambodia,Hong Kong,0 2,Friendly in Cambodia,−4 +4,778 1189,0 +3,210 166
+October 6 2016,Canada,Mauritania,4 0,Friendly in Morocco,+9 −9,1532 1302,+1 −2,77 130
+October 6 2016,China,Syria,0 1,World Cup qualifier in China,−28 +28,1538 1542,−10 +7,76 73
+October 6 2016,Croatia,Kosovo,6 0,World Cup qualifier in Albania,+7 −7,1848 1406,−1 −1,16 107
+October 6 2016,Ecuador,Chile,3 0,World Cup qualifier in Ecuador,+43 −43,1854 1949,+4 −3,15 7
+October 6 2016,Iceland,Finland,3 2,World Cup qualifier in Iceland,+6 −6,1753 1556,+1 −2,28 70
+October 6 2016,Ireland,Georgia,1 0,World Cup qualifier in Ireland,+4 −4,1771 1469,+1 0,25 89
+October 6 2016,Italy,Spain,1 1,World Cup qualifier in Italy,−5 +5,1938 1963,0 +1,8 5
+October 6 2016,Japan,Iraq,2 1,World Cup qualifier in Japan,+4 −4,1737 1452,+1 −3,33 98
+October 6 2016,Kyrgyzstan,Lebanon,0 0,Friendly in Kyrgyzstan,+2 −2,1217 1368,+1 0,159 117
+October 6 2016,Liechtenstein,Albania,0 2,World Cup qualifier in Liechtenstein,−7 +7,1184 1642,−3 +1,169 50
+October 6 2016,Macedonia,Israel,1 2,World Cup qualifier in Macedonia,−18 +18,1407 1576,−4 +6,106 64
+October 6 2016,Moldova,Serbia,0 3,World Cup qualifier in Moldova,−13 +13,1336 1713,−1 +5,119 38
+October 6 2016,Paraguay,Colombia,0 1,World Cup qualifier in Paraguay,−14 +14,1726 1960,−4 +1,35 6
+October 6 2016,Peru,Argentina,2 2,World Cup qualifier in Peru,+10 −10,1824 2090,0 0,18 1
+October 6 2016,Saudi Arabia,Australia,2 2,World Cup qualifier in Saudi Arabia,+5 −5,1557 1727,+4 +1,69 34
+October 6 2016,South Korea,Qatar,3 2,World Cup qualifier in South Korea,+5 −5,1791 1548,0 0,22 72
+October 6 2016,Turkey,Ukraine,2 2,World Cup qualifier in Turkey,−10 +10,1808 1744,−4 +3,21 30
+October 6 2016,United Arab Emirates,Thailand,3 1,World Cup qualifier in the United Arab Emirates,+10 −10,1588 1392,+2 −3,61 111
+October 6 2016,Uruguay,Venezuela,3 0,World Cup qualifier in Uruguay,+10 −10,1914 1684,0 0,11 44
+October 6 2016,Uzbekistan,Iran,0 1,World Cup qualifier in Uzbekistan,−22 +22,1659 1770,−2 +2,48 26
+October 6 2016,Vietnam,North Korea,5 2,Friendly in Vietnam,+26 −26,1279 1503,+6 −8,140 84
+October 7 2016,Belgium,Bosnia and Herzegovina,4 0,World Cup qualifier in Belgium,+17 −17,1898 1751,+1 −1,13 28
+October 7 2016,Cuba,United States,0 2,Friendly in Cuba,−3 +3,1308 1781,−1 0,129 24
+October 7 2016,Estonia,Gibraltar,4 0,World Cup qualifier in Estonia,+5 −5,1460 1103,+4 −1,92 179
+October 7 2016,France,Bulgaria,4 1,World Cup qualifier in France,+4 −4,1991 1583,0 0,4 62
+October 7 2016,Ghana,Uganda,0 0,World Cup qualifier in Ghana,−12 +12,1609 1501,−1 +1,57 85
+October 7 2016,Greece,Cyprus,2 0,World Cup qualifier in Greece,+8 −8,1646 1405,+1 −2,50 107
+October 7 2016,Hungary,Switzerland,2 3,World Cup qualifier in Hungary,−18 +18,1690 1856,−2 +2,43 15
+October 7 2016,Latvia,Faroe Islands,0 2,World Cup qualifier in Latvia,−53 +53,1434 1301,−14 +15,101 132
+October 7 2016,Luxembourg,Sweden,0 1,World Cup qualifier in Luxembourg,−4 +4,1228 1743,−2 +1,152 31
+October 7 2016,Netherlands,Belarus,4 1,World Cup qualifier in the Netherlands,+7 −7,1910 1607,0 −2,12 59
+October 7 2016,Oman,Jordan,1 1,Friendly in Oman,−1 +1,1466 1523,+1 0,90 79
+October 7 2016,Philippines,Bahrain,1 3,Friendly in the Philippines,−13 +13,1264 1441,−2 +2,145 99
+October 7 2016,Portugal,Andorra,6 0,World Cup qualifier in Portugal,0 0,1925 957,0 0,10 193
+October 7 2016,Singapore,Malaysia,0 0,Friendly in Singapore,−3 +3,1134 1122,−2 0,173 175
+October 8 2016,Antigua and Barbuda,Puerto Rico,2 0,CONCACAF Champ & Carib Champ q in Antigua and Barbuda,+12 −12,1210 1044,+4 0,161 186
+October 8 2016,Armenia,Romania,0 5,World Cup qualifier in Armenia,−30 +30,1482 1735,−5 +8,85 33
+October 8 2016,Azerbaijan,Norway,1 0,World Cup qualifier in Azerbaijan,+27 −27,1419 1584,+7 −6,104 62
+October 8 2016,Belize,Honduras,1 2,Friendly in Belize,−3 +3,1184 1562,0 0,168 68
+October 8 2016,Burkina Faso,South Africa,1 1,World Cup qualifier in Burkina Faso,+2 −2,1470 1603,+1 +1,88 59
+October 8 2016,Dominican Republic,Martinique,1 2,CONCACAF Champ & Carib Champ q in the Dominican Republic,−13 +13,1215 1473,−8 +5,160 87
+October 8 2016,Democratic Republic of Congo,Libya,4 0,World Cup qualifier in the Dem Rep of the Congo,+25 −25,1553 1482,+6 −2,72 85
+October 8 2016,England,Malta,2 0,World Cup qualifier in England,+1 −1,1932 1230,0 0,9 151
+October 8 2016,French Guiana,Saint Kitts and Nevis,1 0,CONCACAF Champ & Carib Champ q in French Guiana,+16 −16,1293 1286,+9 −8,135 138
+October 8 2016,Gabon,Morocco,0 0,World Cup qualifier in Gabon,+2 −2,1455 1581,−1 −2,97 64
+October 8 2016,Germany,Czechia,3 0,World Cup qualifier in Germany,+6 −6,2034 1707,0 −2,2 40
+October 8 2016,Ivory Coast,Mali,3 1,World Cup qualifier in Ivory Coast,+12 −12,1721 1563,+3 −2,37 67
+October 8 2016,Mexico,New Zealand,2 1,Friendly in the United States,+2 −2,1897 1540,0 −2,14 75
+October 8 2016,Montenegro,Kazakhstan,5 0,World Cup qualifier in Montenegro,+15 −15,1587 1401,+5 −5,61 109
+October 8 2016,Northern Ireland,San Marino,4 0,World Cup qualifier in Northern Ireland,0 0,1652 880,0 0,49 202
+October 8 2016,Poland,Denmark,3 2,World Cup qualifier in Poland,+11 −11,1820 1739,0 −2,19 31
+October 8 2016,Scotland,Lithuania,1 1,World Cup qualifier in Scotland,−16 +16,1704 1464,−5 +5,42 93
+October 8 2016,Senegal,Cape Verde,2 0,World Cup qualifier in Senegal,+9 −9,1693 1470,+1 −1,43 88
+October 8 2016,Slovenia,Slovakia,1 0,World Cup qualifier in Slovenia,+22 −22,1631 1720,+3 −6,54 38
+October 8 2016,Solomon Islands,New Caledonia,0 1,Friendly in the Solomon Islands,−8 +8,1120 1322,−1 0,175 126
+October 8 2016,Suriname,Guyana,3 2,CONCACAF Champ & Carib Champ q in Suriname,+15 −15,1225 1207,+8 −7,153 162
+October 8 2016,Taiwan,East Timor,2 1,Asian Cup qualifier in Taiwan,+10 −10,816 700,0 −1,208 219
+October 9 2016,Albania,Spain,0 2,World Cup qualifier in Albania,−13 +13,1629 1976,−5 0,56 5
+October 9 2016,Algeria,Cameroon,1 1,World Cup qualifier in Algeria,−8 +8,1655 1632,−1 +3,48 53
+October 9 2016,Cambodia,Sri Lanka,4 0,Friendly in Cambodia,+12 −12,790 741,0 −1,210 215
+October 9 2016,Congo,Egypt,1 2,World Cup qualifier in Congo,−16 +16,1449 1651,−6 +2,98 50
+October 9 2016,Finland,Croatia,0 1,World Cup qualifier in Finland,−10 +10,1546 1858,−3 +2,73 15
+October 9 2016,Iceland,Turkey,2 0,World Cup qualifier in Iceland,+26 −26,1779 1782,+3 −1,24 22
+October 9 2016,Indonesia,Vietnam,2 2,Friendly in Indonesia,−1 +1,1216 1280,−1 +1,159 141
+October 9 2016,Israel,Liechtenstein,2 1,World Cup qualifier in Israel,+2 −2,1578 1182,−1 −1,66 169
+October 9 2016,Macedonia,Italy,2 3,World Cup qualifier in Macedonia,−3 +3,1404 1941,−1 0,106 8
+October 9 2016,Moldova,Ireland,1 3,World Cup qualifier in Moldova,−8 +8,1328 1779,−3 +1,122 24
+October 9 2016,Russia,Costa Rica,3 4,Friendly in Russia,−10 +10,1695 1819,−1 0,42 20
+October 9 2016,Serbia,Austria,3 2,World Cup qualifier in Serbia,+15 −15,1728 1709,+5 −3,34 39
+October 9 2016,Togo,Mozambique,2 0,Friendly in Togo,+8 −8,1429 1323,+2 −2,101 125
+October 9 2016,Tunisia,Guinea,2 0,World Cup qualifier in Tunisia,+20 −20,1585 1519,+4 −3,62 79
+October 9 2016,Ukraine,Kosovo,3 0,World Cup qualifier in Poland,+9 −9,1753 1397,+1 −3,28 109
+October 9 2016,Wales,Georgia,1 1,World Cup qualifier in Wales,−17 +17,1768 1486,−4 +5,27 85
+October 9 2016,Zambia,Nigeria,1 2,World Cup qualifier in Zambia,−15 +15,1422 1647,−3 +2,103 51
+October 10 2016,Andorra,Switzerland,1 2,World Cup qualifier in Andorra,0 0,957 1856,0 0,193 16
+October 10 2016,Belarus,Luxembourg,1 1,World Cup qualifier in Belarus,−18 +18,1589 1246,−1 +4,59 148
+October 10 2016,Belgium,Gibraltar,6 0,World Cup qualifier in Portugal,+1 −1,1899 1102,+1 −2,12 181
+October 10 2016,Bhutan,Bangladesh,3 1,Asian Cup qualifier in Bhutan,+45 −45,609 803,+3 −2,230 208
+October 10 2016,Bosnia and Herzegovina,Cyprus,2 0,World Cup qualifier in Bosnia and Herzegovina,+4 −4,1755 1401,0 −2,29 107
+October 10 2016,Estonia,Greece,0 2,World Cup qualifier in Estonia,−23 +23,1437 1669,−6 +6,99 46
+October 10 2016,Faroe Islands,Portugal,0 6,World Cup qualifier in the Faroe Islands,−4 +4,1297 1929,−1 0,132 10
+October 10 2016,Latvia,Hungary,0 2,World Cup qualifier in Latvia,−17 +17,1417 1707,−4 +4,104 40
+October 10 2016,Morocco,Jordan,2 1,Friendly in Morocco,+6 −6,1587 1517,+4 −1,61 79
+October 10 2016,Netherlands,France,0 1,World Cup qualifier in the Netherlands,−21 +21,1889 2012,−2 0,14 4
+October 10 2016,Philippines,North Korea,1 3,Friendly in the Philippines,−9 +9,1255 1512,−1 +2,146 80
+October 10 2016,Sweden,Bulgaria,3 0,World Cup qualifier in Sweden,+13 −13,1756 1570,+2 −2,28 66
+October 11 2016,Argentina,Paraguay,0 1,World Cup qualifier in Argentina,−37 +37,2053 1763,0 +8,1 28
+October 11 2016,Australia,Japan,1 1,World Cup qualifier in Australia,−5 +5,1722 1742,−1 −1,36 33
+October 11 2016,Bolivia,Ecuador,2 2,World Cup qualifier in Bolivia,+7 −7,1637 1847,+1 0,54 17
+October 11 2016,Chile,Peru,2 1,World Cup qualifier in Chile,+9 −9,1958 1815,+1 −2,6 20
+October 11 2016,Colombia,Uruguay,2 2,World Cup qualifier in Colombia,−8 +8,1952 1922,−1 +1,7 10
+October 11 2016,Czechia,Azerbaijan,0 0,World Cup qualifier in Czechia,−16 +16,1691 1435,−3 +3,43 100
+October 11 2016,Denmark,Montenegro,0 1,World Cup qualifier in Denmark,−32 +32,1707 1619,−8 +4,39 57
+October 11 2016,Germany,Northern Ireland,2 0,World Cup qualifier in Germany,+4 −4,2038 1648,−1 −1,3 51
+October 11 2016,Guyana,Jamaica,2 4,CONCACAF Champ & Carib Champ q in Guyana,−15 +15,1192 1511,−4 +2,166 82
+October 11 2016,Hong Kong,Singapore,2 0,Friendly in Hong Kong,+9 −9,1198 1125,+1 0,165 173
+October 11 2016,Iran,South Korea,1 0,World Cup qualifier in Iran,+16 −16,1786 1775,+5 −4,21 25
+October 11 2016,Iraq,Thailand,4 0,World Cup qualifier in Iran,+31 −31,1483 1361,+9 −5,87 117
+October 11 2016,Kazakhstan,Romania,0 0,World Cup qualifier in Kazakhstan,+12 −12,1413 1723,+2 −2,105 35
+October 11 2016,Kyrgyzstan,Turkmenistan,1 0,Friendly in Kyrgyzstan,+9 −9,1226 1273,+6 −4,152 144
+October 11 2016,Laos,Maldives,1 1,Asian Cup qualifier in Laos,+5 −5,782 952,0 −2,211 195
+October 11 2016,Lebanon,Equatorial Guinea,1 1,Friendly in Lebanon,−4 +4,1364 1345,+1 0,116 118
+October 11 2016,Lithuania,Malta,2 0,World Cup qualifier in Lithuania,+8 −8,1472 1222,+2 −4,90 156
+October 11 2016,Malaysia,Afghanistan,1 1,Friendly in Malaysia,−2 +2,1120 1145,0 0,174 170
+October 11 2016,Martinique,Trinidad and Tobago,2 0,CONCACAF Champ & Carib Champ q in Martinique,+28 −28,1501 1527,+4 −5,84 75
+October 11 2016,Mexico,Panama,1 0,Friendly in the United States,+4 −4,1901 1661,+1 −1,12 48
+October 11 2016,Morocco,Canada,4 0,Friendly in Morocco,+11 −11,1598 1521,+1 0,60 77
+October 11 2016,Norway,San Marino,4 1,World Cup qualifier in Norway,+1 −1,1585 879,+2 −1,62 203
+October 11 2016,Oman,Bahrain,2 2,Friendly in Oman,−3 +3,1463 1444,−2 0,93 98
+October 11 2016,Poland,Armenia,2 1,World Cup qualifier in Poland,+3 −3,1823 1479,+1 −3,18 89
+October 11 2016,Puerto Rico,Curaçao,2 4,CONCACAF Champ & Carib Champ q in Puerto Rico,−25 +25,1019 1224,0 +10,186 155
+October 11 2016,Qatar,Syria,1 0,World Cup qualifier in Qatar,+14 −14,1562 1528,+4 0,68 74
+October 11 2016,Saudi Arabia,United Arab Emirates,3 0,World Cup qualifier in Saudi Arabia,+28 −28,1585 1560,+7 −10,62 70
+October 11 2016,Slovakia,Scotland,3 0,World Cup qualifier in Slovakia,+24 −24,1744 1680,+6 −2,32 44
+October 11 2016,Slovenia,England,0 0,World Cup qualifier in Slovenia,+10 −10,1641 1922,+1 −1,53 10
+October 11 2016,South Africa,Ghana,1 1,Friendly in South Africa,−3 +3,1600 1612,−1 −1,59 58
+October 11 2016,Taiwan,East Timor,2 1,Asian Cup qualifier in Taiwan,+9 −9,825 691,0 −1,207 220
+October 11 2016,United States,New Zealand,1 1,Friendly in the United States,−8 +8,1773 1548,−3 +3,26 72
+October 11 2016,Uzbekistan,China,2 0,World Cup qualifier in Uzbekistan,+13 −13,1672 1525,+3 0,45 76
+October 11 2016,Venezuela,Brazil,0 2,World Cup qualifier in Venezuela,−12 +12,1672 2040,0 +1,45 2
+October 15 2016,Brunei,East Timor,2 1,Southeast Asian Championship qual in Cambodia,+25 −25,628 666,+2 −6,230 226
+October 15 2016,Cambodia,Laos,2 1,Southeast Asian Championship qual in Cambodia,+14 −14,804 768,+2 0,208 211
+October 18 2016,Cambodia,Brunei,3 0,Southeast Asian Championship qual in Cambodia,+12 −12,816 616,0 0,208 230
+October 18 2016,Laos,East Timor,2 1,Southeast Asian Championship qual in Cambodia,+14 −14,782 652,0 0,211 226
+October 21 2016,Cambodia,East Timor,3 2,Southeast Asian Championship qual in Cambodia,+7 −7,823 645,0 0,208 226
+October 21 2016,Laos,Brunei,4 3,Southeast Asian Championship qual in Cambodia,+11 −11,793 605,0 −1,211 231
+November 2 2016,Brunei,East Timor,4 0,Asian Solidarity Cup in Malaysia,+42 −42,647 603,+5 −6,226 232
+November 2 2016,Honduras,Belize,5 0,Friendly in Honduras,+2 −2,1564 1182,+1 0,67 168
+November 3 2016,Laos,Sri Lanka,2 1,Asian Solidarity Cup in Malaysia,+17 −17,810 724,+2 −1,209 216
+November 3 2016,Macao,Mongolia,2 1,Asian Solidarity Cup in Malaysia,+22 −22,652 649,+4 −2,225 226
+November 4 2016,Myanmar,Indonesia,0 0,Friendly in Myanmar,+2 −2,1065 1214,0 −1,185 161
+November 5 2016,East Timor,Nepal,0 0,Asian Solidarity Cup in Malaysia,+14 −14,617 885,+2 0,230 201
+November 5 2016,Zimbabwe,Zambia,1 0,Friendly in Zimbabwe,+8 −8,1402 1414,+4 −1,107 104
+November 6 2016,Hong Kong,Guam,3 2,East Asian Championship qualifier in Hong Kong,+3 −3,1201 868,0 0,165 204
+November 6 2016,Jordan,Iraq,0 0,Friendly in Jordan,−4 +4,1513 1487,0 +1,79 86
+November 6 2016,Macao,Laos,4 1,Asian Solidarity Cup in Malaysia,+50 −50,702 760,+8 −3,217 212
+November 6 2016,Mongolia,Sri Lanka,2 0,Asian Solidarity Cup in Malaysia,+36 −36,685 688,+2 −5,224 221
+November 6 2016,North Korea,Taiwan,2 0,East Asian Championship qualifier in Hong Kong,+1 −1,1513 824,+1 0,79 207
+November 7 2016,Tahiti,Solomon Islands,1 0,World Cup qualifier in Tahiti,+9 −9,1241 1111,+1 −3,150 177
+November 8 2016,Nepal,Brunei,3 0,Asian Solidarity Cup in Malaysia,+14 −14,899 633,0 −1,201 228
+November 8 2016,Uganda,Zambia,0 1,Friendly in Uganda,−15 +15,1486 1429,−2 +3,86 101
+November 8 2016,Vietnam,Indonesia,3 2,Friendly in Vietnam,+6 −6,1286 1208,+2 −1,138 162
+November 9 2016,Greece,Belarus,0 1,Friendly in Greece,−15 +15,1654 1604,−2 +2,49 59
+November 9 2016,Haiti,French Guiana,2 5,CONCACAF Champ & Carib Champ q in Haiti,−60 +60,1452 1353,−15 +17,96 118
+November 9 2016,Hong Kong,Taiwan,4 2,East Asian Championship qualifier in Hong Kong,+4 −4,1205 820,+1 −1,164 208
+November 9 2016,Laos,Mongolia,3 0,Asian Solidarity Cup in Malaysia,+28 −28,788 657,+1 −2,211 226
+November 9 2016,Macao,Sri Lanka,1 1,Asian Solidarity Cup in Malaysia,−1 +1,701 689,0 0,217 221
+November 9 2016,Netherlands,Belgium,1 1,Friendly in the Netherlands,−3 +3,1886 1902,0 +1,14 12
+November 9 2016,North Korea,Guam,2 0,East Asian Championship qualifier in Hong Kong,+1 −1,1514 867,0 0,79 204
+November 9 2016,Philippines,Kyrgyzstan,1 0,Friendly in the Philippines,+6 −6,1261 1220,+2 −5,144 157
+November 9 2016,Syria,Singapore,2 0,Friendly in Malaysia,+3 −3,1531 1122,0 0,74 173
+November 9 2016,Tajikistan,Turkmenistan,3 0,Friendly in Tajikistan,+15 −15,1240 1258,+2 −1,151 145
+November 9 2016,United Arab Emirates,Bahrain,2 0,Friendly in the United Arab Emirates,+7 −7,1567 1437,+3 0,67 98
+November 10 2016,Brazil,Argentina,3 0,World Cup qualifier in Brazil,+26 −26,2066 2027,+1 −2,1 3
+November 10 2016,Colombia,Chile,0 0,World Cup qualifier in Colombia,−5 +5,1947 1963,0 0,7 6
+November 10 2016,Iran,Papua New Guinea,8 1,Friendly in Malaysia,+1 −1,1787 1136,0 0,21 171
+November 10 2016,Lebanon,Palestine,1 1,Friendly in Lebanon,−4 +4,1360 1338,−1 +2,117 120
+November 10 2016,Paraguay,Peru,1 4,World Cup qualifier in Paraguay,−40 +40,1723 1855,−6 +3,34 17
+November 10 2016,Qatar,Russia,2 1,Friendly in Qatar,+11 −11,1573 1684,+4 −3,66 44
+November 10 2016,Uruguay,Ecuador,2 1,World Cup qualifier in Uruguay,+11 −11,1933 1836,+1 −1,9 18
+November 10 2016,Uzbekistan,Jordan,1 0,Friendly in Uzbekistan,+4 −4,1676 1509,−1 −2,46 82
+November 10 2016,Venezuela,Bolivia,5 0,World Cup qualifier in Venezuela,+25 −25,1697 1612,+4 −3,41 57
+November 11 2016,Armenia,Montenegro,3 2,World Cup qualifier in Armenia,+22 −22,1501 1597,+5 −6,83 62
+November 11 2016,Comoros,Togo,2 2,Friendly in Tunisia,+9 −9,974 1420,0 −2,190 103
+November 11 2016,Czechia,Norway,2 1,World Cup qualifier in Czechia,+9 −9,1700 1576,+3 −3,40 65
+November 11 2016,Denmark,Kazakhstan,4 1,World Cup qualifier in Denmark,+7 −7,1714 1406,+2 0,37 105
+November 11 2016,England,Scotland,3 0,World Cup qualifier in England,+9 −9,1931 1671,+1 −2,10 47
+November 11 2016,France,Sweden,2 1,World Cup qualifier in France,+5 −5,2017 1751,0 −3,4 31
+November 11 2016,Honduras,Panama,0 1,World Cup qualifier in Honduras,−20 +20,1544 1681,−4 +2,73 45
+November 11 2016,Japan,Oman,4 0,Friendly in Japan,+4 −4,1746 1459,0 −1,32 93
+November 11 2016,Malta,Slovenia,0 1,World Cup qualifier in Malta,−5 +5,1217 1646,−4 0,159 53
+November 11 2016,Northern Ireland,Azerbaijan,4 0,World Cup qualifier in Northern Ireland,+11 −11,1659 1424,+3 −2,48 102
+November 11 2016,Romania,Poland,0 3,World Cup qualifier in Romania,−35 +35,1688 1858,−9 +4,43 15
+November 11 2016,San Marino,Germany,0 8,World Cup qualifier in San Marino,0 0,879 2038,0 0,203 2
+November 11 2016,Slovakia,Lithuania,4 0,World Cup qualifier in Slovakia,+8 −8,1752 1464,+1 −2,30 91
+November 11 2016,South Korea,Canada,2 0,Friendly in South Korea,+3 −3,1778 1518,0 0,25 77
+November 11 2016,Trinidad and Tobago,Costa Rica,0 2,World Cup qualifier in Trinidad and Tobago,−15 +15,1512 1834,−4 0,79 20
+November 11 2016,Tunisia,Libya,1 0,World Cup qualifier in Algeria,+14 −14,1599 1468,+2 −3,60 90
+November 11 2016,United States,Mexico,1 2,World Cup qualifier in the United States,−18 +18,1755 1919,−1 +1,27 12
+November 12 2016,Albania,Israel,0 3,World Cup qualifier in Albania,−49 +49,1580 1627,−9 +10,64 54
+November 12 2016,Austria,Ireland,0 1,World Cup qualifier in Austria,−22 +22,1687 1801,−4 +2,42 21
+November 12 2016,Brunei,Macao,1 1,Asian Solidarity Cup in Malaysia,+4 −4,637 697,0 −1,228 218
+November 12 2016,Cameroon,Zambia,1 1,World Cup qualifier in Cameroon,−14 +14,1618 1443,−2 +4,56 96
+November 12 2016,Cape Verde,Burkina Faso,0 2,World Cup qualifier in Cape Verde,−38 +38,1432 1508,−12 +5,100 83
+November 12 2016,Croatia,Iceland,2 0,World Cup qualifier in Croatia,+16 −16,1874 1763,0 −2,15 25
+November 12 2016,Georgia,Moldova,1 1,World Cup qualifier in Georgia,−13 +13,1473 1341,−2 +3,88 120
+November 12 2016,Hong Kong,North Korea,0 1,East Asian Championship qualifier in Hong Kong,−9 +9,1196 1523,−1 +2,165 76
+November 12 2016,Kenya,Mozambique,1 0,Friendly in Kenya,+6 −6,1382 1317,+1 0,112 126
+November 12 2016,Laos,Nepal,2 2,Asian Solidarity Cup in Malaysia,+6 −6,794 893,0 0,211 201
+November 12 2016,Liechtenstein,Italy,0 4,World Cup qualifier in Liechtenstein,−2 +2,1180 1943,−1 0,169 8
+November 12 2016,Mali,Gabon,0 0,World Cup qualifier in Mali,−11 +11,1552 1466,−2 +5,71 90
+November 12 2016,Morocco,Ivory Coast,0 0,World Cup qualifier in Morocco,+1 −1,1599 1720,+1 0,60 36
+November 12 2016,New Zealand,New Caledonia,2 0,World Cup qualifier in New Zealand,+8 −8,1556 1314,+2 0,69 127
+November 12 2016,Nigeria,Algeria,3 1,World Cup qualifier in Nigeria,+22 −22,1669 1633,+4 −4,48 53
+November 12 2016,South Africa,Senegal,2 1,World Cup qualifier in South Africa,+20 −20,1620 1673,+4 −4,55 46
+November 12 2016,Spain,Macedonia,4 0,World Cup qualifier in Spain,+2 −2,1978 1402,0 0,5 106
+November 12 2016,Taiwan,Guam,2 0,East Asian Championship qualifier in Hong Kong,+34 −34,854 833,+3 −3,205 207
+November 12 2016,Turkey,Kosovo,2 0,World Cup qualifier in Turkey,+3 −3,1785 1394,−1 −1,23 111
+November 12 2016,Uganda,Congo,1 0,World Cup qualifier in Uganda,+12 −12,1498 1437,0 0,86 97
+November 12 2016,Ukraine,Finland,1 0,World Cup qualifier in Ukraine,+6 −6,1759 1540,+2 −1,27 73
+November 12 2016,Wales,Serbia,1 1,World Cup qualifier in Wales,−8 +8,1760 1736,0 0,26 33
+November 13 2016,Belgium,Estonia,8 1,World Cup qualifier in Belgium,+3 −3,1905 1434,0 −2,13 99
+November 13 2016,Bulgaria,Belarus,1 0,World Cup qualifier in Bulgaria,+16 −16,1586 1588,+4 −3,63 62
+November 13 2016,Cyprus,Gibraltar,3 1,World Cup qualifier in Cyprus,+5 −5,1406 1097,+3 −2,106 183
+November 13 2016,Egypt,Ghana,2 0,World Cup qualifier in Egypt,+19 −19,1670 1593,+3 −4,48 61
+November 13 2016,Greece,Bosnia and Herzegovina,1 1,World Cup qualifier in Greece,0 0,1654 1755,−1 0,51 28
+November 13 2016,Guinea,Democratic Republic of Congo,1 2,World Cup qualifier in Guinea,−24 +24,1495 1577,−9 +4,86 66
+November 13 2016,Hungary,Andorra,4 0,World Cup qualifier in Hungary,+1 −1,1708 956,0 −1,38 194
+November 13 2016,Jamaica,Suriname,1 0,CONCACAF Champ & Carib Champ q in Jamaica,+4 −4,1515 1221,+2 −1,78 154
+November 13 2016,Luxembourg,Netherlands,1 3,World Cup qualifier in Luxembourg,−3 +3,1243 1889,−2 0,150 14
+November 13 2016,Portugal,Latvia,4 1,World Cup qualifier in Portugal,+2 −2,1931 1415,+1 0,10 104
+November 13 2016,Singapore,Cambodia,1 0,Friendly in Singapore,+2 −2,1124 821,−1 0,174 208
+November 13 2016,Solomon Islands,Tahiti,1 0,World Cup qualifier in the Solomon Islands,+22 −22,1133 1219,+4 −6,173 156
+November 13 2016,Saint Kitts and Nevis,Haiti,0 2,CONCACAF Champ & Carib Champ q in Saint Kitts and Nevis,−24 +24,1262 1476,−5 +7,143 88
+November 13 2016,Switzerland,Faroe Islands,2 0,World Cup qualifier in Switzerland,+1 −1,1857 1296,0 0,17 133
+November 13 2016,Tajikistan,Afghanistan,1 0,Friendly in Tajikistan,+5 −5,1245 1140,+3 0,148 170
+November 13 2016,Zimbabwe,Tanzania,3 0,Friendly in Zimbabwe,+9 −9,1411 1319,+1 −1,105 125
+November 14 2016,Laos,Brunei,3 2,Asian Solidarity Cup in Malaysia,+12 −12,806 625,+2 −1,209 229
+November 14 2016,Malaysia,Papua New Guinea,2 1,Friendly in Malaysia,+8 −8,1128 1128,+2 −2,173 173
+November 14 2016,Myanmar,Oman,0 3,Friendly in Myanmar,−5 +5,1060 1464,0 +2,185 92
+November 14 2016,Poland,Slovenia,1 1,Friendly in Poland,−7 +7,1851 1653,−2 0,18 52
+November 15 2016,Argentina,Colombia,3 0,World Cup qualifier in Argentina,+18 −18,2045 1929,+1 −2,2 9
+November 15 2016,Austria,Slovakia,0 0,Friendly in Austria,−1 +1,1686 1753,0 0,42 30
+November 15 2016,Bahrain,Kyrgyzstan,0 0,Friendly in Bahrain,−7 +7,1430 1227,−3 +3,100 152
+November 15 2016,Bolivia,Paraguay,1 0,World Cup qualifier in Bolivia,+21 −21,1633 1702,+4 −3,53 37
+November 15 2016,Chile,Uruguay,3 1,World Cup qualifier in Chile,+19 −19,1982 1914,+1 −2,5 11
+November 15 2016,China,Qatar,0 0,World Cup qualifier in China,−3 +3,1522 1576,−1 0,76 68
+November 15 2016,Comoros,Gabon,1 1,Friendly in Tunisia,+9 −9,983 1457,0 −3,190 94
+November 15 2016,Costa Rica,United States,4 0,World Cup qualifier in Costa Rica,+20 −20,1854 1735,+3 −4,17 32
+November 15 2016,Czechia,Denmark,1 1,Friendly in Czechia,−2 +2,1698 1716,+1 +2,38 35
+November 15 2016,Ecuador,Venezuela,3 0,World Cup qualifier in Ecuador,+14 −14,1850 1683,0 −3,19 43
+November 15 2016,England,Spain,2 2,Friendly in England,−2 +2,1929 1980,+1 −1,9 6
+November 15 2016,France,Ivory Coast,0 0,Friendly in France,−8 +8,2009 1728,0 +3,4 33
+November 15 2016,Honduras,Trinidad and Tobago,3 1,World Cup qualifier in Honduras,+19 −19,1563 1493,+2 −7,70 86
+November 15 2016,Hungary,Sweden,0 2,Friendly in Hungary,−17 +17,1691 1768,−1 +5,39 26
+November 15 2016,Italy,Germany,0 0,Friendly in Italy,0 0,1943 2038,+1 −1,7 3
+November 15 2016,Japan,Saudi Arabia,2 1,World Cup qualifier in Japan,+7 −7,1753 1578,+2 −2,30 66
+November 15 2016,Jordan,Lebanon,0 0,Friendly in Jordan,−6 +6,1503 1366,0 0,81 117
+November 15 2016,Kenya,Liberia,1 0,Friendly in Kenya,+6 −6,1388 1318,0 −3,112 127
+November 15 2016,Malta,Iceland,0 2,Friendly in Malta,−2 +2,1215 1765,0 −2,159 27
+November 15 2016,Morocco,Togo,2 1,Friendly in Morocco,+3 −3,1602 1417,0 0,58 103
+November 15 2016,Mozambique,South Africa,1 1,Friendly in Mozambique,+5 −5,1322 1615,+2 −2,124 57
+November 15 2016,Nepal,Macao,1 0,Asian Solidarity Cup in Malaysia,+10 −10,903 687,0 −3,201 221
+November 15 2016,New Caledonia,New Zealand,0 0,World Cup qualifier in New Caledonia,+8 −8,1322 1548,+3 −2,124 72
+November 15 2016,Northern Ireland,Croatia,0 3,Friendly in Northern Ireland,−12 +12,1647 1886,−2 0,52 15
+November 15 2016,Panama,Mexico,0 0,World Cup qualifier in Panama,+8 −8,1689 1911,+3 0,41 12
+November 15 2016,Peru,Brazil,0 2,World Cup qualifier in Peru,−21 +21,1834 2087,−3 0,20 1
+November 15 2016,Russia,Romania,1 0,Friendly in Russia,+7 −7,1691 1681,+4 −3,39 44
+November 15 2016,South Korea,Uzbekistan,2 1,World Cup qualifier in South Korea,+10 −10,1788 1666,+2 −4,22 49
+November 15 2016,Syria,Iran,0 0,World Cup qualifier in Malaysia,+13 −13,1544 1774,+1 −2,73 24
+November 15 2016,Thailand,Australia,2 2,World Cup qualifier in Thailand,+13 −13,1374 1709,+1 −1,115 36
+November 15 2016,Tunisia,Mauritania,0 0,Friendly in Tunisia,−8 +8,1591 1310,−3 +2,61 129
+November 15 2016,United Arab Emirates,Iraq,2 0,World Cup qualifier in the United Arab Emirates,+16 −16,1583 1471,+5 −2,64 89
+November 15 2016,Ukraine,Serbia,2 0,Friendly in Ukraine,+10 −10,1769 1726,+2 −1,25 34
+November 19 2016,Philippines,Singapore,0 0,Southeast Asian Championship in the Philippines,−12 +12,1249 1136,−3 +4,147 171
+November 19 2016,Saint Kitts and Nevis,Estonia,1 1,Friendly in Saint Kitts and Nevis,+2 −2,1264 1432,0 0,143 98
+November 19 2016,Thailand,Indonesia,4 2,Southeast Asian Championship in the Philippines,+17 −17,1391 1191,+3 −4,112 166
+November 20 2016,Malaysia,Cambodia,3 2,Southeast Asian Championship in Myanmar,+6 −6,1134 815,+1 0,173 208
+November 20 2016,Myanmar,Vietnam,1 2,Southeast Asian Championship in Myanmar,−13 +13,1047 1299,0 +5,185 133
+November 22 2016,Antigua and Barbuda,Estonia,0 1,Friendly in Antigua and Barbuda,−7 +7,1203 1439,−2 +1,163 97
+November 22 2016,Philippines,Indonesia,2 2,Southeast Asian Championship in the Philippines,−9 +9,1240 1200,−3 +2,150 164
+November 22 2016,Thailand,Singapore,1 0,Southeast Asian Championship in the Philippines,+7 −7,1398 1129,+2 −3,110 174
+November 23 2016,Myanmar,Cambodia,3 1,Southeast Asian Championship in Myanmar,+8 −8,1055 807,0 0,185 208
+November 23 2016,Vietnam,Malaysia,1 0,Southeast Asian Championship in Myanmar,+11 −11,1310 1123,+4 −3,129 175
+November 25 2016,Indonesia,Singapore,2 1,Southeast Asian Championship in the Philippines,+16 −16,1216 1113,+5 −4,159 177
+November 25 2016,Philippines,Thailand,0 1,Southeast Asian Championship in the Philippines,−17 +17,1223 1415,−3 +6,153 104
+November 26 2016,Myanmar,Malaysia,1 0,Southeast Asian Championship in Myanmar,+18 −18,1073 1105,0 −3,185 177
+November 26 2016,Vietnam,Cambodia,2 1,Southeast Asian Championship in Myanmar,+2 −2,1312 805,+1 −1,128 209
+December 3 2016,Indonesia,Vietnam,2 1,Southeast Asian Championship in Indonesia,+20 −20,1236 1292,+8 −9,151 137
+December 4 2016,Myanmar,Thailand,0 2,Southeast Asian Championship in Myanmar,−12 +12,1061 1427,0 +3,185 101
+December 7 2016,Vietnam,Indonesia,2 2,Southeast Asian Championship in Vietnam,−8 +8,1284 1244,−2 +3,139 148
+December 8 2016,Thailand,Myanmar,4 0,Southeast Asian Championship in Thailand,+5 −5,1432 1056,+2 0,99 185
+December 14 2016,Indonesia,Thailand,2 1,Southeast Asian Championship in Indonesia,+25 −25,1269 1407,+5 −7,143 106
+December 17 2016,Thailand,Indonesia,2 0,Southeast Asian Championship in Thailand,+12 −12,1419 1257,+3 −2,103 145
+December 26 2016,Ivory Coast,Zimbabwe,0 0,Friendly in Ivory Coast,−8 +8,1720 1419,−1 +3,34 103
+December 27 2016,Nicaragua,Trinidad and Tobago,2 1,Friendly in Nicaragua,+14 −14,1271 1479,+2 0,143 86
+December 30 2016,Nicaragua,Trinidad and Tobago,1 3,Friendly in Nicaragua,−10 +10,1261 1489,−1 0,144 86

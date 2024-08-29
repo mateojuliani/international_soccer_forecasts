@@ -1,0 +1,663 @@
+date,team_1,team_2,score,location,change_1,score_1_points,change_2,score_2_points
+January 1 2024,Japan,Thailand,5 0,Friendly in Japan,+1 −1,1905 1381,0 0,13 109
+January 1 2024,Hong Kong,China,2 1,Friendly in the United Arab Emirates,+18 −18,1083 1431,+4 −4,175 97
+January 2 2024,Libya,Indonesia,4 0,Friendly in Turkey,+15 −15,1375 1266,+4 −3,112 149
+January 4 2024,Tajikistan,Hong Kong,2 1,Friendly in the United Arab Emirates,+3 −3,1377 1080,+2 0,111 175
+January 4 2024,Saudi Arabia,Lebanon,1 0,Friendly in Qatar,+3 −3,1588 1309,0 0,63 136
+January 5 2024,Togo,Algeria,0 3,Friendly in Togo,−7 +7,1384 1733,−2 +2,108 37
+January 5 2024,Qatar,Jordan,1 2,Friendly in Qatar,−14 +14,1521 1517,−3 +1,73 75
+January 5 2024,Libya,Indonesia,2 1,Friendly in Turkey,+7 −7,1382 1259,+4 −3,109 152
+January 5 2024,Kyrgyzstan,Syria,1 1,Friendly in the United Arab Emirates,+5 −5,1254 1420,+1 −1,154 100
+January 5 2024,Iran,Burkina Faso,2 1,Friendly in Iran,+2 −2,1828 1563,0 0,20 66
+January 6 2024,United Arab Emirates,Oman,0 1,Friendly in the United Arab Emirates,−12 +12,1517 1566,−3 +1,74 66
+January 6 2024,Tunisia,Mauritania,0 0,Friendly in Tunisia,−9 +9,1731 1401,−1 +1,37 104
+January 6 2024,South Korea,Iraq,1 0,Friendly in the United Arab Emirates,+5 −5,1803 1615,+2 −3,22 58
+January 6 2024,Mozambique,Lesotho,2 0,Friendly in South Africa,+10 −10,1367 1234,+2 −1,115 157
+January 6 2024,Mali,Guinea-Bissau,6 2,Friendly in Mali,+6 −6,1622 1410,+3 0,55 101
+January 6 2024,Ivory Coast,Sierra Leone,5 1,Friendly in Ivory Coast,+3 −3,1647 1312,0 0,50 135
+January 6 2024,Australia,Bahrain,2 0,Friendly in the United Arab Emirates,+4 −4,1787 1444,0 0,27 93
+January 6 2024,Angola,Democratic Republic of Congo,0 0,Friendly in the United Arab Emirates,+3 −3,1389 1497,0 −2,107 79
+January 7 2024,Uzbekistan,Palestine,1 0,Friendly in Qatar,+4 −4,1645 1403,0 0,51 103
+January 7 2024,Egypt,Tanzania,2 0,Friendly in Egypt,+2 −2,1688 1349,0 −2,47 120
+January 8 2024,Senegal,Niger,1 0,Friendly in Senegal,+1 −1,1732 1239,0 0,37 156
+January 8 2024,Malaysia,Syria,2 2,Friendly in Qatar,+3 −3,1303 1417,+2 0,140 100
+January 8 2024,Guinea,Nigeria,2 0,Friendly in the United Arab Emirates,+22 −22,1449 1569,+5 −2,93 64
+January 8 2024,Ghana,Namibia,0 0,Friendly in Ghana,−7 +7,1544 1388,−1 +2,69 108
+January 8 2024,Botswana,Mozambique,1 1,Friendly in South Africa,+1 −1,1348 1366,+1 −1,121 116
+January 9 2024,Palestine,Saudi Arabia,0 0,Friendly in Qatar,+5 −5,1408 1583,0 0,103 62
+January 9 2024,Kyrgyzstan,Vietnam,2 1,Friendly in Qatar,+14 −14,1268 1377,+5 −5,149 111
+January 9 2024,Japan,Jordan,6 1,Friendly in Qatar,+4 −4,1909 1513,0 −1,13 75
+January 9 2024,Iran,Indonesia,5 0,Friendly in Qatar,+1 −1,1829 1258,0 −1,20 153
+January 9 2024,Equatorial Guinea,Djibouti,1 1,Friendly in Equatorial Guinea,−10 +10,1507 924,−2 +1,76 196
+January 9 2024,Cameroon,Zambia,1 1,Friendly in Saudi Arabia,−4 +4,1615 1494,−1 +2,57 81
+January 9 2024,Algeria,Burundi,4 0,Friendly in Togo,+3 −3,1736 1288,0 −1,36 144
+January 10 2024,Tunisia,Cape Verde,2 0,Friendly in Tunisia,+4 −4,1735 1478,+1 −2,37 88
+January 10 2024,South Africa,Lesotho,0 0,Friendly in South Africa,−8 +8,1482 1242,−1 +1,85 156
+January 10 2024,Saudi Arabia,Hong Kong,2 0,Friendly in Qatar,+2 −2,1585 1078,0 −2,62 177
+January 10 2024,Burkina Faso,Democratic Republic of Congo,2 1,Friendly in the United Arab Emirates,+8 −8,1571 1489,+3 −4,64 83
+January 10 2024,Angola,Bahrain,3 0,Friendly in the United Arab Emirates,+20 −20,1409 1424,+4 −5,102 99
+January 11 2024,Morocco,Sierra Leone,3 1,Friendly in Ivory Coast,+1 −1,1848 1311,0 0,17 135
+January 12 2024,Sweden,Estonia,2 1,Friendly in Cyprus,+3 −3,1695 1363,0 0,46 116
+January 12 2024,Libya,Kuwait,3 1,Friendly in Egypt,+15 −15,1397 1362,+2 −6,107 117
+January 12 2024,Qatar,Lebanon,3 0,Asian Cup in Qatar,+12 −12,1533 1297,+2 −6,70 142
+January 13 2024,Syria,Uzbekistan,0 0,Asian Cup in Qatar,+14 −14,1431 1631,+3 −2,97 53
+January 13 2024,China,Tajikistan,0 0,Asian Cup in Qatar,−4 +4,1427 1381,−1 +1,98 110
+January 13 2024,Australia,India,2 0,Asian Cup in Qatar,+3 −3,1790 1257,0 −2,27 154
+January 13 2024,Ivory Coast,Guinea-Bissau,2 0,African Nations Cup in Ivory Coast,+9 −9,1656 1401,0 −3,50 104
+January 13 2024,Iceland,Guatemala,1 0,Friendly in the United States,+10 −10,1489 1484,+5 −5,82 85
+January 14 2024,United Arab Emirates,Hong Kong,3 1,Asian Cup in Qatar,+6 −6,1523 1072,+2 −2,72 179
+January 14 2024,Japan,Vietnam,4 2,Asian Cup in Qatar,+3 −3,1912 1374,0 −1,13 113
+January 14 2024,Iran,Palestine,4 1,Asian Cup in Qatar,+7 −7,1836 1401,+2 0,18 103
+January 14 2024,Equatorial Guinea,Nigeria,1 1,African Nations Cup in Ivory Coast,+4 −4,1511 1565,0 −2,76 67
+January 14 2024,Egypt,Mozambique,2 2,African Nations Cup in Ivory Coast,−18 +18,1670 1384,−1 +6,48 109
+January 14 2024,Cape Verde,Ghana,2 1,African Nations Cup in Ivory Coast,+30 −30,1508 1514,+11 −5,77 74
+January 15 2024,South Korea,Bahrain,3 1,Asian Cup in Qatar,+8 −8,1811 1416,0 −1,22 101
+January 15 2024,Jordan,Malaysia,4 0,Asian Cup in Qatar,+22 −22,1535 1281,+6 −6,69 145
+January 15 2024,Iraq,Indonesia,3 1,Asian Cup in Qatar,+9 −9,1624 1249,+2 −3,55 155
+January 15 2024,Senegal,Gambia,3 0,African Nations Cup in Ivory Coast,+11 −11,1743 1388,+3 −1,35 107
+January 15 2024,Cameroon,Guinea,1 1,African Nations Cup in Ivory Coast,−11 +11,1604 1460,−3 +2,60 91
+January 15 2024,Algeria,Angola,1 1,African Nations Cup in Ivory Coast,−18 +18,1718 1427,−3 +3,39 98
+January 16 2024,Thailand,Kyrgyzstan,2 0,Asian Cup in Qatar,+26 −26,1407 1242,+7 −6,104 155
+January 16 2024,Saudi Arabia,Oman,2 1,Asian Cup in Qatar,+24 −24,1609 1542,+3 −2,59 68
+January 16 2024,Namibia,Tunisia,1 0,African Nations Cup in Ivory Coast,+44 −44,1432 1691,+11 −9,96 46
+January 16 2024,Mali,South Africa,2 0,African Nations Cup in Ivory Coast,+23 −23,1645 1459,+5 −4,51 91
+January 16 2024,Burkina Faso,Mauritania,1 0,African Nations Cup in Ivory Coast,+14 −14,1585 1387,+1 −6,63 109
+January 17 2024,Qatar,Tajikistan,1 0,Asian Cup in Qatar,+9 −9,1542 1372,+2 −1,68 113
+January 17 2024,China,Lebanon,0 0,Asian Cup in Qatar,−9 +9,1418 1306,−2 +3,101 138
+January 17 2024,Morocco,Tanzania,3 0,African Nations Cup in Ivory Coast,+5 −5,1853 1344,+1 −4,16 124
+January 17 2024,Democratic Republic of Congo,Zambia,1 1,African Nations Cup in Ivory Coast,0 0,1489 1494,−1 −1,84 82
+January 17 2024,Iceland,Honduras,2 0,Friendly in the United States,+17 −17,1506 1515,+5 −3,78 74
+January 18 2024,Uzbekistan,India,3 0,Asian Cup in Qatar,+9 −9,1640 1248,+2 −2,52 154
+January 18 2024,Palestine,United Arab Emirates,1 1,Asian Cup in Qatar,+8 −8,1409 1515,+2 −3,103 75
+January 18 2024,Australia,Syria,1 0,Asian Cup in Qatar,+6 −6,1796 1425,+2 −1,25 99
+January 18 2024,Ivory Coast,Nigeria,0 1,African Nations Cup in Ivory Coast,−38 +38,1618 1603,−6 +4,56 62
+January 18 2024,Equatorial Guinea,Guinea-Bissau,4 2,African Nations Cup in Ivory Coast,+26 −26,1537 1375,+6 −6,70 111
+January 18 2024,Egypt,Ghana,2 2,African Nations Cup in Ivory Coast,−11 +11,1659 1525,−1 +2,49 73
+January 19 2024,Uganda,Kuwait,2 0,Friendly in Egypt,+15 −15,1383 1347,+5 −3,109 120
+January 19 2024,Iraq,Japan,2 1,Asian Cup in Qatar,+42 −42,1666 1870,+7 −2,48 15
+January 19 2024,Iran,Hong Kong,1 0,Asian Cup in Qatar,+1 −1,1837 1071,0 0,18 179
+January 19 2024,Indonesia,Vietnam,1 0,Asian Cup in Qatar,+34 −34,1283 1340,+8 −12,145 124
+January 19 2024,Senegal,Cameroon,3 1,African Nations Cup in Ivory Coast,+23 −23,1766 1581,+6 −3,29 64
+January 19 2024,Guinea,Gambia,1 0,African Nations Cup in Ivory Coast,+20 −20,1480 1368,+2 −5,88 112
+January 19 2024,Cape Verde,Mozambique,3 0,African Nations Cup in Ivory Coast,+29 −29,1537 1355,+7 −6,70 115
+January 20 2024,Jordan,South Korea,2 2,Asian Cup in Qatar,+17 −17,1552 1794,+5 −3,67 25
+January 20 2024,Bahrain,Malaysia,1 0,Asian Cup in Qatar,+16 −16,1432 1265,+5 −3,97 149
+January 20 2024,Mali,Tunisia,1 1,African Nations Cup in Ivory Coast,+3 −3,1648 1688,0 0,51 46
+January 20 2024,Angola,Mauritania,3 2,African Nations Cup in Ivory Coast,+22 −22,1449 1365,+4 −6,94 113
+January 20 2024,Algeria,Burkina Faso,2 2,African Nations Cup in Ivory Coast,−9 +9,1709 1594,−2 0,40 63
+January 20 2024,United States,Slovenia,0 1,Friendly in the United States,−14 +14,1762 1724,−3 +1,31 38
+January 21 2024,Saudi Arabia,Kyrgyzstan,2 0,Asian Cup in Qatar,+8 −8,1617 1234,+1 −2,58 157
+January 21 2024,Oman,Thailand,0 0,Asian Cup in Qatar,−9 +9,1533 1416,−3 +3,72 102
+January 21 2024,Tanzania,Zambia,1 1,African Nations Cup in Ivory Coast,+10 −10,1354 1484,+7 −4,116 86
+January 21 2024,South Africa,Namibia,4 0,African Nations Cup in Ivory Coast,+43 −43,1502 1389,+11 −9,80 106
+January 21 2024,Democratic Republic of Congo,Morocco,1 1,African Nations Cup in Ivory Coast,+20 −20,1509 1833,+6 −4,78 20
+January 22 2024,Tajikistan,Lebanon,2 1,Asian Cup in Qatar,+20 −20,1392 1286,+4 −5,106 143
+January 22 2024,Qatar,China,1 0,Asian Cup in Qatar,+11 −11,1553 1407,+2 −3,67 104
+January 22 2024,Nigeria,Guinea-Bissau,1 0,African Nations Cup in Ivory Coast,+11 −11,1614 1364,+3 −5,58 114
+January 22 2024,Ivory Coast,Equatorial Guinea,0 4,African Nations Cup in Ivory Coast,−69 +69,1549 1606,−14 +9,70 61
+January 22 2024,Ghana,Mozambique,2 2,African Nations Cup in Ivory Coast,−11 +11,1514 1366,−3 +3,77 112
+January 22 2024,Cape Verde,Egypt,2 2,African Nations Cup in Ivory Coast,+8 −8,1545 1651,−1 0,71 50
+January 23 2024,Syria,India,1 0,Asian Cup in Qatar,+13 −13,1438 1235,+2 −2,97 156
+January 23 2024,Palestine,Hong Kong,3 0,Asian Cup in Qatar,+11 −11,1420 1060,+1 0,101 179
+January 23 2024,Iran,United Arab Emirates,2 1,Asian Cup in Qatar,+7 −7,1844 1508,0 −3,17 78
+January 23 2024,Australia,Uzbekistan,1 1,Asian Cup in Qatar,−11 +11,1785 1651,−3 +3,27 50
+January 23 2024,Senegal,Guinea,2 0,African Nations Cup in Ivory Coast,+12 −12,1778 1468,0 −3,28 92
+January 23 2024,Mauritania,Algeria,1 0,African Nations Cup in Ivory Coast,+44 −44,1409 1665,+10 −8,103 48
+January 23 2024,Cameroon,Gambia,3 2,African Nations Cup in Ivory Coast,+11 −11,1592 1357,+1 −5,63 115
+January 23 2024,Angola,Burkina Faso,2 0,African Nations Cup in Ivory Coast,+52 −52,1501 1542,+13 −8,81 71
+January 24 2024,Japan,Indonesia,3 1,Asian Cup in Qatar,+2 −2,1872 1281,0 0,15 145
+January 24 2024,Iraq,Vietnam,3 2,Asian Cup in Qatar,+7 −7,1673 1333,0 −3,47 127
+January 24 2024,South Africa,Tunisia,0 0,African Nations Cup in Ivory Coast,+12 −12,1514 1676,+4 0,76 45
+January 24 2024,Morocco,Zambia,1 0,African Nations Cup in Ivory Coast,+6 −6,1839 1478,+2 −2,18 89
+January 24 2024,Mali,Namibia,0 0,African Nations Cup in Ivory Coast,−16 +16,1632 1405,−2 +2,54 106
+January 24 2024,Democratic Republic of Congo,Tanzania,0 0,African Nations Cup in Ivory Coast,−10 +10,1499 1364,−5 +3,82 113
+January 25 2024,Saudi Arabia,Thailand,0 0,Asian Cup in Qatar,−13 +13,1604 1429,−4 +2,61 100
+January 25 2024,Malaysia,South Korea,3 3,Asian Cup in Qatar,+23 −23,1288 1771,+7 −4,142 28
+January 25 2024,Kyrgyzstan,Oman,1 1,Asian Cup in Qatar,+17 −17,1251 1516,+4 −2,153 74
+January 25 2024,Bahrain,Jordan,1 0,Asian Cup in Qatar,+33 −33,1465 1519,+5 −6,93 73
+January 27 2024,Nigeria,Cameroon,2 0,African Nations Cup in Ivory Coast,+35 −35,1649 1557,+5 −2,52 65
+January 27 2024,Angola,Namibia,3 0,African Nations Cup in Ivory Coast,+32 −32,1533 1373,+9 −4,71 110
+January 28 2024,Tajikistan,United Arab Emirates,1 1,Asian Cup in Qatar,+8 −8,1400 1500,+1 −3,106 82
+January 28 2024,Australia,Indonesia,4 0,Asian Cup in Qatar,+5 −5,1790 1276,0 0,26 146
+January 28 2024,Guinea,Equatorial Guinea,1 0,African Nations Cup in Ivory Coast,+34 −34,1502 1572,+11 −3,81 63
+January 28 2024,Democratic Republic of Congo,Egypt,1 1,African Nations Cup in Ivory Coast,+10 −10,1509 1641,+3 −2,79 52
+January 29 2024,Qatar,Palestine,2 1,Asian Cup in Qatar,+10 −10,1563 1410,+1 0,65 102
+January 29 2024,Jordan,Iraq,3 2,Asian Cup in Qatar,+35 −35,1554 1638,+5 −6,69 53
+January 29 2024,Ivory Coast,Senegal,1 1,African Nations Cup in Ivory Coast,+9 −9,1558 1769,+1 −1,67 28
+January 29 2024,Cape Verde,Mauritania,1 0,African Nations Cup in Ivory Coast,+16 −16,1561 1393,+3 −4,66 107
+January 30 2024,Uzbekistan,Thailand,2 1,Asian Cup in Qatar,+11 −11,1662 1418,+1 −1,48 101
+January 30 2024,Saudi Arabia,South Korea,1 1,Asian Cup in Qatar,+11 −11,1615 1760,+2 −4,58 31
+January 30 2024,South Africa,Morocco,2 0,African Nations Cup in Ivory Coast,+65 −65,1579 1774,+15 −8,62 26
+January 30 2024,Mali,Burkina Faso,2 1,African Nations Cup in Ivory Coast,+19 −19,1651 1523,+5 −3,50 74
+January 31 2024,Japan,Bahrain,3 1,Asian Cup in Qatar,+7 −7,1879 1458,0 −1,15 94
+January 31 2024,Iran,Syria,1 1,Asian Cup in Qatar,−21 +21,1823 1459,−3 +5,20 93
+February 2 2024,South Korea,Australia,2 1,Asian Cup in Qatar,+27 −27,1787 1763,+6 −5,25 30
+February 2 2024,Jordan,Tajikistan,1 0,Asian Cup in Qatar,+15 −15,1569 1385,+5 −2,65 107
+February 2 2024,Nigeria,Angola,1 0,African Nations Cup in Ivory Coast,+17 −17,1666 1516,+4 −4,47 76
+February 2 2024,Democratic Republic of Congo,Guinea,3 1,African Nations Cup in Ivory Coast,+37 −37,1546 1465,+7 −11,72 92
+February 2 2024,Costa Rica,El Salvador,2 0,Friendly in Costa Rica,+5 −5,1582 1404,+1 −1,62 104
+February 3 2024,Qatar,Uzbekistan,1 1,Asian Cup in Qatar,0 0,1563 1662,−1 0,68 49
+February 3 2024,Iran,Japan,2 1,Asian Cup in Qatar,+29 −29,1852 1850,+5 −1,15 16
+February 3 2024,Ivory Coast,Mali,2 1,African Nations Cup in Ivory Coast,+24 −24,1582 1627,+7 −5,62 56
+February 3 2024,Cape Verde,South Africa,0 0,African Nations Cup in Ivory Coast,+1 −1,1562 1578,−1 −1,69 64
+February 6 2024,Jordan,South Korea,2 0,Asian Cup in Qatar,+58 −58,1627 1729,+10 −11,56 36
+February 7 2024,Qatar,Iran,3 2,Asian Cup in Qatar,+37 −37,1600 1815,+5 −5,63 20
+February 7 2024,Nigeria,South Africa,1 1,African Nations Cup in Ivory Coast,−6 +6,1660 1584,−3 0,50 65
+February 7 2024,Ivory Coast,Democratic Republic of Congo,1 0,African Nations Cup in Ivory Coast,+16 −16,1598 1530,−1 0,64 72
+February 10 2024,Qatar,Jordan,3 1,Asian Cup in Qatar,+30 −30,1630 1597,+7 −8,56 64
+February 10 2024,Democratic Republic of Congo,South Africa,0 0,African Nations Cup in Ivory Coast,+4 −4,1534 1580,0 −1,72 66
+February 11 2024,Ivory Coast,Nigeria,2 1,African Nations Cup in Ivory Coast,+22 −22,1620 1638,+5 −2,58 52
+March 1 2024,Trinidad and Tobago,Jamaica,0 1,Friendly in Trinidad and Tobago,−8 +8,1424 1626,−1 +1,100 58
+March 3 2024,Trinidad and Tobago,Jamaica,0 0,Friendly in Trinidad and Tobago,+3 −3,1427 1623,+1 0,99 58
+March 10 2024,Bangladesh,Sudan,0 0,Friendly in Saudi Arabia,+8 −8,945 1308,+2 −2,193 135
+March 14 2024,Sudan,Bangladesh,3 0,Friendly in Saudi Arabia,+4 −4,1312 941,+1 −1,134 194
+March 14 2024,Kazakhstan,Turkmenistan,2 0,Friendly in the United Arab Emirates,+5 −5,1486 1215,+2 −1,86 160
+March 15 2024,Malaysia,Nepal,5 1,Friendly in Malaysia,+2 −2,1290 892,0 0,142 201
+March 17 2024,Sint Maarten,Anguilla,1 1,Friendly in Sint Maarten,−8 +8,872 556,−1 0,203 235
+March 18 2024,Solomon Islands,Fiji,2 1,Friendly in the Solomon Islands,+5 −5,1313 1199,+2 0,134 162
+March 20 2024,San Marino,Saint Kitts and Nevis,1 3,Friendly in San Marino,−7 +7,771 1086,0 +1,212 175
+March 20 2024,Bonaire,El Salvador,1 1,Friendly in the United States,+9 −9,842 1395,0 −1,206 105
+March 20 2024,Tonga,Samoa,1 4,Oceania Nations Cup qualifier in Tonga,−28 +28,497 727,0 +3,237 215
+March 20 2024,Liberia,Djibouti,2 0,African Nations Cup qualifier in Morocco,+8 −8,1269 916,+1 −1,150 197
+March 20 2024,Eswatini,Somalia,3 0,African Nations Cup qualifier in Morocco,+8 −8,1266 890,+1 −1,151 201
+March 21 2024,Solomon Islands,Fiji,0 2,Friendly in the Solomon Islands,−23 +23,1290 1222,−7 +3,141 159
+March 21 2024,Russia,Serbia,4 0,Friendly in Russia,+16 −16,1772 1786,+5 −3,27 24
+March 21 2024,Portugal,Sweden,5 2,Friendly in Portugal,+3 −3,2036 1692,0 0,3 44
+March 21 2024,Montenegro,Belarus,2 0,Friendly in Turkey,+12 −12,1562 1457,+2 −2,69 93
+March 21 2024,Malta,Slovenia,2 2,Friendly in Malta,+8 −8,1258 1716,0 +1,154 37
+March 21 2024,Italy,Venezuela,2 1,Friendly in the United States,+5 −5,1943 1750,0 0,12 33
+March 21 2024,Guinea,Vanuatu,6 0,Friendly tournament in Saudi Arabia,+6 −6,1471 1074,+2 −2,90 178
+March 21 2024,Ethiopia,Lesotho,1 2,Friendly in Ethiopia,−14 +14,1289 1256,−3 0,142 155
+March 21 2024,Ecuador,Guatemala,2 0,Friendly in the United States,+3 −3,1886 1481,+1 +2,13 86
+March 21 2024,Cyprus,Latvia,1 1,Friendly in Cyprus,−2 +2,1320 1349,0 +2,131 119
+March 21 2024,Cape Verde,Guyana,1 0,Friendly tournament in Saudi Arabia,+5 −5,1567 1269,+2 −1,67 149
+March 21 2024,Belize,Puerto Rico,1 1,Friendly in Belize,0 0,1058 1147,+1 0,179 166
+March 21 2024,Andorra,South Africa,1 1,Friendly tournament in Algeria,+13 −13,1115 1567,+1 −1,170 67
+March 21 2024,United Arab Emirates,Yemen,2 1,World Cup  and  Asian Cup qualifier in the United Arab Emirates,+2 −2,1502 1100,0 −1,81 172
+March 21 2024,Taiwan,Kyrgyzstan,0 2,World Cup  and  Asian Cup qualifier in Taiwan,−13 +13,911 1264,−2 +1,198 152
+March 21 2024,South Korea,Thailand,1 1,World Cup  and  Asian Cup qualifier in South Korea,−17 +17,1712 1435,−4 +2,40 99
+March 21 2024,Singapore,China,2 2,World Cup  and  Asian Cup qualifier in Singapore,+10 −10,1125 1397,0 0,169 103
+March 21 2024,Saudi Arabia,Tajikistan,1 0,World Cup  and  Asian Cup qualifier in Saudi Arabia,+5 −5,1620 1380,+2 −2,58 109
+March 21 2024,Qatar,Kuwait,3 0,World Cup  and  Asian Cup qualifier in Qatar,+7 −7,1637 1340,+2 −2,54 123
+March 21 2024,Palestine,Bangladesh,5 0,World Cup  and  Asian Cup qualifier in Kuwait,+5 −5,1415 936,0 −1,102 195
+March 21 2024,Pakistan,Jordan,0 3,World Cup  and  Asian Cup qualifier in Pakistan,−1 +1,828 1598,0 +1,207 63
+March 21 2024,Oman,Malaysia,2 0,World Cup  and  Asian Cup qualifier in Oman,+8 −8,1524 1282,+1 −4,75 146
+March 21 2024,Myanmar,Syria,1 1,World Cup  and  Asian Cup qualifier in Myanmar,+17 −17,923 1442,+2 −3,196 96
+March 21 2024,Japan,North Korea,1 0,World Cup  and  Asian Cup qualifier in Japan,+1 −1,1851 1366,−1 0,16 111
+March 21 2024,Iraq,Philippines,1 0,World Cup  and  Asian Cup qualifier in Iraq,+1 −1,1639 1049,0 0,52 183
+March 21 2024,Iran,Turkmenistan,5 0,World Cup  and  Asian Cup qualifier in Iran,+1 −1,1816 1214,−1 −1,21 161
+March 21 2024,Indonesia,Vietnam,1 0,World Cup  and  Asian Cup qualifier in Indonesia,+18 −18,1294 1315,+7 −6,139 133
+March 21 2024,Hong Kong,Uzbekistan,0 2,World Cup  and  Asian Cup qualifier in Hong Kong,−3 +3,1057 1665,−2 +1,181 47
+March 21 2024,Bahrain,Nepal,5 0,World Cup  and  Asian Cup qualifier in Bahrain,+2 −2,1460 890,+2 0,92 200
+March 21 2024,Australia,Lebanon,2 0,World Cup  and  Asian Cup qualifier in Australia,+2 −2,1765 1284,−1 −1,30 145
+March 21 2024,Afghanistan,India,0 0,World Cup  and  Asian Cup qualifier in Saudi Arabia,+9 −9,1082 1226,+2 −1,176 158
+March 21 2024,Lithuania,Gibraltar,1 0,European Nations League C in Portugal,+7 −7,1327 1051,+4 −2,128 182
+March 21 2024,Wales,Finland,4 1,European Championship qualifier in Wales,+20 −20,1716 1621,+6 −7,37 57
+March 21 2024,Poland,Estonia,5 1,European Championship qualifier in Poland,+5 −5,1715 1358,0 0,39 115
+March 21 2024,Iceland,Israel,4 1,European Championship qualifier in Hungary,+45 −45,1551 1558,+8 −7,72 70
+March 21 2024,Greece,Kazakhstan,5 0,European Championship qualifier in Greece,+10 −10,1739 1476,+1 −3,35 89
+March 21 2024,Georgia,Luxembourg,2 0,European Championship qualifier in Georgia,+13 −13,1651 1507,+2 −5,50 80
+March 21 2024,Bosnia and Herzegovina,Ukraine,1 2,European Championship qualifier in Bosnia and Herzegovina,−7 +7,1478 1857,0 0,87 15
+March 21 2024,United States,Jamaica,3 1,CONCACAF Nations League in the United States,+12 −12,1774 1611,+5 −3,25 61
+March 21 2024,Mexico,Panama,3 0,CONCACAF Nations League in the United States,+32 −32,1826 1734,+4 −9,19 36
+March 22 2024,Togo,Niger,2 1,Friendly in Morocco,+6 −6,1390 1233,+1 −1,106 157
+March 22 2024,Sudan,Guinea-Bissau,1 0,Friendly in Morocco,+11 −11,1323 1353,+2 −2,132 115
+March 22 2024,Sri Lanka,Papua New Guinea,0 0,Friendly tournament in Sri Lanka,+11 −11,695 1096,+2 −1,220 172
+March 22 2024,Senegal,Gabon,3 0,Friendly in France,+5 −5,1774 1437,+2 −2,26 98
+March 22 2024,Romania,Northern Ireland,1 1,Friendly in Romania,−7 +7,1667 1498,−1 +1,47 84
+March 22 2024,Peru,Nicaragua,2 0,Friendly in Peru,+2 −2,1745 1330,+1 0,33 127
+March 22 2024,Norway,Czechia,1 2,Friendly in Norway,−13 +13,1742 1770,−2 +2,34 29
+March 22 2024,Nigeria,Ghana,2 1,Friendly in Morocco,+7 −7,1645 1507,+1 −1,52 80
+March 22 2024,Netherlands,Scotland,4 0,Friendly in the Netherlands,+7 −7,1977 1794,0 0,10 22
+March 22 2024,Morocco,Angola,1 0,Friendly in Morocco,+2 −2,1776 1514,0 0,25 77
+March 22 2024,Moldova,North Macedonia,1 1,Friendly in Turkey,+6 −6,1345 1562,+1 −2,123 68
+March 22 2024,Mali,Mauritania,2 0,Friendly in Morocco,+6 −6,1633 1387,+1 −1,55 107
+March 22 2024,Madagascar,Burundi,1 0,Friendly tournament in Madagascar,+10 −10,1326 1278,+2 −4,130 147
+March 22 2024,Libya,Burkina Faso,2 1,Friendly in Morocco,+13 −13,1410 1510,0 −3,103 79
+March 22 2024,Hungary,Turkey,1 0,Friendly in Hungary,+6 −6,1840 1760,+1 −2,17 31
+March 22 2024,Faroe Islands,Liechtenstein,4 0,Friendly in Spain,+5 −5,1269 951,+3 −1,149 192
+March 22 2024,Equatorial Guinea,Cambodia,2 0,Friendly tournament in Saudi Arabia,+1 −1,1573 846,0 0,65 205
+March 22 2024,Egypt,New Zealand,1 0,Friendly tournament in Egypt,+7 −7,1648 1519,0 −1,51 75
+March 22 2024,Comoros,Uganda,4 0,Friendly in Morocco,+24 −24,1299 1359,+8 −4,139 112
+March 22 2024,Colombia,Spain,1 0,Friendly in England,+11 −11,1995 2022,+1 0,8 4
+March 22 2024,Chile,Albania,3 0,Friendly in Italy,+14 −14,1714 1617,+3 −4,40 59
+March 22 2024,Central African Republic,Bhutan,6 0,Friendly tournament in Sri Lanka,+1 −1,1307 619,0 0,137 229
+March 22 2024,Bulgaria,Tanzania,1 0,Friendly tournament in Azerbaijan,+11 −11,1468 1353,+2 −2,91 115
+March 22 2024,Botswana,Rwanda,0 0,Friendly tournament in Madagascar,−2 +2,1346 1310,−1 0,121 136
+March 22 2024,Bermuda,Brunei,2 0,Friendly tournament in Saudi Arabia,+2 −2,1151 593,0 0,165 232
+March 22 2024,Azerbaijan,Mongolia,1 0,Friendly tournament in Azerbaijan,0 0,1499 792,0 0,83 210
+March 22 2024,Armenia,Kosovo,0 1,Friendly in Armenia,−12 +12,1458 1512,−2 +4,93 78
+March 22 2024,Argentina,El Salvador,3 0,Friendly in the United States,0 0,2138 1395,0 0,1 105
+March 22 2024,Algeria,Bolivia,3 2,Friendly tournament in Algeria,+9 −9,1674 1603,+1 −2,46 62
+March 22 2024,São Tomé and Príncipe,South Sudan,1 1,African Nations Cup qualifier in Morocco,+5 −5,1063 1142,0 −2,179 168
+March 22 2024,Chad,Mauritius,1 0,African Nations Cup qualifier in Cameroon,+14 −14,1173 1030,0 0,164 184
+March 22 2024,US Virgin Islands,British Virgin Islands,1 1,World Cup qualifier in the US Virgin Islands,−3 +3,610 662,0 0,230 227
+March 22 2024,Anguilla,Turks and Caicos Islands,0 0,World Cup qualifier in Anguilla,+3 −3,559 702,0 0,235 217
+March 23 2024,Zambia,Zimbabwe,2 2,Friendly tournament in Malawi,−6 +6,1472 1343,−2 +3,89 123
+March 23 2024,Slovakia,Austria,0 2,Friendly in Slovakia,−12 +12,1650 1847,−1 +1,50 17
+March 23 2024,Malawi,Kenya,0 4,Friendly tournament in Malawi,−36 +36,1314 1386,−17 +9,134 108
+March 23 2024,Ireland,Belgium,0 0,Friendly in Ireland,+7 −7,1615 1983,+2 0,59 9
+March 23 2024,French Guiana,Haiti,1 1,Friendly in French Guiana,+3 −3,1288 1494,0 +1,144 84
+March 23 2024,France,Germany,0 2,Friendly in France,−26 +26,2084 1912,0 0,2 13
+March 23 2024,England,Brazil,0 1,Friendly in England,−13 +13,2002 2025,−2 +2,7 4
+March 23 2024,Dominican Republic,Aruba,2 0,Friendly in the Dominican Republic,+4 −4,1209 998,0 −2,162 189
+March 23 2024,Denmark,Switzerland,0 0,Friendly in Denmark,−4 +4,1821 1796,0 +1,20 22
+March 23 2024,Croatia,Tunisia,0 0,Friendly tournament in Egypt,−10 +10,1942 1686,−1 0,12 45
+March 23 2024,Benin,Ivory Coast,2 2,Friendly in France,+7 −7,1355 1613,+4 −3,116 60
+March 23 2024,Samoa,Cook Islands,1 0,Oceania Nations Cup qualifier in Tonga,+18 −18,745 669,0 −2,215 224
+March 23 2024,Costa Rica,Honduras,3 1,Copa América qualifier in the United States,+24 −24,1606 1491,+2 −9,62 85
+March 23 2024,Canada,Trinidad and Tobago,2 0,Copa América qualifier in the United States,+10 −10,1716 1417,+5 −1,37 101
+March 24 2024,San Marino,Saint Kitts and Nevis,0 0,Friendly in San Marino,+6 −6,777 1080,0 −1,212 176
+March 24 2024,Martinique,Suriname,1 1,Friendly in the Netherlands,−4 +4,1437 1307,0 +1,97 137
+March 24 2024,Italy,Ecuador,2 0,Friendly in the United States,+13 −13,1956 1873,0 0,11 14
+March 24 2024,Guatemala,Venezuela,0 0,Friendly in the United States,+6 −6,1487 1744,0 −1,86 33
+March 24 2024,Ethiopia,Lesotho,2 1,Friendly in Ethiopia,+6 −6,1295 1250,+3 0,140 155
+March 24 2024,Belize,Puerto Rico,3 0,Friendly in Belize,+17 −17,1075 1130,+2 −2,178 168
+March 24 2024,United States,Mexico,2 0,CONCACAF Nations League in the United States,+26 −26,1800 1800,+5 −2,21 21
+March 24 2024,Jamaica,Panama,1 0,CONCACAF Nations League in the United States,+27 −27,1638 1707,+7 −6,54 42
+March 25 2024,Tanzania,Mongolia,3 0,Friendly tournament in Azerbaijan,+2 −2,1355 790,0 0,117 210
+March 25 2024,Sweden,Albania,1 0,Friendly in Sweden,+5 −5,1697 1612,0 −2,44 61
+March 25 2024,Sri Lanka,Bhutan,2 0,Friendly tournament in Sri Lanka,+12 −12,707 607,+3 −2,217 231
+March 25 2024,Montenegro,North Macedonia,1 0,Friendly in Turkey,+10 −10,1572 1552,+2 −3,66 71
+March 25 2024,Madagascar,Rwanda,0 2,Friendly tournament in Madagascar,−30 +30,1296 1340,−10 +12,139 124
+March 25 2024,Guinea-Bissau,Sudan,2 1,Friendly in Morocco,+9 −9,1362 1314,+4 −3,113 134
+March 25 2024,Guinea,Bermuda,5 1,Friendly tournament in Saudi Arabia,+8 −8,1479 1143,+3 −1,87 166
+March 25 2024,Cyprus,Serbia,0 1,Friendly in Cyprus,−2 +2,1318 1788,0 0,132 25
+March 25 2024,Congo,Gabon,1 1,Friendly in France,+4 −4,1275 1433,0 −2,148 99
+March 25 2024,Central African Republic,Papua New Guinea,4 0,Friendly tournament in Sri Lanka,+13 −13,1320 1083,+6 −2,131 174
+March 25 2024,Cape Verde,Equatorial Guinea,1 0,Friendly tournament in Saudi Arabia,+15 −15,1582 1558,+1 −3,65 68
+March 25 2024,Botswana,Burundi,0 0,Friendly tournament in Madagascar,−3 +3,1343 1281,−2 0,122 147
+March 25 2024,Bolivia,Andorra,1 0,Friendly tournament in Algeria,+2 −2,1605 1113,0 0,63 170
+March 25 2024,Azerbaijan,Bulgaria,1 1,Friendly tournament in Azerbaijan,−5 +5,1494 1473,−1 +1,83 90
+March 25 2024,Angola,Comoros,0 0,Friendly in Morocco,−6 +6,1508 1305,−2 +1,78 138
+March 26 2024,Spain,Brazil,3 3,Friendly in Spain,−3 +3,2019 2028,+1 +1,4 3
+March 26 2024,Slovenia,Portugal,2 0,Friendly in Slovenia,+23 −23,1739 2013,+1 −2,35 5
+March 26 2024,Senegal,Benin,1 0,Friendly in France,+2 −2,1776 1353,+2 −1,25 118
+March 26 2024,Scotland,Northern Ireland,0 1,Friendly in Scotland,−18 +18,1776 1516,−1 +6,25 76
+March 26 2024,Peru,Dominican Republic,4 1,Friendly in Peru,+1 −1,1746 1208,0 +1,32 161
+March 26 2024,Norway,Slovakia,1 1,Friendly in Norway,−5 +5,1737 1655,−2 +1,36 49
+March 26 2024,Nicaragua,Cuba,0 1,Friendly in Nicaragua,−14 +14,1316 1305,−6 +5,133 137
+March 26 2024,New Zealand,Tunisia,0 0,Friendly tournament in Egypt,+7 −7,1526 1679,0 0,75 45
+March 26 2024,Morocco,Mauritania,0 0,Friendly in Morocco,−9 +9,1767 1396,−4 0,30 107
+March 26 2024,Moldova,Cayman Islands,4 0,Friendly in Turkey,+2 −2,1347 799,+2 0,119 209
+March 26 2024,Malta,Belarus,0 0,Friendly in Malta,+3 −3,1261 1454,+2 −1,152 95
+March 26 2024,Mali,Nigeria,2 0,Friendly in Morocco,+16 −16,1649 1629,+5 −5,51 57
+March 26 2024,Malawi,Zambia,1 2,Friendly tournament in Malawi,−13 +13,1301 1485,−5 +4,139 87
+March 26 2024,Luxembourg,Kazakhstan,2 1,Friendly in Luxembourg,+6 −6,1513 1470,+2 −2,77 91
+March 26 2024,Libya,Togo,1 1,Friendly in Morocco,−1 +1,1409 1391,0 −2,103 108
+March 26 2024,Latvia,Liechtenstein,1 1,Friendly in Cyprus,−8 +8,1341 959,−3 +1,122 191
+March 26 2024,Kenya,Zimbabwe,3 1,Friendly tournament in Malawi,+20 −20,1406 1323,+4 −8,104 130
+March 26 2024,Ivory Coast,Uruguay,2 1,Friendly in France,+18 −18,1631 1989,+4 −2,56 8
+March 26 2024,Ireland,Switzerland,0 1,Friendly in Ireland,−8 +8,1607 1804,−2 +2,61 21
+March 26 2024,Hungary,Kosovo,2 0,Friendly in Hungary,+2 −2,1842 1510,0 −2,18 78
+March 26 2024,Guyana,Cambodia,4 1,Friendly tournament in Saudi Arabia,+4 −4,1273 842,+2 0,147 205
+March 26 2024,Ghana,Uganda,2 2,Friendly in Morocco,−4 +4,1503 1363,−2 +1,81 113
+March 26 2024,Germany,Netherlands,2 1,Friendly in Germany,+9 −9,1921 1968,0 0,13 10
+March 26 2024,France,Chile,3 2,Friendly in France,+1 −1,2085 1713,0 0,2 40
+March 26 2024,Finland,Estonia,2 1,Friendly in Finland,+2 −2,1623 1356,−1 −1,58 116
+March 26 2024,England,Belgium,2 2,Friendly in England,−3 +3,1999 1986,+1 0,6 9
+March 26 2024,El Salvador,Honduras,1 1,Friendly in the United States,+3 −3,1398 1488,−1 0,106 85
+March 26 2024,Egypt,Croatia,2 4,Friendly tournament in Egypt,−11 +11,1637 1953,−4 0,55 12
+March 26 2024,Denmark,Faroe Islands,2 0,Friendly in Denmark,+1 −1,1822 1268,0 0,19 149
+March 26 2024,Czechia,Armenia,2 1,Friendly in Czechia,+2 −2,1772 1456,+2 −1,27 94
+March 26 2024,Colombia,Romania,3 2,Friendly in Spain,+3 −3,1998 1664,+1 −1,7 48
+March 26 2024,Burkina Faso,Niger,1 1,Friendly in Morocco,−7 +7,1503 1240,−4 +1,81 156
+March 26 2024,Brunei,Vanuatu,3 2,Friendly tournament in Saudi Arabia,+28 −28,621 1046,+3 −3,229 182
+March 26 2024,Austria,Turkey,6 1,Friendly in Austria,+10 −10,1857 1750,+1 0,16 31
+March 26 2024,Argentina,Costa Rica,3 1,Friendly in the United States,+1 −1,2139 1605,0 0,1 62
+March 26 2024,Algeria,South Africa,3 3,Friendly tournament in Algeria,−8 +8,1666 1575,0 +1,46 66
+March 26 2024,Tonga,Cook Islands,0 1,Oceania Nations Cup qualifier in Tonga,−16 +16,481 685,−1 +2,238 222
+March 26 2024,São Tomé and Príncipe,South Sudan,0 0,African Nations Cup qualifier in Morocco,+4 −4,1067 1138,+1 0,179 167
+March 26 2024,Mauritius,Chad,1 2,African Nations Cup qualifier in Mauritius,−18 +18,1012 1191,−1 +1,185 163
+March 26 2024,Liberia,Djibouti,0 0,African Nations Cup qualifier in Liberia,−17 +17,1252 933,−4 +2,153 195
+March 26 2024,Eswatini,Somalia,2 2,African Nations Cup qualifier in South Africa,−16 +16,1250 906,−2 +2,154 198
+March 26 2024,Lithuania,Gibraltar,1 0,European Nations League C in Lithuania,+4 −4,1331 1047,+2 +1,126 181
+March 26 2024,Wales,Poland,0 0,European Championship qualifier in Wales,−6 +6,1710 1721,−5 +1,41 38
+March 26 2024,Ukraine,Iceland,2 1,European Championship qualifier in Poland,+6 −6,1863 1545,0 0,15 72
+March 26 2024,Georgia,Greece,0 0,European Championship qualifier in Georgia,−1 +1,1650 1740,−1 +1,50 34
+March 26 2024,Vietnam,Indonesia,0 3,World Cup  and  Asian Cup qualifier in Vietnam,−47 +47,1268 1341,−16 +19,149 122
+March 26 2024,Uzbekistan,Hong Kong,3 0,World Cup  and  Asian Cup qualifier in Uzbekistan,+1 −1,1666 1056,+2 +1,46 180
+March 26 2024,United Arab Emirates,Yemen,3 0,World Cup  and  Asian Cup qualifier in Saudi Arabia,+6 −6,1508 1094,+2 −2,79 173
+March 26 2024,Turkmenistan,Iran,0 1,World Cup  and  Asian Cup qualifier in Turkmenistan,−2 +2,1212 1818,+1 0,160 20
+March 26 2024,Thailand,South Korea,0 3,World Cup  and  Asian Cup qualifier in Thailand,−19 +19,1416 1731,−4 +4,102 37
+March 26 2024,Tajikistan,Saudi Arabia,1 1,World Cup  and  Asian Cup qualifier in Tajikistan,+8 −8,1388 1612,0 −1,109 59
+March 26 2024,Syria,Myanmar,7 0,World Cup  and  Asian Cup qualifier in Saudi Arabia,+4 −4,1446 919,0 −1,96 197
+March 26 2024,Philippines,Iraq,0 5,World Cup  and  Asian Cup qualifier in the Philippines,−4 +4,1045 1643,0 0,183 53
+March 26 2024,Malaysia,Oman,0 2,World Cup  and  Asian Cup qualifier in Malaysia,−18 +18,1264 1542,−5 +1,151 73
+March 26 2024,Kyrgyzstan,Taiwan,5 1,World Cup  and  Asian Cup qualifier in Kyrgyzstan,+5 −5,1269 906,+5 0,148 198
+March 26 2024,Kuwait,Qatar,1 2,World Cup  and  Asian Cup qualifier in Kuwait,−10 +10,1330 1647,−3 +3,127 52
+March 26 2024,Jordan,Pakistan,7 0,World Cup  and  Asian Cup qualifier in Jordan,+1 −1,1599 827,0 0,64 207
+March 26 2024,India,Afghanistan,1 2,World Cup  and  Asian Cup qualifier in India,−32 +32,1194 1114,−4 +5,162 170
+March 26 2024,China,Singapore,4 1,World Cup  and  Asian Cup qualifier in China,+7 −7,1404 1118,−1 0,105 169
+March 26 2024,Bangladesh,Palestine,0 1,World Cup  and  Asian Cup qualifier in Bangladesh,−4 +4,932 1419,−1 +2,196 100
+March 26 2024,Bahrain,Nepal,3 0,World Cup  and  Asian Cup qualifier in Bahrain,+1 −1,1461 889,0 −1,92 201
+March 26 2024,Australia,Lebanon,5 0,World Cup  and  Asian Cup qualifier in Australia,+3 −3,1768 1281,+1 +1,29 144
+March 26 2024,Turks and Caicos Islands,Anguilla,1 1,World Cup qualifier in Turks and Caicos Islands,−12 +12,690 571,−3 +2,221 233
+March 26 2024,British Virgin Islands,US Virgin Islands,0 0,World Cup qualifier in the British Virgin Islands,−8 +8,654 618,0 −1,227 230
+April 6 2024,Northern Mariana Islands,Guam,2 2,Friendly in the Northern Mariana Islands,+4 −4,438 694,0 0,239 219
+April 7 2024,Northern Mariana Islands,Guam,2 1,Friendly in the Northern Mariana Islands,+14 −14,452 680,0 −3,239 222
+May 2 2024,St Vincent & Grenadines,Dominica,1 3,Friendly in Saint Vincent and the Grenadines,−22 +22,1056 1023,−2 +4,179 184
+May 5 2024,St Vincent & Grenadines,Dominica,2 0,Friendly in Saint Vincent and the Grenadines,+10 −10,1066 1013,0 −1,179 185
+May 13 2024,Trinidad and Tobago,Guyana,2 1,Friendly in Trinidad and Tobago,+4 −4,1421 1269,+1 0,100 147
+May 15 2024,Trinidad and Tobago,Guyana,2 0,Friendly in Trinidad and Tobago,+6 −6,1427 1263,+1 −4,99 151
+May 15 2024,Sudan,Tanzania,2 1,Friendly in Saudi Arabia,+11 −11,1325 1344,+4 −3,130 120
+May 19 2024,Sudan,Tanzania,1 1,Friendly in Saudi Arabia,+1 −1,1326 1343,+1 0,129 120
+May 26 2024,Guatemala,Nicaragua,1 1,Friendly in the United States,−5 +5,1482 1321,−1 +2,87 132
+May 26 2024,Grenada,St Vincent & Grenadines,0 3,Friendly in Grenada,−24 +24,1072 1090,−6 +5,178 174
+May 31 2024,Mexico,Bolivia,1 0,Friendly in the United States,+5 −5,1805 1600,+1 −1,21 63
+May 31 2024,Costa Rica,Uruguay,0 0,Friendly in Costa Rica,+7 −7,1612 1982,+3 −1,59 9
+June 1 2024,Turkmenistan,Greenland,5 0,Friendly in Turkey,+7 −7,1219 946,+1 0,159 192
+June 1 2024,Lesotho,Namibia,1 1,Friendly in South Africa,+3 −3,1253 1370,+1 0,153 110
+June 2 2024,Indonesia,Tanzania,0 0,Friendly in Indonesia,−3 +3,1338 1346,−3 +1,125 119
+June 2 2024,Sint Maarten,Anguilla,0 3,Friendly in Sint Maarten,−32 +32,840 603,−3 0,206 233
+June 3 2024,Scotland,Gibraltar,2 0,Friendly in Portugal,0 0,1776 1047,0 0,25 181
+June 3 2024,Germany,Ukraine,0 0,Friendly in Germany,−4 +4,1917 1867,0 0,13 15
+June 3 2024,England,Bosnia and Herzegovina,3 0,Friendly in England,+1 −1,2000 1477,0 0,6 89
+June 3 2024,Croatia,North Macedonia,3 0,Friendly in Croatia,+2 −2,1955 1550,0 0,12 71
+June 3 2024,Albania,Liechtenstein,3 0,Friendly in Hungary,+1 −1,1613 958,0 0,59 191
+June 4 2024,Switzerland,Estonia,4 0,Friendly in Switzerland,+2 −2,1806 1354,+1 0,21 116
+June 4 2024,Slovenia,Armenia,2 1,Friendly in Slovenia,+2 −2,1741 1454,+1 0,34 94
+June 4 2024,Sint Maarten,Bonaire,3 1,Friendly in the Netherlands,+15 −15,855 827,+3 −2,203 206
+June 4 2024,Romania,Bulgaria,0 0,Friendly in Romania,−7 +7,1657 1480,0 +2,48 88
+June 4 2024,Portugal,Finland,4 2,Friendly in Portugal,+2 −2,2015 1621,0 0,5 58
+June 4 2024,Italy,Turkey,0 0,Friendly in Italy,−7 +7,1949 1757,−1 0,12 31
+June 4 2024,Ireland,Hungary,2 1,Friendly in Ireland,+14 −14,1621 1828,+4 0,58 18
+June 4 2024,Austria,Serbia,2 1,Friendly in Austria,+5 −5,1862 1783,0 0,16 24
+June 5 2024,Uruguay,Mexico,4 0,Friendly in the United States,+10 −10,1992 1795,+1 −1,8 23
+June 5 2024,Spain,Andorra,5 0,Friendly in Spain,0 0,2019 1113,0 0,4 171
+June 5 2024,Slovakia,San Marino,4 0,Friendly in Austria,0 0,1655 777,0 0,49 212
+June 5 2024,Norway,Kosovo,3 0,Friendly in Norway,+5 −5,1742 1505,+2 −2,34 80
+June 5 2024,France,Luxembourg,3 0,Friendly in France,+1 −1,2086 1512,0 0,2 77
+June 5 2024,Denmark,Sweden,2 1,Friendly in Denmark,+4 −4,1826 1693,0 0,19 44
+June 5 2024,Belgium,Montenegro,2 0,Friendly in Belgium,+1 −1,1987 1571,−1 0,9 67
+June 5 2024,Tunisia,Equatorial Guinea,1 0,World Cup qualifier in Tunisia,+9 −9,1688 1549,0 −3,45 71
+June 5 2024,Togo,South Sudan,1 1,World Cup qualifier in Togo,−15 +15,1376 1153,−1 +2,109 165
+June 5 2024,Sierra Leone,Djibouti,2 1,World Cup qualifier in Morocco,+4 −4,1315 929,−1 −1,136 196
+June 5 2024,Liberia,Namibia,1 1,World Cup qualifier in South Africa,+7 −7,1259 1363,+1 −2,153 112
+June 5 2024,Central African Republic,Chad,1 0,World Cup qualifier in Morocco,+13 −13,1333 1178,+7 −1,126 164
+June 5 2024,Trinidad and Tobago,Grenada,2 2,World Cup qualifier in Trinidad and Tobago,−17 +17,1410 1089,−3 +4,102 174
+June 5 2024,Suriname,St Vincent & Grenadines,4 1,World Cup qualifier in Suriname,+10 −10,1317 1080,+1 −2,135 176
+June 5 2024,Nicaragua,Montserrat,4 1,World Cup qualifier in Nicaragua,+6 −6,1327 1016,+3 0,129 184
+June 5 2024,Guatemala,Dominica,6 0,World Cup qualifier in Guatemala,+3 −3,1485 1010,+1 −2,86 187
+June 5 2024,Curaçao,Barbados,4 1,World Cup qualifier in Curaçao,+4 −4,1343 934,+3 0,121 194
+June 5 2024,Antigua and Barbuda,Bermuda,1 1,World Cup qualifier in Antigua and Barbuda,+2 −2,1014 1141,+1 −1,185 167
+June 6 2024,Netherlands,Canada,4 0,Friendly in the Netherlands,+4 −4,1972 1712,0 −1,10 40
+June 6 2024,Gibraltar,Wales,0 0,Friendly in Portugal,+10 −10,1057 1700,+1 −2,180 43
+June 6 2024,Vietnam,Philippines,3 2,World Cup  and  Asian Cup qualifier in Vietnam,+5 −5,1273 1040,+1 0,147 183
+June 6 2024,Uzbekistan,Turkmenistan,3 1,World Cup  and  Asian Cup qualifier in Uzbekistan,+2 −2,1668 1217,0 0,46 159
+June 6 2024,United Arab Emirates,Nepal,4 0,World Cup  and  Asian Cup qualifier in Saudi Arabia,+2 −2,1510 887,−2 0,80 201
+June 6 2024,Taiwan,Oman,0 3,World Cup  and  Asian Cup qualifier in Taiwan,−3 +3,903 1545,−1 0,199 73
+June 6 2024,Singapore,South Korea,0 7,World Cup  and  Asian Cup qualifier in Singapore,−4 +4,1114 1735,−1 0,170 37
+June 6 2024,Pakistan,Saudi Arabia,0 3,World Cup  and  Asian Cup qualifier in Pakistan,−1 +1,826 1613,−1 0,207 61
+June 6 2024,North Korea,Syria,1 0,World Cup  and  Asian Cup qualifier in Laos,+25 −25,1391 1421,+4 −3,106 99
+June 6 2024,Myanmar,Japan,0 5,World Cup  and  Asian Cup qualifier in Myanmar,−1 +1,918 1852,0 0,197 17
+June 6 2024,Lebanon,Palestine,0 0,World Cup  and  Asian Cup qualifier in Qatar,+8 −8,1289 1411,+1 −1,143 101
+June 6 2024,Kyrgyzstan,Malaysia,1 1,World Cup  and  Asian Cup qualifier in Kyrgyzstan,−6 +6,1263 1270,−3 +2,150 148
+June 6 2024,Jordan,Tajikistan,3 0,World Cup  and  Asian Cup qualifier in Jordan,+10 −10,1609 1378,+1 0,63 108
+June 6 2024,Indonesia,Iraq,0 2,World Cup  and  Asian Cup qualifier in Indonesia,−14 +14,1324 1657,−6 +6,131 47
+June 6 2024,India,Kuwait,0 0,World Cup  and  Asian Cup qualifier in India,+2 −2,1196 1328,0 +1,162 127
+June 6 2024,Hong Kong,Iran,2 4,World Cup  and  Asian Cup qualifier in Hong Kong,−1 +1,1055 1819,−1 0,181 20
+June 6 2024,China,Thailand,1 1,World Cup  and  Asian Cup qualifier in China,−5 +5,1399 1421,0 +2,105 99
+June 6 2024,Bangladesh,Australia,0 2,World Cup  and  Asian Cup qualifier in Bangladesh,−1 +1,931 1769,0 +1,195 28
+June 6 2024,Bahrain,Yemen,0 0,World Cup  and  Asian Cup qualifier in Bahrain,−17 +17,1444 1111,−3 0,95 172
+June 6 2024,Afghanistan,Qatar,0 0,World Cup  and  Asian Cup qualifier in Saudi Arabia,+18 −18,1132 1629,+1 −3,169 55
+June 6 2024,Senegal,Democratic Republic of Congo,1 1,World Cup qualifier in Senegal,−15 +15,1761 1549,−5 +3,30 71
+June 6 2024,Mauritania,Sudan,0 2,World Cup qualifier in Mauritania,−44 +44,1352 1370,−11 +20,118 111
+June 6 2024,Mali,Ghana,1 2,World Cup qualifier in Mali,−32 +32,1617 1535,−8 +6,59 75
+June 6 2024,Malawi,São Tomé and Príncipe,3 1,World Cup qualifier in Malawi,+8 −8,1309 1059,+2 0,137 179
+June 6 2024,Libya,Mauritius,2 1,World Cup qualifier in Libya,+2 −2,1411 1010,+2 0,101 186
+June 6 2024,Guinea-Bissau,Ethiopia,0 0,World Cup qualifier in Guinea-Bissau,−9 +9,1353 1304,−3 +2,117 139
+June 6 2024,Egypt,Burkina Faso,2 1,World Cup qualifier in Egypt,+8 −8,1645 1495,+4 −4,51 85
+June 6 2024,Benin,Rwanda,1 0,World Cup qualifier in Ivory Coast,+19 −19,1372 1321,+7 −9,110 133
+June 6 2024,Algeria,Guinea,1 2,World Cup qualifier in Algeria,−34 +34,1632 1513,−7 +11,53 78
+June 6 2024,Panama,Guyana,2 0,World Cup qualifier in Panama,+3 −3,1710 1260,+1 −1,41 152
+June 6 2024,Jamaica,Dominican Republic,1 0,World Cup qualifier in Jamaica,+2 −2,1640 1206,+2 0,52 161
+June 6 2024,Honduras,Cuba,3 1,World Cup qualifier in Honduras,+10 −10,1498 1295,+2 −4,83 141
+June 6 2024,Haiti,Saint Lucia,2 1,World Cup qualifier in Barbados,+4 −4,1498 1090,0 −1,83 173
+June 6 2024,El Salvador,Puerto Rico,0 0,World Cup qualifier in El Salvador,−16 +16,1382 1146,−1 +2,107 166
+June 6 2024,Costa Rica,Saint Kitts and Nevis,4 0,World Cup qualifier in Costa Rica,+2 −2,1614 1078,+1 −1,60 177
+June 7 2024,Scotland,Finland,2 2,Friendly in Scotland,−6 +6,1770 1627,−3 +1,28 56
+June 7 2024,Romania,Liechtenstein,0 0,Friendly in Romania,−10 +10,1647 968,−3 0,50 191
+June 7 2024,Poland,Ukraine,3 1,Friendly in Poland,+17 −17,1738 1850,+2 −2,36 17
+June 7 2024,Peru,Paraguay,0 0,Friendly in Peru,−4 +4,1742 1709,−1 0,33 42
+June 7 2024,Germany,Greece,2 1,Friendly in Germany,+3 −3,1920 1737,0 −1,13 37
+June 7 2024,England,Iceland,0 1,Friendly in England,−19 +19,1981 1564,−3 +5,9 68
+June 7 2024,Czechia,Malta,7 1,Friendly in Austria,+2 −2,1774 1259,0 −2,26 153
+June 7 2024,Cambodia,Mongolia,2 0,Friendly in Cambodia,+9 −9,851 781,0 −1,205 211
+June 7 2024,Belarus,Russia,0 4,Friendly in Belarus,−8 +8,1446 1780,−1 +1,94 25
+June 7 2024,Armenia,Kazakhstan,2 1,Friendly in Armenia,+8 −8,1462 1462,+2 0,91 91
+June 7 2024,Albania,Azerbaijan,3 1,Friendly in Hungary,+10 −10,1623 1484,+4 −1,57 87
+June 7 2024,Uganda,Botswana,1 0,World Cup qualifier in Uganda,+13 −13,1376 1330,+4 −4,109 126
+June 7 2024,Nigeria,South Africa,1 1,World Cup qualifier in Nigeria,−8 +8,1621 1583,−3 +1,58 65
+June 7 2024,Mozambique,Somalia,2 1,World Cup qualifier in Mozambique,+2 −2,1368 904,−1 0,113 198
+June 7 2024,Morocco,Zambia,2 1,World Cup qualifier in Morocco,+4 −4,1771 1481,+2 −1,27 88
+June 7 2024,Madagascar,Comoros,2 1,World Cup qualifier in South Africa,+21 −21,1317 1284,+6 −8,134 146
+June 7 2024,Lesotho,Zimbabwe,2 0,World Cup qualifier in South Africa,+36 −36,1289 1287,+13 −13,141 145
+June 7 2024,Ivory Coast,Gabon,1 0,World Cup qualifier in Ivory Coast,+6 −6,1637 1427,+1 0,53 97
+June 7 2024,Burundi,Kenya,1 1,World Cup qualifier in Malawi,+7 −7,1288 1399,+2 0,143 104
+June 7 2024,Angola,Eswatini,1 0,World Cup qualifier in Angola,+5 −5,1513 1245,+3 0,78 155
+June 8 2024,United States,Colombia,1 5,Friendly in the United States,−14 +14,1786 2012,−2 +1,24 5
+June 8 2024,Switzerland,Austria,1 1,Friendly in Switzerland,−1 +1,1805 1863,0 0,21 15
+June 8 2024,Sweden,Serbia,0 3,Friendly in Sweden,−18 +18,1675 1801,−1 +2,45 22
+June 8 2024,Spain,Northern Ireland,5 1,Friendly in Spain,+1 −1,2020 1515,0 0,4 77
+June 8 2024,Slovenia,Bulgaria,1 1,Friendly in Slovenia,−8 +8,1733 1488,−3 +3,38 86
+June 8 2024,Portugal,Croatia,1 2,Friendly in Portugal,−14 +14,2001 1969,−1 0,6 11
+June 8 2024,Moldova,Cyprus,3 2,Friendly in Moldova,+6 −6,1353 1312,0 −2,119 135
+June 8 2024,Hungary,Israel,3 0,Friendly in Hungary,+4 −4,1832 1554,−1 0,19 69
+June 8 2024,Denmark,Norway,3 1,Friendly in Denmark,+8 −8,1834 1734,+1 −4,18 37
+June 8 2024,Brunei,Sri Lanka,1 0,Friendly in Brunei,+10 −10,631 697,+1 −1,228 218
+June 8 2024,Brazil,Mexico,3 2,Friendly in the United States,+4 −4,2032 1791,0 0,3 23
+June 8 2024,Belgium,Luxembourg,3 0,Friendly in Belgium,+1 −1,1988 1511,0 0,8 80
+June 8 2024,Latvia,Lithuania,0 2,Baltic Cup in Latvia,−29 +29,1312 1360,−12 +8,135 117
+June 8 2024,Estonia,Faroe Islands,4 1,Baltic Cup in Estonia,+13 −13,1367 1255,+2 −4,114 154
+June 8 2024,Gambia,Seychelles,5 1,World Cup qualifier in Morocco,+4 −4,1361 851,−1 −1,116 204
+June 8 2024,Cameroon,Cape Verde,4 1,World Cup qualifier in Cameroon,+28 −28,1585 1554,+5 −3,65 69
+June 8 2024,Trinidad and Tobago,Bahamas,7 1,World Cup qualifier in Saint Kitts and Nevis,+3 −3,1413 814,+2 −1,101 209
+June 8 2024,Cayman Islands,Antigua and Barbuda,1 0,World Cup qualifier in the Cayman Islands,+26 −26,825 988,+1 −4,208 189
+June 8 2024,British Virgin Islands,Guatemala,0 3,World Cup qualifier in the British Virgin Islands,−1 +1,653 1486,0 −1,227 87
+June 8 2024,Belize,Nicaragua,0 4,World Cup qualifier in Belize,−22 +22,1053 1349,−3 +6,181 122
+June 8 2024,Aruba,Curaçao,0 2,World Cup qualifier in Aruba,−12 +12,986 1355,−1 +4,190 118
+June 8 2024,Anguilla,Suriname,0 4,World Cup qualifier in Anguilla,−2 +2,601 1319,0 +2,233 132
+June 9 2024,Slovakia,Wales,4 0,Friendly in Slovakia,+16 −16,1671 1684,+2 0,46 43
+June 9 2024,Montenegro,Georgia,1 3,Friendly in Montenegro,−16 +16,1555 1666,−2 +1,69 48
+June 9 2024,Italy,Bosnia and Herzegovina,1 0,Friendly in Italy,+1 −1,1950 1476,0 0,12 90
+June 9 2024,France,Canada,0 0,Friendly in France,−9 +9,2077 1721,0 +1,2 39
+June 9 2024,Argentina,Ecuador,1 0,Friendly in the United States,+4 −4,2143 1869,0 0,1 14
+June 9 2024,Namibia,Tunisia,0 0,World Cup qualifier in South Africa,+15 −15,1378 1673,+7 −1,108 45
+June 9 2024,Mauritania,Senegal,0 1,World Cup qualifier in Mauritania,−6 +6,1346 1767,−1 0,122 30
+June 9 2024,Liberia,São Tomé and Príncipe,1 0,World Cup qualifier in Morocco,+10 −10,1269 1049,+2 −3,150 181
+June 9 2024,Democratic Republic of Congo,Togo,1 0,World Cup qualifier in the Dem Rep of the Congo,+7 −7,1556 1369,+4 −4,68 113
+June 9 2024,Djibouti,Ethiopia,1 1,World Cup qualifier in Morocco,+16 −16,945 1288,+3 −4,193 142
+June 9 2024,Panama,Montserrat,3 1,World Cup qualifier in Nicaragua,+1 −1,1711 1015,0 0,41 184
+June 9 2024,Grenada,Costa Rica,0 3,World Cup qualifier in Grenada,−6 +6,1083 1620,0 +1,174 60
+June 9 2024,El Salvador,St Vincent & Grenadines,3 1,World Cup qualifier in Suriname,+9 −9,1391 1071,+1 −1,106 177
+June 9 2024,Dominica,Jamaica,2 3,World Cup qualifier in Dominica,−2 +2,1008 1642,−1 0,186 52
+June 9 2024,Bermuda,Honduras,1 6,World Cup qualifier in Bermuda,−15 +15,1126 1513,−1 +5,169 78
+June 9 2024,Barbados,Haiti,1 3,World Cup qualifier in Barbados,−4 +4,930 1502,−2 −1,196 84
+June 10 2024,Poland,Turkey,2 1,Friendly in Poland,+8 −8,1746 1749,+2 0,32 31
+June 10 2024,Netherlands,Iceland,4 0,Friendly in the Netherlands,+2 −2,1974 1562,0 0,10 67
+June 10 2024,Czechia,North Macedonia,2 1,Friendly in Czechia,+3 −3,1777 1547,0 −1,26 73
+June 10 2024,Uganda,Algeria,1 2,World Cup qualifier in Uganda,−12 +12,1364 1644,−5 +3,115 51
+June 10 2024,Mozambique,Guinea,1 0,World Cup qualifier in Morocco,+28 −28,1396 1485,+7 −8,107 86
+June 10 2024,Guinea-Bissau,Egypt,1 1,World Cup qualifier in Guinea-Bissau,+10 −10,1363 1635,+3 −3,116 54
+June 10 2024,Ghana,Central African Republic,4 3,World Cup qualifier in Ghana,+6 −6,1541 1327,0 −2,75 127
+June 10 2024,Equatorial Guinea,Malawi,1 0,World Cup qualifier in Equatorial Guinea,+5 −5,1554 1304,+3 0,70 137
+June 10 2024,Burkina Faso,Sierra Leone,2 2,World Cup qualifier in Mali,−10 +10,1485 1325,−1 +4,86 130
+June 10 2024,Botswana,Somalia,3 1,World Cup qualifier in Mozambique,+5 −5,1335 899,+1 −2,125 200
+June 10 2024,Benin,Nigeria,2 1,World Cup qualifier in Ivory Coast,+32 −32,1404 1589,+7 −6,104 64
+June 11 2024,San Marino,Cyprus,1 4,Friendly in San Marino,−3 +3,774 1315,0 −1,212 136
+June 11 2024,Portugal,Ireland,3 0,Friendly in Portugal,+2 −2,2003 1619,0 −2,6 60
+June 11 2024,Northern Ireland,Andorra,2 0,Friendly in Spain,+3 −3,1518 1110,0 +1,77 170
+June 11 2024,Mongolia,Cambodia,2 1,Friendly in Mongolia,+9 −9,790 842,+1 −1,210 205
+June 11 2024,Moldova,Ukraine,0 4,Friendly in Moldova,−3 +3,1350 1853,0 0,120 17
+June 11 2024,Israel,Belarus,4 0,Friendly in Hungary,+13 −13,1567 1433,+3 −3,67 97
+June 11 2024,Greece,Malta,2 0,Friendly in Austria,+2 −2,1739 1257,0 0,35 153
+June 11 2024,Chile,Paraguay,3 0,Friendly in Chile,+12 −12,1725 1697,+1 0,39 42
+June 11 2024,Brunei,Sri Lanka,1 0,Friendly in Brunei,+9 −9,640 688,0 −2,228 220
+June 11 2024,Azerbaijan,Kazakhstan,3 2,Friendly in Hungary,+9 −9,1493 1453,+4 −1,84 92
+June 11 2024,Lithuania,Estonia,1 1,Baltic Cup in Lithuania,−4 +4,1356 1371,0 0,118 114
+June 11 2024,Latvia,Faroe Islands,1 0,Baltic Cup in Latvia,+9 −9,1321 1246,+1 0,134 154
+June 11 2024,United Arab Emirates,Bahrain,1 1,World Cup  and  Asian Cup qualifier in the United Arab Emirates,−9 +9,1501 1453,−2 +3,83 92
+June 11 2024,Turkmenistan,Hong Kong,0 0,World Cup  and  Asian Cup qualifier in Turkmenistan,−13 +13,1204 1068,−2 +1,161 178
+June 11 2024,Thailand,Singapore,3 1,World Cup  and  Asian Cup qualifier in Thailand,+5 −5,1426 1109,+1 −1,98 171
+June 11 2024,Tajikistan,Pakistan,3 0,World Cup  and  Asian Cup qualifier in Tajikistan,+2 −2,1380 824,−1 −1,111 208
+June 11 2024,South Korea,China,1 0,World Cup  and  Asian Cup qualifier in South Korea,+3 −3,1738 1396,0 −1,36 106
+June 11 2024,Saudi Arabia,Jordan,1 2,World Cup  and  Asian Cup qualifier in Saudi Arabia,−26 +26,1587 1635,−4 +9,65 53
+June 11 2024,Qatar,India,2 1,World Cup  and  Asian Cup qualifier in Qatar,+2 −2,1631 1194,0 0,55 162
+June 11 2024,Oman,Kyrgyzstan,1 1,World Cup  and  Asian Cup qualifier in Oman,−16 +16,1529 1279,−1 +5,75 146
+June 11 2024,North Korea,Myanmar,4 1,World Cup  and  Asian Cup qualifier in Laos,+4 −4,1395 914,0 0,108 197
+June 11 2024,Nepal,Yemen,2 2,World Cup  and  Asian Cup qualifier in Saudi Arabia,+11 −11,898 1100,0 0,201 172
+June 11 2024,Malaysia,Taiwan,3 1,World Cup  and  Asian Cup qualifier in Malaysia,+4 −4,1274 899,+2 −1,147 199
+June 11 2024,Lebanon,Bangladesh,4 0,World Cup  and  Asian Cup qualifier in Qatar,+8 −8,1297 923,+1 −1,139 196
+June 11 2024,Kuwait,Afghanistan,1 0,World Cup  and  Asian Cup qualifier in Kuwait,+6 −6,1334 1126,−1 0,127 168
+June 11 2024,Japan,Syria,5 0,World Cup  and  Asian Cup qualifier in Japan,+4 −4,1856 1417,0 −1,16 100
+June 11 2024,Iraq,Vietnam,3 1,World Cup  and  Asian Cup qualifier in Iraq,+3 −3,1660 1270,0 −3,49 151
+June 11 2024,Iran,Uzbekistan,0 0,World Cup  and  Asian Cup qualifier in Iran,−12 +12,1807 1680,0 +3,20 44
+June 11 2024,Indonesia,Philippines,2 0,World Cup  and  Asian Cup qualifier in Indonesia,+6 −6,1330 1034,+2 −1,129 184
+June 11 2024,Australia,Palestine,5 0,World Cup  and  Asian Cup qualifier in Australia,+5 −5,1774 1406,+2 −1,27 103
+June 11 2024,Zambia,Tanzania,0 1,World Cup qualifier in Zambia,−32 +32,1449 1378,−5 +10,94 112
+June 11 2024,South Sudan,Sudan,0 3,World Cup qualifier in South Sudan,−24 +24,1129 1394,−2 +3,167 109
+June 11 2024,South Africa,Zimbabwe,3 1,World Cup qualifier in South Africa,+6 −6,1589 1281,+3 0,63 145
+June 11 2024,Rwanda,Lesotho,1 0,World Cup qualifier in South Africa,+18 −18,1339 1271,+7 −10,125 150
+June 11 2024,Morocco,Congo,6 0,World Cup qualifier in Morocco,+3 −3,1774 1272,0 −2,27 149
+June 11 2024,Mauritius,Eswatini,2 1,World Cup qualifier in Mauritius,+27 −27,1037 1218,+2 −3,183 158
+June 11 2024,Madagascar,Mali,0 0,World Cup qualifier in South Africa,+14 −14,1331 1603,+6 −1,128 61
+June 11 2024,Ivory Coast,Kenya,0 0,World Cup qualifier in Malawi,−12 +12,1625 1411,−4 +3,57 102
+June 11 2024,Gabon,Gambia,3 2,World Cup qualifier in Gabon,+11 −11,1438 1350,+2 −3,95 120
+June 11 2024,Comoros,Chad,2 0,World Cup qualifier in Morocco,+21 −21,1305 1157,+9 0,137 164
+June 11 2024,Cape Verde,Libya,1 0,World Cup qualifier in Cape Verde,+8 −8,1562 1403,+2 −3,68 105
+June 11 2024,Burundi,Seychelles,3 1,World Cup qualifier in Morocco,+4 −4,1292 847,+1 0,141 204
+June 11 2024,Angola,Cameroon,1 1,World Cup qualifier in Angola,−2 +2,1511 1587,−1 0,79 65
+June 11 2024,Saint Kitts and Nevis,Bahamas,1 0,World Cup qualifier in Saint Kitts and Nevis,+4 −4,1082 810,0 0,176 209
+June 11 2024,Puerto Rico,Anguilla,8 0,World Cup qualifier in Puerto Rico,+2 −2,1148 599,+1 0,165 233
+June 11 2024,Guyana,Belize,3 1,World Cup qualifier in Barbados,+14 −14,1274 1039,+5 −2,147 182
+June 11 2024,Dominican Republic,British Virgin Islands,4 0,World Cup qualifier in the Dominican Republic,+2 −2,1208 651,+1 0,160 227
+June 11 2024,Aruba,Saint Lucia,2 2,World Cup qualifier in Barbados,+6 −6,992 1084,+1 0,189 173
+June 12 2024,United States,Brazil,1 1,Friendly in the United States,+4 −4,1790 2028,0 0,24 3
+June 12 2024,Ecuador,Bolivia,3 1,Friendly in the United States,+5 −5,1874 1595,0 0,14 62
+June 14 2024,Peru,El Salvador,1 0,Friendly in the United States,+2 −2,1744 1389,+1 0,33 110
+June 14 2024,Argentina,Guatemala,4 1,Friendly in the United States,+1 −1,2144 1485,0 0,1 86
+June 14 2024,Germany,Scotland,5 1,European Championship in Germany,+18 −18,1938 1752,0 −1,13 30
+June 15 2024,Colombia,Bolivia,3 0,Friendly in the United States,+3 −3,2015 1592,0 0,5 62
+June 15 2024,Vanuatu,Solomon Islands,1 0,Oceania Nations Cup in Vanuatu,+35 −35,1081 1255,+4 −11,177 153
+June 15 2024,Switzerland,Hungary,3 1,European Championship in Germany,+40 −40,1845 1792,+3 −3,18 22
+June 15 2024,Spain,Croatia,3 0,European Championship in Germany,+37 −37,2057 1932,+1 −2,3 13
+June 15 2024,Italy,Albania,2 1,European Championship in Germany,+7 −7,1957 1616,+1 −2,11 60
+June 16 2024,Panama,Paraguay,0 1,Friendly in Panama,−13 +13,1698 1710,−1 +1,42 41
+June 16 2024,Ecuador,Honduras,2 1,Friendly in the United States,+2 −2,1876 1511,0 0,14 78
+June 16 2024,Tahiti,Samoa,2 0,Oceania Nations Cup in Fiji,+5 −5,1191 740,0 0,163 215
+June 16 2024,Fiji,Papua New Guinea,5 1,Oceania Nations Cup in Fiji,+19 −19,1241 1064,+2 −5,155 179
+June 16 2024,Netherlands,Poland,2 1,European Championship in Germany,+11 −11,1985 1735,0 −5,10 37
+June 16 2024,England,Serbia,1 0,European Championship in Germany,+13 −13,1994 1788,+2 −3,7 24
+June 16 2024,Denmark,Slovenia,1 1,European Championship in Germany,−7 +7,1827 1740,0 +4,19 34
+June 17 2024,Slovakia,Belgium,1 0,European Championship in Germany,+43 −43,1714 1945,+6 −2,41 11
+June 17 2024,Romania,Ukraine,3 0,European Championship in Germany,+67 −67,1714 1786,+9 −7,41 24
+June 17 2024,France,Austria,1 0,European Championship in Germany,+11 −11,2088 1852,0 −1,2 16
+June 18 2024,New Zealand,Solomon Islands,3 0,Oceania Nations Cup in Vanuatu,+15 −15,1541 1240,+2 −2,74 155
+June 18 2024,Turkey,Georgia,3 1,European Championship in Germany,+29 −29,1778 1637,+5 −3,26 52
+June 18 2024,Portugal,Czechia,2 1,European Championship in Germany,+11 −11,2014 1766,0 −4,6 30
+June 19 2024,Papua New Guinea,Tahiti,1 1,Oceania Nations Cup in Fiji,+9 −9,1073 1182,+2 0,177 163
+June 19 2024,Fiji,Samoa,9 1,Oceania Nations Cup in Fiji,+4 −4,1245 736,0 0,154 215
+June 19 2024,Scotland,Switzerland,1 1,European Championship in Germany,+7 −7,1759 1838,0 0,31 17
+June 19 2024,Germany,Hungary,2 0,European Championship in Germany,+15 −15,1953 1777,+1 −6,11 26
+June 19 2024,Albania,Croatia,2 2,European Championship in Germany,+18 −18,1634 1914,+5 0,55 13
+June 20 2024,Spain,Italy,1 0,European Championship in Germany,+18 −18,2075 1939,0 −2,3 12
+June 20 2024,Serbia,Slovenia,1 1,European Championship in Germany,−3 +3,1785 1743,−1 0,23 34
+June 20 2024,Denmark,England,1 1,European Championship in Germany,+11 −11,1838 1983,+1 −2,17 9
+June 20 2024,Argentina,Canada,2 0,Copa América in the United States,+6 −6,2150 1715,0 0,1 40
+June 21 2024,Vanuatu,New Zealand,0 4,Oceania Nations Cup in Vanuatu,−10 +10,1071 1551,−1 +1,177 73
+June 21 2024,Ukraine,Slovakia,2 1,European Championship in Germany,+20 −20,1806 1694,+2 −3,20 44
+June 21 2024,France,Netherlands,0 0,European Championship in Germany,−7 +7,2081 1992,0 +1,2 7
+June 21 2024,Austria,Poland,3 1,European Championship in Germany,+25 −25,1877 1710,+2 −4,14 41
+June 21 2024,Chile,Peru,0 0,Copa América in the United States,+1 −1,1726 1743,+1 −1,38 33
+June 22 2024,Papua New Guinea,Samoa,2 1,Oceania Nations Cup in Fiji,+6 −6,1079 730,0 0,176 215
+June 22 2024,Fiji,Tahiti,1 0,Oceania Nations Cup in Fiji,+14 −14,1259 1168,+2 0,152 163
+June 22 2024,Portugal,Turkey,3 0,European Championship in Germany,+18 −18,2032 1760,+2 −5,4 30
+June 22 2024,Czechia,Georgia,1 1,European Championship in Germany,−9 +9,1757 1646,−2 +2,32 50
+June 22 2024,Belgium,Romania,2 0,European Championship in Germany,+16 −16,1961 1698,+1 −2,10 42
+June 22 2024,Venezuela,Ecuador,2 1,Copa América in the United States,+34 −34,1778 1842,+7 −1,25 16
+June 22 2024,Mexico,Jamaica,1 0,Copa América in the United States,+15 −15,1806 1627,+1 −5,20 56
+June 23 2024,Hungary,Scotland,1 0,European Championship in Germany,+24 −24,1801 1735,+4 −5,22 36
+June 23 2024,Germany,Switzerland,1 1,European Championship in Germany,−14 +14,1939 1852,0 +1,11 16
+June 23 2024,Uruguay,Panama,3 1,Copa América in the United States,+12 −12,2004 1686,0 −2,7 44
+June 23 2024,United States,Bolivia,2 0,Copa América in the United States,+11 −11,1801 1581,0 −4,22 66
+June 24 2024,Spain,Albania,1 0,European Championship in Germany,+4 −4,2079 1630,0 −2,3 56
+June 24 2024,Croatia,Italy,1 1,European Championship in Germany,+2 −2,1916 1937,0 −1,13 12
+June 24 2024,Colombia,Paraguay,2 1,Copa América in the United States,+7 −7,2022 1703,+1 −1,5 41
+June 24 2024,Brazil,Costa Rica,0 0,Copa América in the United States,−21 +21,2007 1641,−1 +7,6 52
+June 25 2024,France,Poland,1 1,European Championship in Germany,−20 +20,2061 1730,−1 +2,3 38
+June 25 2024,England,Slovenia,0 0,European Championship in Germany,−15 +15,1968 1758,+1 +1,8 31
+June 25 2024,Denmark,Serbia,0 0,European Championship in Germany,−4 +4,1834 1789,0 0,18 24
+June 25 2024,Austria,Netherlands,3 2,European Championship in Germany,+33 −33,1910 1959,0 −2,14 10
+June 25 2024,Canada,Peru,1 0,Copa América in the United States,+27 −27,1742 1716,+6 −8,33 40
+June 25 2024,Argentina,Chile,1 0,Copa América in the United States,+4 −4,2154 1722,0 −1,1 39
+June 26 2024,South Africa,Mozambique,1 1,COSAFA Cup in South Africa,−14 +14,1575 1410,−4 +3,66 103
+June 26 2024,Botswana,Eswatini,0 0,COSAFA Cup in South Africa,−6 +6,1329 1224,−3 0,129 158
+June 26 2024,Turkey,Czechia,2 1,European Championship in Germany,+25 −25,1785 1732,+5 −5,25 37
+June 26 2024,Romania,Slovakia,1 1,European Championship in Germany,0 0,1698 1694,−1 −1,43 44
+June 26 2024,Georgia,Portugal,2 0,European Championship in Germany,+68 −68,1714 1964,+9 −4,41 8
+June 26 2024,Belgium,Ukraine,0 0,European Championship in Germany,−10 +10,1951 1816,−1 +1,10 19
+June 26 2024,Venezuela,Mexico,1 0,Copa América in the United States,+27 −27,1805 1779,+5 −7,21 27
+June 26 2024,Ecuador,Jamaica,3 1,Copa América in the United States,+17 −17,1859 1610,+2 −3,15 60
+June 27 2024,Zimbabwe,Comoros,1 0,COSAFA Cup in South Africa,+21 −21,1302 1284,+6 −7,138 144
+June 27 2024,Kenya,Zambia,2 0,COSAFA Cup in South Africa,+33 −33,1444 1416,+8 −7,94 101
+June 27 2024,Vanuatu,Fiji,2 1,Oceania Nations Cup in Vanuatu,+31 −31,1102 1228,+5 −5,172 157
+June 27 2024,New Zealand,Tahiti,5 0,Oceania Nations Cup in Vanuatu,+10 −10,1561 1158,+3 0,70 163
+June 27 2024,Uruguay,Bolivia,5 0,Copa América in the United States,+8 −8,2012 1573,+1 −1,5 66
+June 27 2024,United States,Panama,1 2,Copa América in the United States,−39 +39,1762 1725,−8 +6,30 39
+June 28 2024,Lesotho,Seychelles,1 1,COSAFA Cup in South Africa,−17 +17,1254 864,−3 +1,152 203
+June 28 2024,Angola,Namibia,0 0,COSAFA Cup in South Africa,−7 +7,1504 1385,−3 +1,81 111
+June 28 2024,Colombia,Costa Rica,3 0,Copa América in the United States,+9 −9,2031 1632,0 −2,4 54
+June 28 2024,Brazil,Paraguay,4 1,Copa América in the United States,+13 −13,2020 1690,+1 −2,5 45
+June 29 2024,South Africa,Botswana,0 0,COSAFA Cup in South Africa,−15 +15,1560 1344,−5 +4,70 125
+June 29 2024,Eswatini,Mozambique,0 0,COSAFA Cup in South Africa,+10 −10,1234 1400,+2 −3,156 106
+June 29 2024,Switzerland,Italy,2 0,European Championship in Germany,+46 −46,1898 1891,+3 −3,14 15
+June 29 2024,Germany,Denmark,2 0,European Championship in Germany,+18 −18,1957 1816,+1 0,10 18
+June 29 2024,Canada,Chile,0 0,Copa América in the United States,−1 +1,1741 1723,0 0,32 40
+June 29 2024,Argentina,Peru,2 0,Copa América in the United States,+6 −6,2160 1710,0 −1,1 42
+June 30 2024,Vanuatu,New Zealand,0 3,Oceania Nations Cup in Vanuatu,−10 +10,1092 1571,−1 +3,173 66
+June 30 2024,Tahiti,Fiji,2 1,Oceania Nations Cup in Vanuatu,+30 −30,1188 1198,0 −3,163 161
+June 30 2024,Zimbabwe,Zambia,2 0,COSAFA Cup in South Africa,+40 −40,1342 1376,+12 −12,126 113
+June 30 2024,Comoros,Kenya,2 0,COSAFA Cup in South Africa,+43 −43,1327 1401,+13 −10,131 104
+June 30 2024,Spain,Georgia,4 1,European Championship in Germany,+10 −10,2089 1704,0 −1,2 42
+June 30 2024,England,Slovakia,2 1,European Championship in Germany,+9 −9,1977 1685,0 −1,7 45
+June 30 2024,Venezuela,Jamaica,3 0,Copa América in the United States,+21 −21,1826 1589,+3 −1,18 61
+June 30 2024,Ecuador,Mexico,0 0,Copa América in the United States,−6 +6,1853 1785,−1 +2,17 24
+July 1 2024,Namibia,Lesotho,2 1,COSAFA Cup in South Africa,+13 −13,1398 1241,+4 −1,106 153
+July 1 2024,Angola,Seychelles,3 2,COSAFA Cup in South Africa,+1 −1,1505 863,+1 0,80 203
+July 1 2024,Portugal,Slovenia,0 0,European Championship in Germany,−13 +13,1951 1771,−2 +2,10 29
+July 1 2024,France,Belgium,1 0,European Championship in Germany,+17 −17,2078 1934,0 0,3 11
+July 1 2024,United States,Uruguay,0 1,Copa América in the United States,−15 +15,1747 2027,−1 +1,31 5
+July 1 2024,Panama,Bolivia,3 1,Copa América in the United States,+22 −22,1747 1551,+8 −8,31 73
+July 2 2024,South Africa,Eswatini,1 0,COSAFA Cup in South Africa,+3 −3,1563 1231,+2 −1,67 157
+July 2 2024,Mozambique,Botswana,3 1,COSAFA Cup in South Africa,+25 −25,1425 1319,+6 −10,99 135
+July 2 2024,Kenya,Zimbabwe,2 0,COSAFA Cup in South Africa,+25 −25,1426 1317,+7 −11,97 137
+July 2 2024,Comoros,Zambia,1 0,COSAFA Cup in South Africa,+23 −23,1350 1353,+11 −6,120 119
+July 2 2024,Turkey,Austria,2 1,European Championship in Germany,+34 −34,1819 1876,+5 −2,19 15
+July 2 2024,Netherlands,Romania,3 0,European Championship in Germany,+16 −16,1975 1682,0 −2,8 45
+July 2 2024,Costa Rica,Paraguay,2 1,Copa América in the United States,+29 −29,1661 1661,+5 −5,49 49
+July 2 2024,Brazil,Colombia,1 1,Copa América in the United States,+1 −1,2021 2030,0 0,6 4
+July 3 2024,Namibia,Seychelles,3 1,COSAFA Cup in South Africa,+3 −3,1401 860,0 0,106 203
+July 3 2024,Angola,Lesotho,3 1,COSAFA Cup in South Africa,+11 −11,1516 1230,+2 −4,78 157
+July 4 2024,Argentina,Ecuador,1 1,Copa América in the United States,−18 +18,2142 1871,0 +1,1 16
+July 5 2024,Mozambique,Namibia,0 0,COSAFA Cup in South Africa,−1 +1,1424 1402,−1 0,100 106
+July 5 2024,Angola,Comoros,2 1,COSAFA Cup in South Africa,+11 −11,1527 1339,+1 −5,77 125
+July 5 2024,Germany,Spain,1 2,European Championship in Germany,−23 +23,1934 2112,−1 0,10 2
+July 5 2024,France,Portugal,0 0,European Championship in Germany,−9 +9,2069 1960,0 +1,3 9
+July 5 2024,Canada,Venezuela,1 1,Copa América in the United States,+6 −6,1747 1820,+2 0,31 18
+July 6 2024,Netherlands,Turkey,2 1,European Championship in Germany,+14 −14,1989 1805,+1 −3,7 22
+July 6 2024,England,Switzerland,1 1,European Championship in Germany,−6 +6,1971 1904,−1 0,8 13
+July 6 2024,Colombia,Panama,5 0,Copa América in the United States,+16 −16,2046 1731,0 −7,4 38
+July 6 2024,Brazil,Uruguay,0 0,Copa América in the United States,0 0,2021 2027,0 0,6 5
+July 7 2024,Comoros,Mozambique,2 2,COSAFA Cup in South Africa,+5 −5,1344 1419,0 0,125 100
+July 7 2024,Angola,Namibia,5 0,COSAFA Cup in South Africa,+26 −26,1553 1376,+4 −6,73 112
+July 9 2024,Spain,France,2 1,European Championship in Germany,+22 −22,2134 2047,0 0,2 3
+July 9 2024,Argentina,Canada,2 0,Copa América in the United States,+7 −7,2149 1740,0 −1,1 32
+July 10 2024,England,Netherlands,2 1,European Championship in Germany,+26 −26,1997 1963,+1 −1,7 8
+July 10 2024,Colombia,Uruguay,1 0,Copa América in the United States,+24 −24,2070 2003,+1 −1,3 6
+July 13 2024,Canada,Uruguay,2 2,Copa América in the United States,+16 −16,1756 1987,+1 −1,31 7
+July 14 2024,Spain,England,2 1,European Championship in Germany,+16 −16,2150 1981,0 −1,2 7
+July 14 2024,Argentina,Colombia,1 0,Copa América in the United States,+19 −19,2168 2051,0 0,1 3
+July 27 2024,El Salvador,Guatemala,1 0,Friendly in the United States,+13 −13,1402 1472,+3 −3,106 89
+August 17 2024,Anguilla,Saint Martin,0 0,Friendly in Anguilla,+6 −6,605 936,0 0,233 194
+August 27 2024,Jordan,North Korea,0 0,Friendly in Jordan,−8 +8,1627 1403,−3 +3,56 105

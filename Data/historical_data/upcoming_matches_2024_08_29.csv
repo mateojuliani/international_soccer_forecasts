@@ -1,0 +1,548 @@
+date,team_1,team_2,location,rank,elo,win_pct,scrape_date
+Thu Aug 29,Jordan,North Korea,Friendly in Jordan,56 105,1627 1403,87% 13%,2024-08-29
+Sun Sep 1,Guatemala,Uruguay,Friendly in the United States,89 6,1472 1987,5% 95%,2024-08-29
+Mon Sep 2,Fiji,Solomon Islands,Friendly tournament in Fiji,161 153,1198 1240,58% 42%,2024-08-29
+Tue Sep 3,India,Mauritius,Friendly tournament in India,162 183,1194 1037,81% 19%,2024-08-29
+Wed Sep 4,Comoros,Gambia,African Nations Cup qualifier in Morocco,125 120,1344 1350,49% 51%,2024-08-29
+Wed Sep 4,Kenya,Zimbabwe,African Nations Cup qualifier,97 137,1426 1317,65% 35%,2024-08-29
+Wed Sep 4,Libya,Rwanda,African Nations Cup qualifier in Libya,105 126,1403 1339,72% 28%,2024-08-29
+Wed Sep 4,Niger,Sudan,African Nations Cup qualifier in South Sudan,153 109,1240 1394,29% 71%,2024-08-29
+Wed Sep 4,Tanzania,Ethiopia,African Nations Cup qualifier in Tanzania,111 143,1378 1288,75% 25%,2024-08-29
+Wed Sep 4,Lebanon,Tajikistan,Independence Tournament in Malaysia,140 110,1297 1380,38% 62%,2024-08-29
+Wed Sep 4,Malaysia,Philippines,Independence Tournament in Malaysia,146 184,1274 1034,88% 12%,2024-08-29
+Wed Sep 4,Gibraltar,Andorra,Friendly in Gibraltar,180 170,1057 1110,57% 43%,2024-08-29
+Wed Sep 4,Anguilla,Turks and Caicos Islands,CONCACAF Nations League C in Anguilla,233 219,605 690,52% 48%,2024-08-29
+Wed Sep 4,British Virgin Islands,Cayman Islands,CONCACAF Nations League C in the British Virgin Islands,227 207,651 825,40% 60%,2024-08-29
+Wed Sep 4,US Virgin Islands,Bahamas,CONCACAF Nations League C in the US Virgin Islands,230 209,618 810,37% 63%,2024-08-29
+Thu Sep 5,Australia,Bahrain,World Cup qualifier in Australia,27 92,1774 1453,92% 8%,2024-08-29
+Thu Sep 5,Iran,Kyrgyzstan,World Cup qualifier in Iran,21 145,1807 1279,97% 3%,2024-08-29
+Thu Sep 5,Iraq,Oman,World Cup qualifier in Iraq,51 77,1660 1529,79% 21%,2024-08-29
+Thu Sep 5,Japan,China,World Cup qualifier in Japan,17 108,1856 1396,96% 4%,2024-08-29
+Thu Sep 5,Jordan,Kuwait,World Cup qualifier in Jordan,56 127,1627 1334,91% 9%,2024-08-29
+Thu Sep 5,Qatar,United Arab Emirates,World Cup qualifier in Qatar,54 83,1631 1501,79% 21%,2024-08-29
+Thu Sep 5,Saudi Arabia,Indonesia,World Cup qualifier in Saudi Arabia,63 129,1587 1330,89% 11%,2024-08-29
+Thu Sep 5,South Korea,Palestine,World Cup qualifier in South Korea,34 103,1738 1406,92% 8%,2024-08-29
+Thu Sep 5,Uzbekistan,North Korea,World Cup qualifier in Uzbekistan,46 105,1680 1403,90% 10%,2024-08-29
+Thu Sep 5,Brunei,Macao,Asian Cup qualifier in Brunei,228 225,640 665,61% 39%,2024-08-29
+Thu Sep 5,East Timor,Mongolia,Asian Cup qualifier in East Timor,231 210,610 790,39% 61%,2024-08-29
+Thu Sep 5,Sri Lanka,Cambodia,Asian Cup qualifier in Sri Lanka,220 205,688 842,42% 58%,2024-08-29
+Thu Sep 5,Algeria,Equatorial Guinea,African Nations Cup qualifier in Algeria,52 72,1644 1554,75% 25%,2024-08-29
+Thu Sep 5,Central African Republic,Lesotho,African Nations Cup qualifier in Morocco,130 157,1327 1230,64% 36%,2024-08-29
+Thu Sep 5,Congo,South Sudan,African Nations Cup qualifier in Congo,148 167,1272 1129,80% 20%,2024-08-29
+Thu Sep 5,Ghana,Angola,African Nations Cup qualifier in Ghana,76 73,1541 1553,62% 38%,2024-08-29
+Thu Sep 5,Guinea-Bissau,Eswatini,African Nations Cup qualifier in Guinea-Bissau,116 156,1363 1231,79% 21%,2024-08-29
+Thu Sep 5,Malawi,Burundi,African Nations Cup qualifier in Malawi,139 142,1304 1292,66% 34%,2024-08-29
+Thu Sep 5,Tunisia,Madagascar,African Nations Cup qualifier in Tunisia,48 128,1673 1331,93% 7%,2024-08-29
+Thu Sep 5,Denmark,Switzerland,European Nations League A in Denmark,19 13,1816 1904,52% 48%,2024-08-29
+Thu Sep 5,Portugal,Croatia,European Nations League A in Portugal,9 12,1960 1916,70% 30%,2024-08-29
+Thu Sep 5,Scotland,Poland,European Nations League A in Scotland,35 39,1735 1730,65% 35%,2024-08-29
+Thu Sep 5,Serbia,Spain,European Nations League A in Serbia,24 2,1789 2150,18% 82%,2024-08-29
+Thu Sep 5,Azerbaijan,Sweden,European Nations League C in Azerbaijan,84 47,1493 1675,38% 62%,2024-08-29
+Thu Sep 5,Belarus,Bulgaria,European Nations League C in Belarus,96 85,1433 1488,56% 44%,2024-08-29
+Thu Sep 5,Estonia,Slovakia,European Nations League C in Estonia,113 43,1371 1685,23% 77%,2024-08-29
+Thu Sep 5,Northern Ireland,Luxembourg,European Nations League C in Northern Ireland,78 79,1518 1511,65% 35%,2024-08-29
+Thu Sep 5,San Marino,Liechtenstein,European Nations League D in San Marino,212 191,774 968,37% 63%,2024-08-29
+Thu Sep 5,Hong Kong,Solomon Islands,Friendly tournament in Fiji,179 153,1068 1240,27% 73%,2024-08-29
+Thu Sep 5,Bhutan,Bangladesh,Friendly in Bhutan,232 196,607 923,22% 78%,2024-08-29
+Thu Sep 5,Vietnam,Russia,Friendly tournament in Vietnam,149 26,1270 1780,9% 91%,2024-08-29
+Thu Sep 5,Argentina,Chile,World Cup qualifier in Argentina,1 40,2168 1723,96% 4%,2024-08-29
+Thu Sep 5,Bolivia,Venezuela,World Cup qualifier in Bolivia,74 18,1551 1820,27% 73%,2024-08-29
+Thu Sep 5,Costa Rica,Guadeloupe,CONCACAF Nations League A in Costa Rica,49 130,1661 1327,92% 8%,2024-08-29
+Thu Sep 5,Guatemala,Martinique,CONCACAF Nations League A in Guatemala,89 95,1472 1437,69% 31%,2024-08-29
+Thu Sep 5,Guyana,Suriname,CONCACAF Nations League A in Guyana,146 135,1274 1319,58% 42%,2024-08-29
+Thu Sep 5,Bonaire,St Vincent & Grenadines,CONCACAF Nations League B in Bonaire,206 178,827 1071,30% 70%,2024-08-29
+Thu Sep 5,Montserrat,El Salvador,CONCACAF Nations League B in Montserrat,185 107,1015 1402,16% 84%,2024-08-29
+Fri Sep 6,Chad,Sierra Leone,African Nations Cup qualifier in Liberia,164 133,1157 1325,28% 72%,2024-08-29
+Fri Sep 6,DR Congo,Guinea,African Nations Cup qualifier in the Dem Rep of the Congo,70 86,1556 1485,73% 27%,2024-08-29
+Fri Sep 6,Egypt,Cape Verde,African Nations Cup qualifier in Egypt,53 68,1635 1562,73% 27%,2024-08-29
+Fri Sep 6,Ivory Coast,Zambia,African Nations Cup qualifier in Ivory Coast,58 119,1625 1353,89% 11%,2024-08-29
+Fri Sep 6,Mali,Mozambique,African Nations Cup qualifier in Mali,60 100,1603 1419,84% 16%,2024-08-29
+Fri Sep 6,Morocco,Gabon,African Nations Cup qualifier in Morocco,27 94,1774 1438,92% 8%,2024-08-29
+Fri Sep 6,Senegal,Burkina Faso,African Nations Cup qualifier in Senegal,30 86,1767 1485,90% 10%,2024-08-29
+Fri Sep 6,South Africa,Uganda,African Nations Cup qualifier in South Africa,67 115,1563 1364,85% 15%,2024-08-29
+Fri Sep 6,Togo,Liberia,African Nations Cup qualifier in Togo,114 150,1369 1269,76% 24%,2024-08-29
+Fri Sep 6,Belgium,Israel,European Nations League A in Hungary,10 66,1934 1567,89% 11%,2024-08-29
+Fri Sep 6,France,Italy,European Nations League A in France,4 14,2047 1891,81% 19%,2024-08-29
+Fri Sep 6,Iceland,Montenegro,European Nations League B in Iceland,68 71,1562 1555,65% 35%,2024-08-29
+Fri Sep 6,Kazakhstan,Norway,European Nations League B in Kazakhstan,92 36,1453 1734,26% 74%,2024-08-29
+Fri Sep 6,Slovenia,Austria,European Nations League B in Slovenia,29 15,1771 1876,49% 51%,2024-08-29
+Fri Sep 6,Wales,Turkey,European Nations League B in Wales,44 22,1684 1805,47% 53%,2024-08-29
+Fri Sep 6,Kosovo,Romania,European Nations League C in Kosovo,81 45,1505 1682,39% 61%,2024-08-29
+Fri Sep 6,Lithuania,Cyprus,European Nations League C in Lithuania,117 138,1356 1315,69% 31%,2024-08-29
+Fri Sep 6,Mauritius,Syria,Friendly tournament in India,183 101,1037 1417,10% 90%,2024-08-29
+Fri Sep 6,French Guiana,Nicaragua,CONCACAF Nations League A in French Guiana,143 122,1288 1349,56% 44%,2024-08-29
+Fri Sep 6,Honduras,Trinidad and Tobago,CONCACAF Nations League A in Honduras,79 102,1511 1413,76% 24%,2024-08-29
+Fri Sep 6,Jamaica,Cuba,CONCACAF Nations League A in Jamaica,61 141,1589 1295,91% 9%,2024-08-29
+Fri Sep 6,Puerto Rico,Haiti,CONCACAF Nations League B in Puerto Rico,165 82,1148 1502,19% 81%,2024-08-29
+Fri Sep 6,Saint Lucia,Curaçao,CONCACAF Nations League B in Saint Lucia,174 118,1084 1355,27% 73%,2024-08-29
+Fri Sep 6,Saint Martin,Grenada,CONCACAF Nations League B in Saint Martin,194 175,936 1083,43% 57%,2024-08-29
+Fri Sep 6,Sint Maarten,Aruba,CONCACAF Nations League B in Sint Maarten,204 189,855 992,45% 55%,2024-08-29
+Fri Sep 6,Brazil,Ecuador,World Cup qualifier in Brazil,5 16,2021 1871,81% 19%,2024-08-29
+Fri Sep 6,Peru,Colombia,World Cup qualifier in Peru,41 3,1710 2051,20% 80%,2024-08-29
+Fri Sep 6,Uruguay,Paraguay,World Cup qualifier in Uruguay,6 49,1987 1661,92% 8%,2024-08-29
+Sat Sep 7,Cook Islands,Tonga,World Cup qualifier in Samoa,221 238,685 481,76% 24%,2024-08-29
+Sat Sep 7,Samoa,Eastern Samoa,World Cup qualifier in Samoa,215 241,730 377,93% 7%,2024-08-29
+Sat Sep 7,Cameroon,Namibia,African Nations Cup qualifier in Cameroon,63 112,1587 1376,86% 14%,2024-08-29
+Sat Sep 7,Mauritania,Botswana,African Nations Cup qualifier in Mauritania,123 135,1346 1319,68% 32%,2024-08-29
+Sat Sep 7,Nigeria,Benin,African Nations Cup qualifier in Nigeria,61 104,1589 1404,84% 16%,2024-08-29
+Sat Sep 7,Germany,Hungary,European Nations League A in Germany,10 23,1934 1801,79% 21%,2024-08-29
+Sat Sep 7,Netherlands,Bosnia and Herzegovina,European Nations League A in the Netherlands,8 88,1963 1476,97% 3%,2024-08-29
+Sat Sep 7,Georgia,Czechia,European Nations League B in Georgia,42 37,1704 1732,60% 40%,2024-08-29
+Sat Sep 7,Greece,Finland,European Nations League B in Greece,33 56,1739 1627,77% 23%,2024-08-29
+Sat Sep 7,Ireland,England,European Nations League B in Ireland,59 7,1619 1981,18% 82%,2024-08-29
+Sat Sep 7,Ukraine,Albania,European Nations League B in Czechia,19 55,1816 1630,74% 26%,2024-08-29
+Sat Sep 7,Armenia,Latvia,European Nations League C in Armenia,90 134,1462 1321,80% 20%,2024-08-29
+Sat Sep 7,Faroe Islands,North Macedonia,European Nations League C in the Faroe Islands,152 75,1246 1547,24% 76%,2024-08-29
+Sat Sep 7,Moldova,Malta,European Nations League D in Moldova,120 151,1350 1257,75% 25%,2024-08-29
+Sat Sep 7,Russia,Thailand,Friendly tournament in Vietnam,26 97,1780 1426,88% 12%,2024-08-29
+Sat Sep 7,United States,Canada,Friendly in the United States,32 31,1747 1756,63% 37%,2024-08-29
+Sat Sep 7,Bermuda,Dominican Republic,CONCACAF Nations League B in Bermuda,168 159,1126 1208,53% 47%,2024-08-29
+Sat Sep 7,Dominica,Antigua and Barbuda,CONCACAF Nations League B in Dominica,186 190,1008 988,67% 33%,2024-08-29
+Sat Sep 7,Bahamas,Barbados,CONCACAF Nations League C in the Bahamas,209 195,810 930,47% 53%,2024-08-29
+Sat Sep 7,Cayman Islands,Saint Kitts and Nevis,CONCACAF Nations League C in the Cayman Islands,207 176,825 1082,29% 71%,2024-08-29
+Sat Sep 7,Turks and Caicos Islands,Belize,CONCACAF Nations League C in Turks and Caicos Islands,219 182,690 1039,19% 81%,2024-08-29
+Sat Sep 7,Mexico,New Zealand,Friendly in the United States,25 65,1785 1571,77% 23%,2024-08-29
+Sun Sep 8,Angola,Sudan,African Nations Cup qualifier in Angola,73 109,1553 1394,82% 18%,2024-08-29
+Sun Sep 8,Gambia,Tunisia,African Nations Cup qualifier in Morocco,120 48,1350 1673,13% 87%,2024-08-29
+Sun Sep 8,Uganda,Congo,African Nations Cup qualifier in Uganda,115 148,1364 1272,75% 25%,2024-08-29
+Sun Sep 8,Croatia,Poland,European Nations League A in Croatia,12 39,1916 1730,84% 16%,2024-08-29
+Sun Sep 8,Denmark,Serbia,European Nations League A in Denmark,19 24,1816 1789,68% 32%,2024-08-29
+Sun Sep 8,Portugal,Scotland,European Nations League A in Portugal,9 35,1960 1735,87% 13%,2024-08-29
+Sun Sep 8,Switzerland,Spain,European Nations League A in Switzerland,13 2,1904 2150,30% 70%,2024-08-29
+Sun Sep 8,Bulgaria,Northern Ireland,European Nations League C in Bulgaria,85 78,1488 1518,60% 40%,2024-08-29
+Sun Sep 8,Luxembourg,Belarus,European Nations League C in Luxembourg,79 96,1511 1433,74% 26%,2024-08-29
+Sun Sep 8,Slovakia,Azerbaijan,European Nations League C in Slovakia,43 84,1685 1493,84% 16%,2024-08-29
+Sun Sep 8,Sweden,Estonia,European Nations League C in Sweden,47 113,1675 1371,91% 9%,2024-08-29
+Sun Sep 8,Gibraltar,Liechtenstein,European Nations League D in Gibraltar,180 191,1057 968,75% 25%,2024-08-29
+Sun Sep 8,Bhutan,Bangladesh,Friendly in Bhutan,232 196,607 923,22% 78%,2024-08-29
+Sun Sep 8,Fiji,Hong Kong,Friendly tournament in Fiji,161 179,1198 1068,79% 21%,2024-08-29
+Sun Sep 8,El Salvador,Bonaire,CONCACAF Nations League B in El Salvador,107 206,1402 827,98% 2%,2024-08-29
+Sun Sep 8,St Vincent & Grenadines,Montserrat,CONCACAF Nations League B in St Vincent & Grenadines,178 185,1071 1015,71% 29%,2024-08-29
+Mon Sep 9,Burundi,Senegal,African Nations Cup qualifier in Malawi,142 30,1292 1767,6% 94%,2024-08-29
+Mon Sep 9,Comoros,Madagascar,African Nations Cup qualifier in Morocco,125 128,1344 1331,52% 48%,2024-08-29
+Mon Sep 9,Equatorial Guinea,Togo,African Nations Cup qualifier in Equatorial Guinea,72 114,1554 1369,84% 16%,2024-08-29
+Mon Sep 9,Ethiopia,DR Congo,African Nations Cup qualifier in Tanzania,143 70,1288 1556,18% 82%,2024-08-29
+Mon Sep 9,Ghana,Niger,African Nations Cup qualifier in Morocco,76 153,1541 1240,85% 15%,2024-08-29
+Mon Sep 9,Morocco,Lesotho,African Nations Cup qualifier in Morocco,27 157,1774 1230,98% 2%,2024-08-29
+Mon Sep 9,Zambia,Sierra Leone,African Nations Cup qualifier in Zambia,119 133,1353 1325,68% 32%,2024-08-29
+Mon Sep 9,France,Belgium,European Nations League A in France,4 10,2047 1934,77% 23%,2024-08-29
+Mon Sep 9,Israel,Italy,European Nations League A in Israel,66 14,1567 1891,22% 78%,2024-08-29
+Mon Sep 9,Montenegro,Wales,European Nations League B in Montenegro,71 44,1555 1684,46% 54%,2024-08-29
+Mon Sep 9,Norway,Austria,European Nations League B in Norway,36 15,1734 1876,44% 56%,2024-08-29
+Mon Sep 9,Slovenia,Kazakhstan,European Nations League B in Slovenia,29 92,1771 1453,92% 8%,2024-08-29
+Mon Sep 9,Turkey,Iceland,European Nations League B in Turkey,22 68,1805 1562,88% 12%,2024-08-29
+Mon Sep 9,Cyprus,Kosovo,European Nations League C in Cyprus,138 81,1315 1505,37% 63%,2024-08-29
+Mon Sep 9,Romania,Lithuania,European Nations League C in Romania,45 117,1682 1356,92% 8%,2024-08-29
+Mon Sep 9,India,Syria,Friendly tournament in India,162 101,1194 1417,33% 67%,2024-08-29
+Mon Sep 9,Guadeloupe,Suriname,CONCACAF Nations League A in Guadeloupe,130 135,1327 1319,65% 35%,2024-08-29
+Mon Sep 9,Guatemala,Costa Rica,CONCACAF Nations League A in Guatemala,89 49,1472 1661,37% 63%,2024-08-29
+Mon Sep 9,Martinique,Guyana,CONCACAF Nations League A in Martinique,95 146,1437 1274,82% 18%,2024-08-29
+Mon Sep 9,Aruba,Puerto Rico,CONCACAF Nations League B in Aruba,189 165,992 1148,42% 58%,2024-08-29
+Mon Sep 9,Curaçao,Saint Martin,CONCACAF Nations League B in Curaçao,118 194,1355 936,95% 5%,2024-08-29
+Mon Sep 9,Grenada,Saint Lucia,CONCACAF Nations League B in Grenada,175 174,1083 1084,64% 36%,2024-08-29
+Mon Sep 9,Haiti,Sint Maarten,CONCACAF Nations League B in Haiti,82 204,1502 855,98.7% 1.3%,2024-08-29
+Tue Sep 10,Bahrain,Japan,World Cup qualifier in Bahrain,92 17,1453 1856,15% 85%,2024-08-29
+Tue Sep 10,China,Saudi Arabia,World Cup qualifier in China,108 63,1396 1587,37% 63%,2024-08-29
+Tue Sep 10,Indonesia,Australia,World Cup qualifier in Indonesia,129 27,1330 1774,12% 88%,2024-08-29
+Tue Sep 10,Kuwait,Iraq,World Cup qualifier in Kuwait,127 51,1334 1660,21% 79%,2024-08-29
+Tue Sep 10,North Korea,Qatar,World Cup qualifier in North Korea,105 54,1403 1631,32% 68%,2024-08-29
+Tue Sep 10,Oman,South Korea,World Cup qualifier in Oman,77 34,1529 1738,35% 65%,2024-08-29
+Tue Sep 10,Palestine,Jordan,World Cup qualifier in Palestine,103 56,1406 1627,33% 67%,2024-08-29
+Tue Sep 10,United Arab Emirates,Iran,World Cup qualifier in the United Arab Emirates,83 21,1501 1807,23% 77%,2024-08-29
+Tue Sep 10,Cambodia,Sri Lanka,Asian Cup qualifier in Cambodia,205 220,842 688,81% 19%,2024-08-29
+Tue Sep 10,Macao,Brunei,Asian Cup qualifier in Macao,225 228,665 640,67% 33%,2024-08-29
+Tue Sep 10,Mongolia,East Timor,Asian Cup qualifier in Mongolia,210 231,790 610,83% 17%,2024-08-29
+Tue Sep 10,Benin,Libya,African Nations Cup qualifier in Ivory Coast,104 105,1404 1403,50% 50%,2024-08-29
+Tue Sep 10,Botswana,Egypt,African Nations Cup qualifier in Botswana,135 53,1319 1635,22% 78%,2024-08-29
+Tue Sep 10,Burkina Faso,Malawi,African Nations Cup qualifier in Mali,86 139,1485 1304,74% 26%,2024-08-29
+Tue Sep 10,Cameroon,Zimbabwe,African Nations Cup qualifier,63 137,1587 1317,83% 17%,2024-08-29
+Tue Sep 10,Cape Verde,Mauritania,African Nations Cup qualifier in Cape Verde,68 123,1562 1346,86% 14%,2024-08-29
+Tue Sep 10,Chad,Ivory Coast,African Nations Cup qualifier in Cameroon,164 58,1157 1625,6% 94%,2024-08-29
+Tue Sep 10,Eswatini,Mali,African Nations Cup qualifier in South Africa,156 60,1231 1603,11% 89%,2024-08-29
+Tue Sep 10,Gabon,Central African Republic,African Nations Cup qualifier in Gabon,94 130,1438 1327,77% 23%,2024-08-29
+Tue Sep 10,Guinea,Tanzania,African Nations Cup qualifier in Ivory Coast,86 111,1485 1378,65% 35%,2024-08-29
+Tue Sep 10,Kenya,Namibia,African Nations Cup qualifier in South Africa,97 112,1426 1376,57% 43%,2024-08-29
+Tue Sep 10,Liberia,Algeria,African Nations Cup qualifier in Liberia,150 52,1269 1644,17% 83%,2024-08-29
+Tue Sep 10,Mozambique,Guinea-Bissau,African Nations Cup qualifier in Mozambique,100 116,1419 1363,71% 29%,2024-08-29
+Tue Sep 10,Rwanda,Nigeria,African Nations Cup qualifier in Rwanda,126 61,1339 1589,30% 70%,2024-08-29
+Tue Sep 10,South Sudan,South Africa,African Nations Cup qualifier in South Sudan,167 67,1129 1563,13% 87%,2024-08-29
+Tue Sep 10,Hungary,Bosnia and Herzegovina,European Nations League A in Hungary,23 88,1801 1476,92% 8%,2024-08-29
+Tue Sep 10,Netherlands,Germany,European Nations League A in the Netherlands,8 10,1963 1934,68% 32%,2024-08-29
+Tue Sep 10,Albania,Georgia,European Nations League B in Albania,55 42,1630 1704,54% 46%,2024-08-29
+Tue Sep 10,Czechia,Ukraine,European Nations League B in Czechia,37 19,1732 1816,52% 48%,2024-08-29
+Tue Sep 10,England,Finland,European Nations League B in England,7 56,1981 1627,93% 7%,2024-08-29
+Tue Sep 10,Ireland,Greece,European Nations League B in Ireland,59 33,1619 1739,47% 53%,2024-08-29
+Tue Sep 10,Latvia,Faroe Islands,European Nations League C in Latvia,134 152,1321 1246,73% 27%,2024-08-29
+Tue Sep 10,North Macedonia,Armenia,European Nations League C in North Macedonia,75 90,1547 1462,74% 26%,2024-08-29
+Tue Sep 10,Andorra,Malta,European Nations League D in Andorra,170 151,1110 1257,43% 57%,2024-08-29
+Tue Sep 10,Canada,Mexico,Friendly in the United States,31 25,1756 1785,46% 54%,2024-08-29
+Tue Sep 10,United States,New Zealand,Friendly in the United States,32 65,1747 1571,83% 17%,2024-08-29
+Tue Sep 10,Moldova,San Marino,Friendly in Moldova,120 212,1350 774,98% 2%,2024-08-29
+Tue Sep 10,Vietnam,Thailand,Friendly tournament in Vietnam,149 97,1270 1426,42% 58%,2024-08-29
+Tue Sep 10,Chile,Bolivia,World Cup qualifier in Chile,40 74,1723 1551,83% 17%,2024-08-29
+Tue Sep 10,Colombia,Argentina,World Cup qualifier in Colombia,3 1,2051 2168,48% 52%,2024-08-29
+Tue Sep 10,Ecuador,Peru,World Cup qualifier in Ecuador,16 41,1871 1710,82% 18%,2024-08-29
+Tue Sep 10,Paraguay,Brazil,World Cup qualifier in Paraguay,49 5,1661 2021,18% 82%,2024-08-29
+Tue Sep 10,Venezuela,Uruguay,World Cup qualifier in Venezuela,18 6,1820 1987,40% 60%,2024-08-29
+Tue Sep 10,Cuba,Nicaragua,CONCACAF Nations League A in Cuba,141 122,1295 1349,57% 43%,2024-08-29
+Tue Sep 10,Honduras,Jamaica,CONCACAF Nations League A in Honduras,79 61,1511 1589,53% 47%,2024-08-29
+Tue Sep 10,Trinidad and Tobago,French Guiana,CONCACAF Nations League A in Trinidad and Tobago,102 143,1413 1288,79% 21%,2024-08-29
+Tue Sep 10,Antigua and Barbuda,Bermuda,CONCACAF Nations League B in Antigua and Barbuda,190 168,988 1126,45% 55%,2024-08-29
+Tue Sep 10,Dominican Republic,Dominica,CONCACAF Nations League B in the Dominican Republic,159 186,1208 1008,85% 15%,2024-08-29
+Tue Sep 10,Barbados,US Virgin Islands,CONCACAF Nations League C in Barbados,195 230,930 618,91% 9%,2024-08-29
+Tue Sep 10,Belize,Anguilla,CONCACAF Nations League C in Belize,182 233,1039 605,96% 4%,2024-08-29
+Tue Sep 10,Saint Kitts and Nevis,British Virgin Islands,CONCACAF Nations League C in Saint Kitts and Nevis,176 227,1082 651,96% 4%,2024-08-29
+Sat Sep 14,Brunei,East Timor,Southeast Asian Champ qual in Brunei,228 231,640 610,68% 32%,2024-08-29
+Sat Sep 21,East Timor,Brunei,Southeast Asian Champ qual in East Timor,231 228,610 640,60% 40%,2024-08-29
+Wed Oct 9,Vietnam,India,Friendly tournament in Vietnam,149 162,1270 1194,73% 27%,2024-08-29
+Wed Oct 9,Bahamas,US Virgin Islands,CONCACAF Nations League C in the Bahamas,209 230,810 618,84% 16%,2024-08-29
+Wed Oct 9,Cayman Islands,British Virgin Islands,CONCACAF Nations League C in the Cayman Islands,207 227,825 651,83% 17%,2024-08-29
+Wed Oct 9,Turks and Caicos Islands,Anguilla,CONCACAF Nations League C in Turks and Caicos Islands,219 233,690 605,74% 26%,2024-08-29
+Thu Oct 10,Fiji,Solomon Islands,World Cup qualifier in Fiji,161 153,1198 1240,58% 42%,2024-08-29
+Thu Oct 10,New Caledonia,Papua New Guinea,World Cup qualifier in Fiji,155 177,1234 1079,71% 29%,2024-08-29
+Thu Oct 10,Australia,China,World Cup qualifier in Australia,27 108,1774 1396,94% 6%,2024-08-29
+Thu Oct 10,Bahrain,Indonesia,World Cup qualifier in Bahrain,92 129,1453 1330,78% 22%,2024-08-29
+Thu Oct 10,Iraq,Palestine,World Cup qualifier in Iraq,51 103,1660 1406,88% 12%,2024-08-29
+Thu Oct 10,Jordan,South Korea,World Cup qualifier in Jordan,56 34,1627 1738,48% 52%,2024-08-29
+Thu Oct 10,Oman,Kuwait,World Cup qualifier in Oman,77 127,1529 1334,85% 15%,2024-08-29
+Thu Oct 10,Qatar,Kyrgyzstan,World Cup qualifier in Qatar,54 145,1631 1279,93% 7%,2024-08-29
+Thu Oct 10,Saudi Arabia,Japan,World Cup qualifier in Saudi Arabia,63 17,1587 1856,27% 73%,2024-08-29
+Thu Oct 10,United Arab Emirates,North Korea,World Cup qualifier in the United Arab Emirates,83 105,1501 1403,76% 24%,2024-08-29
+Thu Oct 10,Uzbekistan,Iran,World Cup qualifier in Uzbekistan,46 21,1680 1807,46% 54%,2024-08-29
+Thu Oct 10,Israel,France,European Nations League A in Israel,66 4,1567 2047,10% 90%,2024-08-29
+Thu Oct 10,Italy,Belgium,European Nations League A in Italy,14 10,1891 1934,58% 42%,2024-08-29
+Thu Oct 10,Austria,Kazakhstan,European Nations League B in Austria,15 92,1876 1453,95% 5%,2024-08-29
+Thu Oct 10,England,Greece,European Nations League B in England,7 33,1981 1739,88% 12%,2024-08-29
+Thu Oct 10,Finland,Ireland,European Nations League B in Finland,56 59,1627 1619,65% 35%,2024-08-29
+Thu Oct 10,Norway,Slovenia,European Nations League B in Norway,36 29,1734 1771,59% 41%,2024-08-29
+Thu Oct 10,Faroe Islands,Armenia,European Nations League C in the Faroe Islands,152 90,1246 1462,34% 66%,2024-08-29
+Thu Oct 10,Latvia,North Macedonia,European Nations League C in Latvia,134 75,1321 1547,33% 67%,2024-08-29
+Thu Oct 10,Gibraltar,San Marino,European Nations League D in Gibraltar,180 212,1057 774,90% 10%,2024-08-29
+Thu Oct 10,Moldova,Andorra,European Nations League D in Moldova,120 170,1350 1110,88% 12%,2024-08-29
+Thu Oct 10,Liechtenstein,Hong Kong,Friendly in Liechtenstein,191 179,968 1068,50% 50%,2024-08-29
+Thu Oct 10,Bolivia,Colombia,World Cup qualifier in Bolivia,74 3,1551 2051,9% 91%,2024-08-29
+Thu Oct 10,Chile,Brazil,World Cup qualifier in Chile,40 5,1723 2021,24% 76%,2024-08-29
+Thu Oct 10,Ecuador,Paraguay,World Cup qualifier in Ecuador,16 49,1871 1661,86% 14%,2024-08-29
+Thu Oct 10,Peru,Uruguay,World Cup qualifier in Peru,41 6,1710 1987,27% 73%,2024-08-29
+Thu Oct 10,Venezuela,Argentina,World Cup qualifier in Venezuela,18 1,1820 2168,19% 81%,2024-08-29
+Thu Oct 10,Cuba,Trinidad and Tobago,CONCACAF Nations League A in Cuba,141 102,1295 1413,47% 53%,2024-08-29
+Thu Oct 10,French Guiana,Honduras,CONCACAF Nations League A in French Guiana,143 79,1288 1511,33% 67%,2024-08-29
+Thu Oct 10,Nicaragua,Jamaica,CONCACAF Nations League A in Nicaragua,122 61,1349 1589,31% 69%,2024-08-29
+Thu Oct 10,Bonaire,Montserrat,CONCACAF Nations League B in Bonaire,206 185,827 1015,38% 62%,2024-08-29
+Thu Oct 10,St Vincent & Grenadines,El Salvador,CONCACAF Nations League B in St Vincent & Grenadines,178 107,1071 1402,21% 79%,2024-08-29
+Fri Oct 11,New Zealand,Tahiti,World Cup qualifier in Vanuatu,65 163,1571 1188,90% 10%,2024-08-29
+Fri Oct 11,Bosnia and Herzegovina,Germany,European Nations League A in Bosnia and Herzegovina,88 10,1476 1934,11% 89%,2024-08-29
+Fri Oct 11,Hungary,Netherlands,European Nations League A in Hungary,23 8,1801 1963,41% 59%,2024-08-29
+Fri Oct 11,Czechia,Albania,European Nations League B in Czechia,37 55,1732 1630,76% 24%,2024-08-29
+Fri Oct 11,Iceland,Wales,European Nations League B in Iceland,68 44,1562 1684,47% 53%,2024-08-29
+Fri Oct 11,Turkey,Montenegro,European Nations League B in Turkey,22 71,1805 1555,88% 12%,2024-08-29
+Fri Oct 11,Ukraine,Georgia,European Nations League B in Ukraine,19 42,1816 1704,77% 23%,2024-08-29
+Fri Oct 11,Estonia,Azerbaijan,European Nations League C in Estonia,113 84,1371 1493,47% 53%,2024-08-29
+Fri Oct 11,Slovakia,Sweden,European Nations League C in Slovakia,43 47,1685 1675,65% 35%,2024-08-29
+Fri Oct 11,Cambodia,Taiwan,Friendly in Cambodia,205 199,842 899,56% 44%,2024-08-29
+Fri Oct 11,Guadeloupe,Martinique,CONCACAF Nations League A in Guadeloupe,130 95,1327 1437,49% 51%,2024-08-29
+Fri Oct 11,Guyana,Guatemala,CONCACAF Nations League A in Guyana,146 89,1274 1472,36% 64%,2024-08-29
+Fri Oct 11,Suriname,Costa Rica,CONCACAF Nations League A in Suriname,135 49,1319 1661,20% 80%,2024-08-29
+Fri Oct 11,Aruba,Haiti,CONCACAF Nations League B in Aruba,189 82,992 1502,9% 91%,2024-08-29
+Fri Oct 11,Grenada,Curaçao,CONCACAF Nations League B in Grenada,175 118,1083 1355,27% 73%,2024-08-29
+Fri Oct 11,Sint Maarten,Puerto Rico,CONCACAF Nations League B in Sint Maarten,204 165,855 1148,25% 75%,2024-08-29
+Fri Oct 11,Saint Martin,Saint Lucia,CONCACAF Nations League B in Saint Martin,194 174,936 1084,43% 57%,2024-08-29
+Sat Oct 12,Croatia,Scotland,European Nations League A in Croatia,12 35,1916 1735,83% 17%,2024-08-29
+Sat Oct 12,Poland,Portugal,European Nations League A in Poland,39 9,1730 1960,32% 68%,2024-08-29
+Sat Oct 12,Serbia,Switzerland,European Nations League A in Serbia,24 13,1789 1904,48% 52%,2024-08-29
+Sat Oct 12,Spain,Denmark,European Nations League A in Spain,2 19,2150 1816,92% 8%,2024-08-29
+Sat Oct 12,Belarus,Northern Ireland,European Nations League C in Belarus,96 78,1433 1518,52% 48%,2024-08-29
+Sat Oct 12,Bulgaria,Luxembourg,European Nations League C in Bulgaria,85 79,1488 1511,61% 39%,2024-08-29
+Sat Oct 12,Cyprus,Romania,European Nations League C in Cyprus,138 45,1315 1682,18% 82%,2024-08-29
+Sat Oct 12,Lithuania,Kosovo,European Nations League C in Lithuania,117 81,1356 1505,43% 57%,2024-08-29
+Sat Oct 12,India,Lebanon,Friendly tournament in Vietnam,162 140,1194 1297,36% 64%,2024-08-29
+Sat Oct 12,United States,Panama,Friendly in the United States,32 38,1747 1731,66% 34%,2024-08-29
+Sat Oct 12,Antigua and Barbuda,Dominican Republic,CONCACAF Nations League B in Antigua and Barbuda,190 159,988 1208,33% 67%,2024-08-29
+Sat Oct 12,Dominica,Bermuda,CONCACAF Nations League B in Dominica,186 168,1008 1126,47% 53%,2024-08-29
+Sat Oct 12,Anguilla,Belize,CONCACAF Nations League C in Anguilla,233 182,605 1039,13% 87%,2024-08-29
+Sat Oct 12,British Virgin Islands,Saint Kitts and Nevis,CONCACAF Nations League C in the British Virgin Islands,227 176,651 1082,13% 87%,2024-08-29
+Sat Oct 12,US Virgin Islands,Barbados,CONCACAF Nations League C in the US Virgin Islands,230 195,618 930,23% 77%,2024-08-29
+Sun Oct 13,Austria,Norway,European Nations League B in Austria,15 36,1876 1734,80% 20%,2024-08-29
+Sun Oct 13,Finland,England,European Nations League B in Finland,56 7,1627 1981,19% 81%,2024-08-29
+Sun Oct 13,Greece,Ireland,European Nations League B in Greece,33 59,1739 1619,78% 22%,2024-08-29
+Sun Oct 13,Kazakhstan,Slovenia,European Nations League B in Kazakhstan,92 29,1453 1771,22% 78%,2024-08-29
+Sun Oct 13,Armenia,North Macedonia,European Nations League C in Armenia,90 75,1462 1547,52% 48%,2024-08-29
+Sun Oct 13,Faroe Islands,Latvia,European Nations League C in the Faroe Islands,152 134,1246 1321,54% 46%,2024-08-29
+Sun Oct 13,Liechtenstein,Gibraltar,European Nations League D in Liechtenstein,191 180,968 1057,52% 48%,2024-08-29
+Sun Oct 13,Malta,Moldova,European Nations League D in Malta,151 120,1257 1350,51% 49%,2024-08-29
+Sun Oct 13,Andorra,San Marino,Friendly in Andorra,170 212,1110 774,92% 8%,2024-08-29
+Sun Oct 13,El Salvador,St Vincent & Grenadines,CONCACAF Nations League B in El Salvador,107 178,1402 1071,92% 8%,2024-08-29
+Sun Oct 13,Montserrat,Bonaire,CONCACAF Nations League B in Montserrat,185 206,1015 827,84% 16%,2024-08-29
+Mon Oct 14,Belgium,France,European Nations League A in Belgium,10 4,1934 2047,48% 52%,2024-08-29
+Mon Oct 14,Bosnia and Herzegovina,Hungary,European Nations League A in Bosnia and Herzegovina,88 23,1476 1801,21% 79%,2024-08-29
+Mon Oct 14,Germany,Netherlands,European Nations League A in Germany,10 8,1934 1963,60% 40%,2024-08-29
+Mon Oct 14,Italy,Israel,European Nations League A in Italy,14 66,1891 1567,92% 8%,2024-08-29
+Mon Oct 14,Georgia,Albania,European Nations League B in Georgia,42 55,1704 1630,73% 27%,2024-08-29
+Mon Oct 14,Iceland,Turkey,European Nations League B in Iceland,68 22,1562 1805,31% 69%,2024-08-29
+Mon Oct 14,Ukraine,Czechia,European Nations League B in Ukraine,19 37,1816 1732,74% 26%,2024-08-29
+Mon Oct 14,Wales,Montenegro,European Nations League B in Wales,44 71,1684 1555,79% 21%,2024-08-29
+Mon Oct 14,Azerbaijan,Slovakia,European Nations League C in Azerbaijan,84 43,1493 1685,37% 63%,2024-08-29
+Mon Oct 14,Estonia,Sweden,European Nations League C in Estonia,113 47,1371 1675,24% 76%,2024-08-29
+Mon Oct 14,Jamaica,Honduras,CONCACAF Nations League A in Jamaica,61 79,1589 1511,74% 26%,2024-08-29
+Mon Oct 14,Nicaragua,French Guiana,CONCACAF Nations League A in Nicaragua,122 143,1349 1288,72% 28%,2024-08-29
+Mon Oct 14,Trinidad and Tobago,Cuba,CONCACAF Nations League A in Trinidad and Tobago,102 141,1413 1295,78% 22%,2024-08-29
+Mon Oct 14,Curaçao,Grenada,CONCACAF Nations League B in Curaçao,118 175,1355 1083,89% 11%,2024-08-29
+Mon Oct 14,Haiti,Aruba,CONCACAF Nations League B in Haiti,82 189,1502 992,97% 3%,2024-08-29
+Mon Oct 14,Puerto Rico,Sint Maarten,CONCACAF Nations League B in Puerto Rico,165 204,1148 855,91% 9%,2024-08-29
+Mon Oct 14,Saint Lucia,Saint Martin,CONCACAF Nations League B in Saint Lucia,174 194,1084 936,81% 19%,2024-08-29
+Tue Oct 15,China,Indonesia,World Cup qualifier in China,108 129,1396 1330,72% 28%,2024-08-29
+Tue Oct 15,Iran,Qatar,World Cup qualifier in Iran,21 54,1807 1631,83% 17%,2024-08-29
+Tue Oct 15,Japan,Australia,World Cup qualifier in Japan,17 27,1856 1774,74% 26%,2024-08-29
+Tue Oct 15,Jordan,Oman,World Cup qualifier in Jordan,56 77,1627 1529,76% 24%,2024-08-29
+Tue Oct 15,Kyrgyzstan,North Korea,World Cup qualifier in Kyrgyzstan,145 105,1279 1403,47% 53%,2024-08-29
+Tue Oct 15,Palestine,Kuwait,World Cup qualifier in Palestine,103 127,1406 1334,73% 27%,2024-08-29
+Tue Oct 15,Saudi Arabia,Bahrain,World Cup qualifier in Saudi Arabia,63 92,1587 1453,79% 21%,2024-08-29
+Tue Oct 15,South Korea,Iraq,World Cup qualifier in South Korea,34 51,1738 1660,74% 26%,2024-08-29
+Tue Oct 15,Uzbekistan,United Arab Emirates,World Cup qualifier in Uzbekistan,46 83,1680 1501,83% 17%,2024-08-29
+Tue Oct 15,Poland,Croatia,European Nations League A in Poland,39 12,1730 1916,38% 62%,2024-08-29
+Tue Oct 15,Scotland,Portugal,European Nations League A in Scotland,35 9,1735 1960,33% 67%,2024-08-29
+Tue Oct 15,Spain,Serbia,European Nations League A in Spain,2 24,2150 1789,93% 7%,2024-08-29
+Tue Oct 15,Switzerland,Denmark,European Nations League A in Switzerland,13 19,1904 1816,75% 25%,2024-08-29
+Tue Oct 15,Belarus,Luxembourg,European Nations League C in Belarus,96 79,1433 1511,53% 47%,2024-08-29
+Tue Oct 15,Kosovo,Cyprus,European Nations League C in Kosovo,81 138,1505 1315,84% 16%,2024-08-29
+Tue Oct 15,Lithuania,Romania,European Nations League C in Lithuania,117 45,1356 1682,21% 79%,2024-08-29
+Tue Oct 15,Northern Ireland,Bulgaria,European Nations League C in Northern Ireland,78 85,1518 1488,68% 32%,2024-08-29
+Tue Oct 15,Canada,Panama,Friendly in Canada,31 38,1756 1731,67% 33%,2024-08-29
+Tue Oct 15,Hong Kong,Cambodia,Friendly in Hong Kong,179 205,1068 842,87% 13%,2024-08-29
+Tue Oct 15,Mexico,United States,Friendly in Mexico,25 32,1785 1747,69% 31%,2024-08-29
+Tue Oct 15,Vietnam,Lebanon,Friendly tournament in Vietnam,149 140,1270 1297,60% 40%,2024-08-29
+Tue Oct 15,Argentina,Bolivia,World Cup qualifier in Argentina,1 74,2168 1551,98.4% 1.6%,2024-08-29
+Tue Oct 15,Brazil,Peru,World Cup qualifier in Brazil,5 41,2021 1710,91% 9%,2024-08-29
+Tue Oct 15,Colombia,Chile,World Cup qualifier in Colombia,3 40,2051 1723,92% 8%,2024-08-29
+Tue Oct 15,Paraguay,Venezuela,World Cup qualifier in Paraguay,49 18,1661 1820,42% 58%,2024-08-29
+Tue Oct 15,Uruguay,Ecuador,World Cup qualifier in Uruguay,6 16,1987 1871,78% 22%,2024-08-29
+Tue Oct 15,Costa Rica,Guatemala,CONCACAF Nations League A in Costa Rica,49 89,1661 1472,84% 16%,2024-08-29
+Tue Oct 15,Martinique,Guadeloupe,CONCACAF Nations League A in Martinique,95 130,1437 1327,77% 23%,2024-08-29
+Tue Oct 15,Suriname,Guyana,CONCACAF Nations League A in Suriname,135 146,1319 1274,70% 30%,2024-08-29
+Tue Oct 15,Bermuda,Dominica,CONCACAF Nations League B in Bermuda,168 186,1126 1008,78% 22%,2024-08-29
+Tue Oct 15,Dominican Republic,Antigua and Barbuda,CONCACAF Nations League B in the Dominican Republic,159 190,1208 988,86% 14%,2024-08-29
+Tue Oct 15,Barbados,Bahamas,CONCACAF Nations League C in Barbados,195 209,930 810,78% 22%,2024-08-29
+Tue Oct 15,Belize,Turks and Caicos Islands,CONCACAF Nations League C in Belize,182 219,1039 690,93% 7%,2024-08-29
+Tue Oct 15,Saint Kitts and Nevis,Cayman Islands,CONCACAF Nations League C in Saint Kitts and Nevis,176 207,1082 825,89% 11%,2024-08-29
+Thu Nov 14,Papua New Guinea,Fiji,World Cup qualifier in Papua New Guinea,177 161,1079 1198,47% 53%,2024-08-29
+Thu Nov 14,New Caledonia,Solomon Islands,World Cup qualifier in Papua New Guinea,155 153,1234 1240,49% 51%,2024-08-29
+Thu Nov 14,Australia,Saudi Arabia,World Cup qualifier in Australia,27 63,1774 1587,84% 16%,2024-08-29
+Thu Nov 14,Bahrain,China,World Cup qualifier in Bahrain,92 108,1453 1396,71% 29%,2024-08-29
+Thu Nov 14,Indonesia,Japan,World Cup qualifier in Indonesia,129 17,1330 1856,8% 92%,2024-08-29
+Thu Nov 14,Iraq,Jordan,World Cup qualifier in Iraq,51 56,1660 1627,68% 32%,2024-08-29
+Thu Nov 14,Kuwait,South Korea,World Cup qualifier in Kuwait,127 34,1334 1738,15% 85%,2024-08-29
+Thu Nov 14,North Korea,Iran,World Cup qualifier in North Korea,105 21,1403 1807,15% 85%,2024-08-29
+Thu Nov 14,Oman,Palestine,World Cup qualifier in Oman,77 103,1529 1406,78% 22%,2024-08-29
+Thu Nov 14,Qatar,Uzbekistan,World Cup qualifier in Qatar,54 46,1631 1680,57% 43%,2024-08-29
+Thu Nov 14,United Arab Emirates,Kyrgyzstan,World Cup qualifier in the United Arab Emirates,83 145,1501 1279,86% 14%,2024-08-29
+Thu Nov 14,Belgium,Italy,European Nations League A in Belgium,10 14,1934 1891,69% 31%,2024-08-29
+Thu Nov 14,France,Israel,European Nations League A in France,4 66,2047 1567,97% 3%,2024-08-29
+Thu Nov 14,Greece,England,European Nations League B in Greece,33 7,1739 1981,31% 69%,2024-08-29
+Thu Nov 14,Ireland,Finland,European Nations League B in Ireland,59 56,1619 1627,63% 37%,2024-08-29
+Thu Nov 14,Kazakhstan,Austria,European Nations League B in Kazakhstan,92 15,1453 1876,13% 87%,2024-08-29
+Thu Nov 14,Slovenia,Norway,European Nations League B in Slovenia,29 36,1771 1734,69% 31%,2024-08-29
+Thu Nov 14,Armenia,Faroe Islands,European Nations League C in Armenia,90 152,1462 1246,86% 14%,2024-08-29
+Thu Nov 14,North Macedonia,Latvia,European Nations League C in North Macedonia,75 134,1547 1321,87% 13%,2024-08-29
+Thu Nov 14,Hong Kong,Philippines,Friendly in Hong Kong,179 184,1068 1034,68% 32%,2024-08-29
+Thu Nov 14,Malta,Liechtenstein,Friendly in Malta,151 191,1257 968,90% 10%,2024-08-29
+Thu Nov 14,Thailand,Lebanon,Friendly in Thailand,97 140,1426 1297,79% 21%,2024-08-29
+Thu Nov 14,Ecuador,Bolivia,World Cup qualifier in Ecuador,16 74,1871 1551,92% 8%,2024-08-29
+Thu Nov 14,Paraguay,Argentina,World Cup qualifier in Paraguay,49 1,1661 2168,9% 91%,2024-08-29
+Thu Nov 14,Peru,Chile,World Cup qualifier in Peru,41 40,1710 1723,62% 38%,2024-08-29
+Thu Nov 14,Uruguay,Colombia,World Cup qualifier in Uruguay,6 3,1987 2051,55% 45%,2024-08-29
+Thu Nov 14,Venezuela,Brazil,World Cup qualifier in Venezuela,18 5,1820 2021,36% 64%,2024-08-29
+Thu Nov 14,Bonaire,El Salvador,CONCACAF Nations League B in Bonaire,206 107,827 1402,6% 94%,2024-08-29
+Thu Nov 14,Montserrat,St Vincent & Grenadines,CONCACAF Nations League B in Montserrat,185 178,1015 1071,56% 44%,2024-08-29
+Fri Nov 15,New Zealand,Vanuatu,World Cup qualifier in New Zealand,65 173,1571 1092,97% 3%,2024-08-29
+Fri Nov 15,Denmark,Spain,European Nations League A in Denmark,19 2,1816 2150,21% 79%,2024-08-29
+Fri Nov 15,Portugal,Poland,European Nations League A in Portugal,9 39,1960 1730,87% 13%,2024-08-29
+Fri Nov 15,Scotland,Croatia,European Nations League A in Scotland,35 12,1735 1916,39% 61%,2024-08-29
+Fri Nov 15,Switzerland,Serbia,European Nations League A in Switzerland,13 24,1904 1789,78% 22%,2024-08-29
+Fri Nov 15,Cyprus,Lithuania,European Nations League C in Cyprus,138 117,1315 1356,58% 42%,2024-08-29
+Fri Nov 15,Luxembourg,Bulgaria,European Nations League C in Luxembourg,79 85,1511 1488,67% 33%,2024-08-29
+Fri Nov 15,Northern Ireland,Belarus,European Nations League C in Northern Ireland,78 96,1518 1433,74% 26%,2024-08-29
+Fri Nov 15,Romania,Kosovo,European Nations League C in Romania,45 81,1682 1505,83% 17%,2024-08-29
+Fri Nov 15,San Marino,Gibraltar,European Nations League D in San Marino,212 180,774 1057,26% 74%,2024-08-29
+Fri Nov 15,Puerto Rico,Aruba,CONCACAF Nations League B in Puerto Rico,165 189,1148 992,81% 19%,2024-08-29
+Fri Nov 15,Saint Lucia,Grenada,CONCACAF Nations League B in Saint Lucia,174 175,1084 1083,64% 36%,2024-08-29
+Fri Nov 15,Saint Martin,Curaçao,CONCACAF Nations League B in Saint Martin,194 118,936 1355,14% 86%,2024-08-29
+Fri Nov 15,Sint Maarten,Haiti,CONCACAF Nations League B in Sint Maarten,204 82,855 1502,4% 96%,2024-08-29
+Sat Nov 16,Germany,Bosnia and Herzegovina,European Nations League A in Germany,10 88,1934 1476,96% 4%,2024-08-29
+Sat Nov 16,Netherlands,Hungary,European Nations League A in the Netherlands,8 23,1963 1801,82% 18%,2024-08-29
+Sat Nov 16,Albania,Czechia,European Nations League B in Albania,55 37,1630 1732,50% 50%,2024-08-29
+Sat Nov 16,Georgia,Ukraine,European Nations League B in Georgia,42 19,1704 1816,48% 52%,2024-08-29
+Sat Nov 16,Montenegro,Iceland,European Nations League B in Montenegro,71 68,1555 1562,63% 37%,2024-08-29
+Sat Nov 16,Turkey,Wales,European Nations League B in Turkey,22 44,1805 1684,78% 22%,2024-08-29
+Sat Nov 16,Azerbaijan,Estonia,European Nations League C in Azerbaijan,84 113,1493 1371,78% 22%,2024-08-29
+Sat Nov 16,Sweden,Slovakia,European Nations League C in Sweden,47 43,1675 1685,63% 37%,2024-08-29
+Sat Nov 16,Andorra,Moldova,European Nations League D in Andorra,170 120,1110 1350,31% 69%,2024-08-29
+Sat Nov 16,Bermuda,Antigua and Barbuda,CONCACAF Nations League B in Bermuda,168 190,1126 988,80% 20%,2024-08-29
+Sat Nov 16,Dominica,Dominican Republic,CONCACAF Nations League B in Dominica,186 159,1008 1208,36% 64%,2024-08-29
+Sun Nov 17,Fiji,New Caledonia,World Cup qualifier in Papua New Guinea,161 155,1198 1234,45% 55%,2024-08-29
+Sun Nov 17,Papua New Guinea,Solomon Islands,World Cup qualifier in Papua New Guinea,177 153,1079 1240,41% 59%,2024-08-29
+Sun Nov 17,Israel,Belgium,European Nations League A in Israel,66 10,1567 1934,18% 82%,2024-08-29
+Sun Nov 17,Italy,France,European Nations League A in Italy,14 4,1891 2047,42% 58%,2024-08-29
+Sun Nov 17,Austria,Slovenia,European Nations League B in Austria,15 29,1876 1771,76% 24%,2024-08-29
+Sun Nov 17,England,Ireland,European Nations League B in England,7 59,1981 1619,93% 7%,2024-08-29
+Sun Nov 17,Finland,Greece,European Nations League B in Finland,56 33,1627 1739,48% 52%,2024-08-29
+Sun Nov 17,Norway,Kazakhstan,European Nations League B in Norway,36 92,1734 1453,90% 10%,2024-08-29
+Sun Nov 17,Latvia,Armenia,European Nations League C in Latvia,134 90,1321 1462,44% 56%,2024-08-29
+Sun Nov 17,North Macedonia,Faroe Islands,European Nations League C in North Macedonia,75 152,1547 1246,91% 9%,2024-08-29
+Sun Nov 17,El Salvador,Montserrat,CONCACAF Nations League B in El Salvador,107 185,1402 1015,94% 6%,2024-08-29
+Sun Nov 17,St Vincent & Grenadines,Bonaire,CONCACAF Nations League B in St Vincent & Grenadines,178 206,1071 827,88% 12%,2024-08-29
+Mon Nov 18,Tahiti,Vanuatu,World Cup qualifier in New Zealand,163 173,1188 1092,63% 37%,2024-08-29
+Mon Nov 18,Croatia,Portugal,European Nations League A in Croatia,12 9,1916 1960,58% 42%,2024-08-29
+Mon Nov 18,Poland,Scotland,European Nations League A in Poland,39 35,1730 1735,63% 37%,2024-08-29
+Mon Nov 18,Serbia,Denmark,European Nations League A in Serbia,24 19,1789 1816,60% 40%,2024-08-29
+Mon Nov 18,Spain,Switzerland,European Nations League A in Spain,2 13,2150 1904,88% 12%,2024-08-29
+Mon Nov 18,Bulgaria,Belarus,European Nations League C in Bulgaria,85 96,1488 1433,71% 29%,2024-08-29
+Mon Nov 18,Kosovo,Lithuania,European Nations League C in Kosovo,81 117,1505 1356,81% 19%,2024-08-29
+Mon Nov 18,Luxembourg,Northern Ireland,European Nations League C in Luxembourg,79 78,1511 1518,63% 37%,2024-08-29
+Mon Nov 18,Romania,Cyprus,European Nations League C in Romania,45 138,1682 1315,94% 6%,2024-08-29
+Mon Nov 18,Liechtenstein,San Marino,European Nations League D in Liechtenstein,191 212,968 774,84% 16%,2024-08-29
+Mon Nov 18,Aruba,Sint Maarten,CONCACAF Nations League B in Aruba,189 204,992 855,80% 20%,2024-08-29
+Mon Nov 18,Curaçao,Saint Lucia,CONCACAF Nations League B in Curaçao,118 174,1355 1084,89% 11%,2024-08-29
+Mon Nov 18,Grenada,Saint Martin,CONCACAF Nations League B in Grenada,175 194,1083 936,81% 19%,2024-08-29
+Mon Nov 18,Haiti,Puerto Rico,CONCACAF Nations League B in Haiti,82 165,1502 1148,93% 7%,2024-08-29
+Tue Nov 19,Bahrain,Australia,World Cup qualifier in Bahrain,92 27,1453 1774,22% 78%,2024-08-29
+Tue Nov 19,China,Japan,World Cup qualifier in China,108 17,1396 1856,11% 89%,2024-08-29
+Tue Nov 19,Indonesia,Saudi Arabia,World Cup qualifier in Indonesia,129 63,1330 1587,29% 71%,2024-08-29
+Tue Nov 19,Kuwait,Jordan,World Cup qualifier in Kuwait,127 56,1334 1627,25% 75%,2024-08-29
+Tue Nov 19,Kyrgyzstan,Iran,World Cup qualifier in Kyrgyzstan,145 21,1279 1807,8% 92%,2024-08-29
+Tue Nov 19,North Korea,Uzbekistan,World Cup qualifier in North Korea,105 46,1403 1680,27% 73%,2024-08-29
+Tue Nov 19,Oman,Iraq,World Cup qualifier in Oman,77 51,1529 1660,46% 54%,2024-08-29
+Tue Nov 19,Palestine,South Korea,World Cup qualifier in Palestine,103 34,1406 1738,21% 79%,2024-08-29
+Tue Nov 19,United Arab Emirates,Qatar,World Cup qualifier in the United Arab Emirates,83 54,1501 1631,46% 54%,2024-08-29
+Tue Nov 19,Bosnia and Herzegovina,Netherlands,European Nations League A in Bosnia and Herzegovina,88 8,1476 1963,10% 90%,2024-08-29
+Tue Nov 19,Hungary,Germany,European Nations League A in Hungary,23 10,1801 1934,45% 55%,2024-08-29
+Tue Nov 19,Albania,Ukraine,European Nations League B in Albania,55 19,1630 1816,38% 62%,2024-08-29
+Tue Nov 19,Czechia,Georgia,European Nations League B in Czechia,37 42,1732 1704,68% 32%,2024-08-29
+Tue Nov 19,Montenegro,Turkey,European Nations League B in Montenegro,71 22,1555 1805,30% 70%,2024-08-29
+Tue Nov 19,Wales,Iceland,European Nations League B in Wales,44 68,1684 1562,78% 22%,2024-08-29
+Tue Nov 19,Slovakia,Estonia,European Nations League C in Slovakia,43 113,1685 1371,92% 8%,2024-08-29
+Tue Nov 19,Sweden,Azerbaijan,European Nations League C in Sweden,47 84,1675 1493,84% 16%,2024-08-29
+Tue Nov 19,Malta,Andorra,European Nations League D in Malta,151 170,1257 1110,81% 19%,2024-08-29
+Tue Nov 19,Gibraltar,Moldova,Friendly in Gibraltar,180 120,1057 1350,25% 75%,2024-08-29
+Tue Nov 19,Hong Kong,Mauritius,Friendly in Hong Kong,179 183,1068 1037,68% 32%,2024-08-29
+Tue Nov 19,Myanmar,Lebanon,Friendly in Myanmar,197 140,914 1297,16% 84%,2024-08-29
+Tue Nov 19,Argentina,Peru,World Cup qualifier in Argentina,1 41,2168 1710,96% 4%,2024-08-29
+Tue Nov 19,Bolivia,Paraguay,World Cup qualifier in Bolivia,74 49,1551 1661,49% 51%,2024-08-29
+Tue Nov 19,Brazil,Uruguay,World Cup qualifier in Brazil,5 6,2021 1987,68% 32%,2024-08-29
+Tue Nov 19,Chile,Venezuela,World Cup qualifier in Chile,40 18,1723 1820,50% 50%,2024-08-29
+Tue Nov 19,Colombia,Ecuador,World Cup qualifier in Colombia,3 16,2051 1871,83% 17%,2024-08-29
+Tue Nov 19,Antigua and Barbuda,Dominica,CONCACAF Nations League B in Antigua and Barbuda,190 186,988 1008,61% 39%,2024-08-29
+Tue Nov 19,Dominican Republic,Bermuda,CONCACAF Nations League B in the Dominican Republic,159 168,1208 1126,74% 26%,2024-08-29
+Mon Dec 9,Cambodia,Malaysia,Southeast Asian Champ in Cambodia,205 146,842 1274,13% 87%,2024-08-29
+Tue Dec 10,Laos,Vietnam,Southeast Asian Champ in Laos,225 149,665 1270,5% 95%,2024-08-29
+Tue Dec 10,Myanmar,Indonesia,Southeast Asian Champ in Myanmar,197 129,914 1330,14% 86%,2024-08-29
+Thu Dec 12,Singapore,Cambodia,Southeast Asian Champ in Singapore,171 205,1109 842,89% 11%,2024-08-29
+Fri Dec 13,Indonesia,Laos,Southeast Asian Champ in Indonesia,129 225,1330 665,98.8% 1.2%,2024-08-29
+Fri Dec 13,Philippines,Myanmar,Southeast Asian Champ in the Philippines,184 197,1034 914,78% 22%,2024-08-29
+Sun Dec 15,Thailand,Malaysia,Southeast Asian Champ in Thailand,97 146,1426 1274,81% 19%,2024-08-29
+Mon Dec 16,Laos,Philippines,Southeast Asian Champ in Laos,225 184,665 1034,18% 82%,2024-08-29
+Mon Dec 16,Vietnam,Indonesia,Southeast Asian Champ in Vietnam,149 129,1270 1330,56% 44%,2024-08-29
+Wed Dec 18,Singapore,Thailand,Southeast Asian Champ in Singapore,171 97,1109 1426,22% 78%,2024-08-29
+Thu Dec 19,Myanmar,Laos,Southeast Asian Champ in Myanmar,197 225,914 665,88% 12%,2024-08-29
+Thu Dec 19,Philippines,Vietnam,Southeast Asian Champ in the Philippines,184 149,1034 1270,31% 69%,2024-08-29
+Sat Dec 21,Malaysia,Singapore,Southeast Asian Champ in Malaysia,146 171,1274 1109,82% 18%,2024-08-29
+Sat Dec 21,Thailand,Cambodia,Southeast Asian Champ in Thailand,97 205,1426 842,98.1% 1.9%,2024-08-29
+Sun Dec 22,Indonesia,Philippines,Southeast Asian Champ in Indonesia,129 184,1330 1034,91% 9%,2024-08-29
+Sun Dec 22,Vietnam,Myanmar,Southeast Asian Champ in Vietnam,149 197,1270 914,93% 7%,2024-08-29
+Mon Jan 6,Mexico,Thailand,Friendly in the United States,25 97,1785 1426,89% 11%,2024-08-29
+Mon Jan 13,El Salvador,Thailand,Friendly in the United States,107 97,1402 1426,47% 53%,2024-08-29
+Mar 20 2025,Australia,Indonesia,World Cup qualifier in Australia,27 129,1774 1330,96% 4%,2024-08-29
+Mar 20 2025,Iran,United Arab Emirates,World Cup qualifier in Iran,21 83,1807 1501,91% 9%,2024-08-29
+Mar 20 2025,Iraq,Kuwait,World Cup qualifier in Iraq,51 127,1660 1334,92% 8%,2024-08-29
+Mar 20 2025,Japan,Bahrain,World Cup qualifier in Japan,17 92,1856 1453,95% 5%,2024-08-29
+Mar 20 2025,Jordan,Palestine,World Cup qualifier in Jordan,56 103,1627 1406,86% 14%,2024-08-29
+Mar 20 2025,Qatar,North Korea,World Cup qualifier in Qatar,54 105,1631 1403,87% 13%,2024-08-29
+Mar 20 2025,Saudi Arabia,China,World Cup qualifier in Saudi Arabia,63 108,1587 1396,84% 16%,2024-08-29
+Mar 20 2025,South Korea,Oman,World Cup qualifier in South Korea,34 77,1738 1529,86% 14%,2024-08-29
+Mar 20 2025,Uzbekistan,Kyrgyzstan,World Cup qualifier in Uzbekistan,46 145,1680 1279,95% 5%,2024-08-29
+Mar 20 2025,Brazil,Colombia,World Cup qualifier in Brazil,5 3,2021 2051,60% 40%,2024-08-29
+Mar 20 2025,Ecuador,Venezuela,World Cup qualifier in Ecuador,16 18,1871 1820,70% 30%,2024-08-29
+Mar 20 2025,Paraguay,Chile,World Cup qualifier in Paraguay,49 40,1661 1723,55% 45%,2024-08-29
+Mar 20 2025,Peru,Bolivia,World Cup qualifier in Peru,41 74,1710 1551,82% 18%,2024-08-29
+Mar 20 2025,Uruguay,Argentina,World Cup qualifier in Uruguay,6 1,1987 2168,39% 61%,2024-08-29
+Mar 25 2025,China,Australia,World Cup qualifier in China,108 27,1396 1774,17% 83%,2024-08-29
+Mar 25 2025,Indonesia,Bahrain,World Cup qualifier in Indonesia,129 92,1330 1453,47% 53%,2024-08-29
+Mar 25 2025,Iran,Uzbekistan,World Cup qualifier in Iran,21 46,1807 1680,79% 21%,2024-08-29
+Mar 25 2025,Japan,Saudi Arabia,World Cup qualifier in Japan,17 63,1856 1587,89% 11%,2024-08-29
+Mar 25 2025,Kuwait,Oman,World Cup qualifier in Kuwait,127 77,1334 1529,37% 63%,2024-08-29
+Mar 25 2025,Kyrgyzstan,Qatar,World Cup qualifier in Kyrgyzstan,145 54,1279 1631,19% 81%,2024-08-29
+Mar 25 2025,North Korea,United Arab Emirates,World Cup qualifier in North Korea,105 83,1403 1501,50% 50%,2024-08-29
+Mar 25 2025,Palestine,Iraq,World Cup qualifier in Palestine,103 51,1406 1660,29% 71%,2024-08-29
+Mar 25 2025,South Korea,Jordan,World Cup qualifier in South Korea,34 56,1738 1627,77% 23%,2024-08-29
+Mar 25 2025,Argentina,Brazil,World Cup qualifier in Argentina,1 5,2168 2021,81% 19%,2024-08-29
+Mar 25 2025,Bolivia,Uruguay,World Cup qualifier in Bolivia,74 6,1551 1987,13% 87%,2024-08-29
+Mar 25 2025,Chile,Ecuador,World Cup qualifier in Chile,40 16,1723 1871,43% 57%,2024-08-29
+Mar 25 2025,Colombia,Paraguay,World Cup qualifier in Colombia,3 49,2051 1661,94% 6%,2024-08-29
+Mar 25 2025,Venezuela,Peru,World Cup qualifier in Venezuela,18 41,1820 1710,77% 23%,2024-08-29
+Jun 4 2025,Chile,Argentina,World Cup qualifier in Chile,40 1,1723 2168,12% 88%,2024-08-29
+Jun 4 2025,Colombia,Peru,World Cup qualifier in Colombia,3 41,2051 1710,93% 7%,2024-08-29
+Jun 4 2025,Ecuador,Brazil,World Cup qualifier in Ecuador,16 5,1871 2021,43% 57%,2024-08-29
+Jun 4 2025,Paraguay,Uruguay,World Cup qualifier in Paraguay,49 6,1661 1987,21% 79%,2024-08-29
+Jun 4 2025,Venezuela,Bolivia,World Cup qualifier in Venezuela,18 74,1820 1551,89% 11%,2024-08-29
+Jun 4 2025,Barbados,Aruba,World Cup qualifier in Barbados,195 189,930 992,55% 45%,2024-08-29
+Jun 4 2025,Bermuda,Cayman Islands,World Cup qualifier in Bermuda,168 207,1126 825,91% 9%,2024-08-29
+Jun 4 2025,Dominica,British Virgin Islands,World Cup qualifier in Dominica,186 227,1008 651,93% 7%,2024-08-29
+Jun 4 2025,Grenada,Bahamas,World Cup qualifier in Grenada,175 209,1083 810,90% 10%,2024-08-29
+Jun 4 2025,Montserrat,Belize,World Cup qualifier in Montserrat,185 182,1015 1039,61% 39%,2024-08-29
+Jun 4 2025,St Vincent & Grenadines,Anguilla,World Cup qualifier in St Vincent & Grenadines,178 233,1071 605,96% 4%,2024-08-29
+Jun 5 2025,Australia,Japan,World Cup qualifier in Australia,27 17,1774 1856,53% 47%,2024-08-29
+Jun 5 2025,Bahrain,Saudi Arabia,World Cup qualifier in Bahrain,92 63,1453 1587,45% 55%,2024-08-29
+Jun 5 2025,Indonesia,China,World Cup qualifier in Indonesia,129 108,1330 1396,55% 45%,2024-08-29
+Jun 5 2025,Iraq,South Korea,World Cup qualifier in Iraq,51 34,1660 1738,53% 47%,2024-08-29
+Jun 5 2025,Kuwait,Palestine,World Cup qualifier in Kuwait,127 103,1334 1406,54% 46%,2024-08-29
+Jun 5 2025,North Korea,Kyrgyzstan,World Cup qualifier in North Korea,105 145,1403 1279,78% 22%,2024-08-29
+Jun 5 2025,Oman,Jordan,World Cup qualifier in Oman,77 56,1529 1627,50% 50%,2024-08-29
+Jun 5 2025,Qatar,Iran,World Cup qualifier in Qatar,54 21,1631 1807,39% 61%,2024-08-29
+Jun 5 2025,United Arab Emirates,Uzbekistan,World Cup qualifier in the United Arab Emirates,83 46,1501 1680,39% 61%,2024-08-29
+Jun 6 2025,Antigua and Barbuda,Cuba,World Cup qualifier in Antigua and Barbuda,190 141,988 1295,23% 77%,2024-08-29
+Jun 6 2025,Curaçao,Saint Lucia,World Cup qualifier in Curaçao,118 174,1355 1084,89% 11%,2024-08-29
+Jun 6 2025,Guatemala,Dominican Republic,World Cup qualifier in Guatemala,89 159,1472 1208,89% 11%,2024-08-29
+Jun 6 2025,Nicaragua,Guyana,World Cup qualifier in Nicaragua,122 146,1349 1274,73% 27%,2024-08-29
+Jun 6 2025,Suriname,Puerto Rico,World Cup qualifier in Suriname,135 165,1319 1148,83% 17%,2024-08-29
+Jun 6 2025,Trinidad and Tobago,Saint Kitts and Nevis,World Cup qualifier in Trinidad and Tobago,102 176,1413 1082,92% 8%,2024-08-29
+Jun 7 2025,Anguilla,El Salvador,World Cup qualifier in Anguilla,233 107,605 1402,1.8% 98.2%,2024-08-29
+Jun 7 2025,Aruba,Haiti,World Cup qualifier in Aruba,189 82,992 1502,9% 91%,2024-08-29
+Jun 7 2025,Bahamas,Costa Rica,World Cup qualifier in the Bahamas,209 49,810 1661,1.3% 98.7%,2024-08-29
+Jun 7 2025,Belize,Panama,World Cup qualifier in Belize,182 38,1039 1731,3% 97%,2024-08-29
+Jun 7 2025,British Virgin Islands,Jamaica,World Cup qualifier in the British Virgin Islands,227 61,651 1589,0.8% 99.2%,2024-08-29
+Jun 7 2025,Cayman Islands,Honduras,World Cup qualifier in the Cayman Islands,207 79,825 1511,3% 97%,2024-08-29
+Jun 9 2025,Argentina,Colombia,World Cup qualifier in Argentina,1 3,2168 2051,78% 22%,2024-08-29
+Jun 9 2025,Bolivia,Chile,World Cup qualifier in Bolivia,74 40,1551 1723,40% 60%,2024-08-29
+Jun 9 2025,Brazil,Paraguay,World Cup qualifier in Brazil,5 49,2021 1661,93% 7%,2024-08-29
+Jun 9 2025,Peru,Ecuador,World Cup qualifier in Peru,41 16,1710 1871,41% 59%,2024-08-29
+Jun 9 2025,Uruguay,Venezuela,World Cup qualifier in Uruguay,6 18,1987 1820,82% 18%,2024-08-29
+Jun 10 2025,China,Bahrain,World Cup qualifier in China,108 92,1396 1453,56% 44%,2024-08-29
+Jun 10 2025,Iran,North Korea,World Cup qualifier in Iran,21 105,1807 1403,95% 5%,2024-08-29
+Jun 10 2025,Japan,Indonesia,World Cup qualifier in Japan,17 129,1856 1330,97% 3%,2024-08-29
+Jun 10 2025,Jordan,Iraq,World Cup qualifier in Jordan,56 51,1627 1660,60% 40%,2024-08-29
+Jun 10 2025,Kyrgyzstan,United Arab Emirates,World Cup qualifier in Kyrgyzstan,145 83,1279 1501,33% 67%,2024-08-29
+Jun 10 2025,Palestine,Oman,World Cup qualifier in Palestine,103 77,1406 1529,47% 53%,2024-08-29
+Jun 10 2025,Saudi Arabia,Australia,World Cup qualifier in Saudi Arabia,63 27,1587 1774,38% 62%,2024-08-29
+Jun 10 2025,South Korea,Kuwait,World Cup qualifier in South Korea,34 127,1738 1334,95% 5%,2024-08-29
+Jun 10 2025,Uzbekistan,Qatar,World Cup qualifier in Uzbekistan,46 54,1680 1631,70% 30%,2024-08-29
+Jun 10 2025,Costa Rica,Trinidad and Tobago,World Cup qualifier in Costa Rica,49 102,1661 1413,88% 12%,2024-08-29
+Jun 10 2025,Cuba,Bermuda,World Cup qualifier in Cuba,141 168,1295 1126,82% 18%,2024-08-29
+Jun 10 2025,Dominican Republic,Dominica,World Cup qualifier in the Dominican Republic,159 186,1208 1008,85% 15%,2024-08-29
+Jun 10 2025,El Salvador,Suriname,World Cup qualifier in El Salvador,107 135,1402 1319,74% 26%,2024-08-29
+Jun 10 2025,Guyana,Montserrat,World Cup qualifier in Guyana,146 185,1274 1015,89% 11%,2024-08-29
+Jun 10 2025,Haiti,Curaçao,World Cup qualifier in Haiti,82 118,1502 1355,81% 19%,2024-08-29
+Jun 10 2025,Honduras,Antigua and Barbuda,World Cup qualifier in Honduras,79 190,1511 988,97% 3%,2024-08-29
+Jun 10 2025,Jamaica,Guatemala,World Cup qualifier in Jamaica,61 89,1589 1472,78% 22%,2024-08-29
+Jun 10 2025,Panama,Nicaragua,World Cup qualifier in Panama,38 122,1731 1349,94% 6%,2024-08-29
+Jun 10 2025,Puerto Rico,St Vincent & Grenadines,World Cup qualifier in Puerto Rico,165 178,1148 1071,73% 27%,2024-08-29
+Jun 10 2025,Saint Kitts and Nevis,Grenada,World Cup qualifier in Saint Kitts and Nevis,176 175,1082 1083,64% 36%,2024-08-29
+Jun 10 2025,Saint Lucia,Barbados,World Cup qualifier in Saint Lucia,174 195,1084 930,81% 19%,2024-08-29
+Sep 9 2025,Argentina,Venezuela,World Cup qualifier in Argentina,1 18,2168 1820,93% 7%,2024-08-29
+Sep 9 2025,Brazil,Chile,World Cup qualifier in Brazil,5 40,2021 1723,91% 9%,2024-08-29
+Sep 9 2025,Colombia,Bolivia,World Cup qualifier in Colombia,3 74,2051 1551,97% 3%,2024-08-29
+Sep 9 2025,Paraguay,Ecuador,World Cup qualifier in Paraguay,49 16,1661 1871,35% 65%,2024-08-29
+Sep 9 2025,Uruguay,Peru,World Cup qualifier in Uruguay,6 41,1987 1710,90% 10%,2024-08-29
+Sep 14 2025,Bolivia,Brazil,World Cup qualifier in Bolivia,74 5,1551 2021,11% 89%,2024-08-29
+Sep 14 2025,Chile,Uruguay,World Cup qualifier in Chile,40 6,1723 1987,28% 72%,2024-08-29
+Sep 14 2025,Ecuador,Argentina,World Cup qualifier in Ecuador,16 1,1871 2168,24% 76%,2024-08-29
+Sep 14 2025,Peru,Paraguay,World Cup qualifier in Peru,41 49,1710 1661,70% 30%,2024-08-29
+Sep 14 2025,Venezuela,Colombia,World Cup qualifier in Venezuela,18 3,1820 2051,32% 68%,2024-08-29
