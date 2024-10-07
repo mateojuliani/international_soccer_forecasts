@@ -15,8 +15,8 @@ def win_probability_inference():
     current_fixtures = current_fixtures.drop(["rank", "elo", "win_pct"], axis = 1)
 
     #Import the two sklearn models
-    gb_model = joblib.load('../soccer_forecasts/Models/sklearn_gradient_boosted_model.pkl')
-    lin_reg_model = joblib.load('../soccer_forecasts/Models/linreg_model.pkl')
+    gb_model = joblib.load('../international_soccer_forecasts/Models/sklearn_gradient_boosted_model.pkl')
+    lin_reg_model = joblib.load('../international_soccer_forecasts/Models/linreg_model.pkl')
 
 
     #get the correct inputs for the xG Models
