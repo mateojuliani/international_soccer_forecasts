@@ -22,20 +22,21 @@ import seaborn as sns
 
 
 def convert_to_date(date_str): #converts date string to datetime format
-    try:
-        date_obj = datetime.strptime(date_str, "%B %d %Y")
-    except:
-        date_obj = datetime.strptime(date_str, "%b %d %Y")
+    try: date_obj = datetime.strptime(date_str, "%B %d %Y")
+    except: 
+        try: date_obj = datetime.strptime(date_str, "%b %d %Y")
+        except: 
+            try: date_obj = datetime.strptime(date_str, "%b %Y").replace(day=1)
+            except: date_obj = datetime(1990, 1, 1) #fin error catch
+
 
     formatted_date = date_obj.strftime("%Y-%m-%d")
     return formatted_date
 
 def convert_current_date(date_str):
     
-    try:
-        return datetime.strptime(date_str, "%a %b %d").replace(year=datetime.now().year).strftime("%Y-%m-%d") 
-    except:
-        return convert_to_date(date_str)
+    try: return datetime.strptime(date_str, "%a %b %d").replace(year=datetime.now().year).strftime("%Y-%m-%d") 
+    except: return convert_to_date(date_str)
     
 
 def split_space(str): #splits string based on ' ' character
