@@ -210,10 +210,11 @@ def possion_sim(xg, opp_xg, num):
     return [win / num, draw / num, loss / num]
 
 #ensemble functions
-def calculate_average(l1, l2):
+def calculate_average(l1, l2, weights = [0.1, 0.9] ):
 
     arr = np.array([l1, l2])
-    return  np.average(arr, axis=0).tolist()
+    return  np.average(arr, axis=0, weights=weights).tolist()
+
 
 def rebase_estimate(arr):
     val = 0
