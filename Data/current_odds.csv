@@ -1,248 +1,281 @@
-date,location,game,team_1_prob,draw_prob,team_2_prob
-2024-11-14,World Cup qualifier in Papua New Guinea,Papua New Guinea vs Fiji,0.24,0.207,0.552
-2024-11-14,World Cup qualifier in Papua New Guinea,New Caledonia vs Solomon Islands,0.355,0.35,0.295
-2024-11-14,World Cup qualifier in Australia,Australia vs Saudi Arabia,0.441,0.38,0.179
-2024-11-14,World Cup qualifier in Bahrain,Bahrain vs China,0.38,0.335,0.285
-2024-11-14,World Cup qualifier in Indonesia,Indonesia vs Japan,0.038,0.05,0.912
-2024-11-14,World Cup qualifier in Iraq,Iraq vs Jordan,0.369,0.316,0.315
-2024-11-14,World Cup qualifier in Kuwait,Kuwait vs South Korea,0.11,0.07,0.82
-2024-11-14,World Cup qualifier in North Korea,North Korea vs Iran,0.104,0.077,0.819
-2024-11-14,World Cup qualifier in Oman,Oman vs Palestine,0.382,0.342,0.276
-2024-11-14,World Cup qualifier in Qatar,Qatar vs Uzbekistan,0.261,0.239,0.5
-2024-11-14,World Cup qualifier in the United Arab Emirates,United Arab Emirates vs Kyrgyzstan,0.45,0.404,0.146
-2024-11-14,European Nations League A in Belgium,Belgium vs Italy,0.304,0.299,0.397
-2024-11-14,European Nations League A in France,France vs Israel,0.524,0.459,0.017
-2024-11-14,European Nations League B in Greece,Greece vs England,0.247,0.25,0.503
-2024-11-14,European Nations League B in Ireland,Ireland vs Finland,0.349,0.322,0.329
-2024-11-14,European Nations League B in Kazakhstan,Kazakhstan vs Austria,0.102,0.095,0.803
-2024-11-14,European Nations League B in Slovenia,Slovenia vs Norway,0.36,0.316,0.324
-2024-11-14,European Nations League C in Armenia,Armenia vs Faroe Islands,0.43,0.38,0.19
-2024-11-14,European Nations League C in North Macedonia,North Macedonia vs Latvia,0.474,0.437,0.088
-2024-11-14,Friendly in Hong Kong,Hong Kong vs Philippines,0.339,0.313,0.348
-2024-11-14,Friendly in Malta,Malta vs Liechtenstein,0.473,0.44,0.086
-2024-11-14,Friendly in Thailand,Thailand vs Lebanon,0.42,0.362,0.219
-2024-11-14,World Cup qualifier in Ecuador,Ecuador vs Bolivia,0.436,0.401,0.163
-2024-11-14,World Cup qualifier in Paraguay,Paraguay vs Argentina,0.089,0.104,0.808
-2024-11-14,World Cup qualifier in Peru,Peru vs Chile,0.38,0.331,0.289
-2024-11-14,World Cup qualifier in Uruguay,Uruguay vs Colombia,0.268,0.243,0.489
-2024-11-14,World Cup qualifier in Venezuela,Venezuela vs Brazil,0.162,0.193,0.644
-2024-11-14,CONCACAF Nations League B in El Salvador,El Salvador vs Bonaire,0.5,0.475,0.025
-2024-11-14,CONCACAF Nations League B in El Salvador,Montserrat vs St Vincent & Grenadines,0.258,0.236,0.506
-2024-11-15,World Cup qualifier in New Zealand,New Zealand vs Vanuatu,0.51,0.466,0.024
-2024-11-15,World Cup qualifier in New Zealand,Samoa vs Tahiti,0.103,0.086,0.811
-2024-11-15,European Nations League A in Denmark,Denmark vs Spain,0.122,0.153,0.725
-2024-11-15,European Nations League A in Portugal,Portugal vs Poland,0.443,0.448,0.11
-2024-11-15,European Nations League A in Scotland,Scotland vs Croatia,0.193,0.188,0.618
-2024-11-15,European Nations League A in Switzerland,Switzerland vs Serbia,0.339,0.334,0.327
-2024-11-15,European Nations League C in Cyprus,Cyprus vs Lithuania,0.338,0.276,0.386
-2024-11-15,European Nations League C in Luxembourg,Luxembourg vs Bulgaria,0.346,0.326,0.328
-2024-11-15,European Nations League C in Northern Ireland,Northern Ireland vs Belarus,0.392,0.317,0.291
-2024-11-15,European Nations League C in Romania,Romania vs Kosovo,0.428,0.398,0.174
-2024-11-15,European Nations League D in San Marino,San Marino vs Gibraltar,0.192,0.155,0.653
-2024-11-15,Friendly in Russia,Russia vs Brunei,0.49,0.509,0.001
-2024-11-15,Friendly in Singapore,Singapore vs Myanmar,0.421,0.387,0.192
-2024-11-15,CONCACAF Nations League B in Haiti,Aruba vs Puerto Rico,0.249,0.193,0.557
-2024-11-15,CONCACAF Nations League B in Curaçao,Curaçao vs Saint Martin,0.48,0.431,0.088
-2024-11-15,CONCACAF Nations League B in Curaçao,Grenada vs Saint Lucia,0.333,0.28,0.387
-2024-11-15,CONCACAF Nations League B in Haiti,Haiti vs Sint Maarten,0.492,0.503,0.005
-2024-11-16,European Nations League A in Germany,Germany vs Bosnia and Herzegovina,0.47,0.505,0.025
-2024-11-16,European Nations League A in the Netherlands,Netherlands vs Hungary,0.414,0.408,0.178
-2024-11-16,European Nations League B in Albania,Albania vs Czechia,0.261,0.291,0.447
-2024-11-16,European Nations League B in Georgia,Georgia vs Ukraine,0.284,0.281,0.434
-2024-11-16,European Nations League B in Montenegro,Montenegro vs Iceland,0.298,0.276,0.425
-2024-11-16,European Nations League B in Turkey,Turkey vs Wales,0.385,0.377,0.239
-2024-11-16,European Nations League C in Azerbaijan,Azerbaijan vs Estonia,0.367,0.293,0.34
-2024-11-16,European Nations League C in Sweden,Sweden vs Slovakia,0.36,0.305,0.335
-2024-11-16,European Nations League D in Andorra,Andorra vs Moldova,0.168,0.163,0.669
-2024-11-16,CONCACAF Nations League B in the Dominican Republic,Antigua and Barbuda vs Bermuda,0.178,0.168,0.653
-2024-11-16,CONCACAF Nations League B in the Dominican Republic,Dominican Republic vs Dominica,0.459,0.425,0.117
-2024-11-17,World Cup qualifier in Papua New Guinea,Fiji vs New Caledonia,0.332,0.269,0.399
-2024-11-17,World Cup qualifier in Papua New Guinea,Papua New Guinea vs Solomon Islands,0.275,0.233,0.492
-2024-11-17,European Nations League A in Hungary,Belgium vs Israel,0.497,0.44,0.063
-2024-11-17,European Nations League A in Italy,Italy vs France,0.276,0.236,0.488
-2024-11-17,European Nations League B in Austria,Austria vs Slovenia,0.4,0.373,0.228
-2024-11-17,European Nations League B in England,England vs Ireland,0.498,0.445,0.057
-2024-11-17,European Nations League B in Finland,Finland vs Greece,0.175,0.158,0.667
-2024-11-17,European Nations League B in Norway,Norway vs Kazakhstan,0.484,0.434,0.081
-2024-11-17,European Nations League C in Latvia,Latvia vs Armenia,0.264,0.23,0.506
-2024-11-17,European Nations League C in North Macedonia,North Macedonia vs Faroe Islands,0.48,0.458,0.062
-2024-11-17,Friendly in Thailand,Thailand vs Laos,0.476,0.523,0.001
-2024-11-17,CONCACAF Nations League B in El Salvador,Bonaire vs St Vincent & Grenadines,0.19,0.148,0.662
-2024-11-17,CONCACAF Nations League B in El Salvador,El Salvador vs Montserrat,0.508,0.447,0.045
-2024-11-18,World Cup qualifier in New Zealand,New Zealand vs Samoa,0.479,0.52,0.001
-2024-11-18,World Cup qualifier in New Zealand,Tahiti vs Vanuatu,0.392,0.33,0.278
-2024-11-18,European Nations League A in Croatia,Croatia vs Portugal,0.268,0.3,0.431
-2024-11-18,European Nations League A in Poland,Poland vs Scotland,0.346,0.328,0.326
-2024-11-18,European Nations League A in Serbia,Serbia vs Denmark,0.295,0.274,0.43
-2024-11-18,European Nations League A in Spain,Spain vs Switzerland,0.489,0.443,0.067
-2024-11-18,European Nations League C in Bulgaria,Bulgaria vs Belarus,0.329,0.317,0.354
-2024-11-18,European Nations League C in Kosovo,Kosovo vs Lithuania,0.455,0.4,0.145
-2024-11-18,European Nations League C in Luxembourg,Luxembourg vs Northern Ireland,0.281,0.277,0.441
-2024-11-18,European Nations League C in Romania,Romania vs Cyprus,0.523,0.446,0.031
-2024-11-18,European Nations League D in Liechtenstein,Liechtenstein vs San Marino,0.418,0.396,0.186
-2024-11-18,CONCACAF Nations League B in Haiti,Aruba vs Sint Maarten,0.368,0.309,0.323
-2024-11-18,CONCACAF Nations League B in Curaçao,Curaçao vs Saint Lucia,0.451,0.39,0.159
-2024-11-18,CONCACAF Nations League B in Curaçao,Grenada vs Saint Martin,0.397,0.32,0.283
-2024-11-18,CONCACAF Nations League B in Haiti,Haiti vs Puerto Rico,0.503,0.451,0.046
-2024-11-19,World Cup qualifier in Bahrain,Bahrain vs Australia,0.168,0.159,0.673
-2024-11-19,World Cup qualifier in China,China vs Japan,0.069,0.058,0.872
-2024-11-19,World Cup qualifier in Indonesia,Indonesia vs Saudi Arabia,0.206,0.186,0.607
-2024-11-19,World Cup qualifier in Kuwait,Kuwait vs Jordan,0.174,0.142,0.684
-2024-11-19,World Cup qualifier in Kyrgyzstan,Kyrgyzstan vs Iran,0.039,0.061,0.9
-2024-11-19,World Cup qualifier in North Korea,North Korea vs Uzbekistan,0.141,0.124,0.735
-2024-11-19,World Cup qualifier in Oman,Oman vs Iraq,0.225,0.205,0.569
-2024-11-19,World Cup qualifier in Palestine,Palestine vs South Korea,0.109,0.108,0.784
-2024-11-19,World Cup qualifier in the United Arab Emirates,United Arab Emirates vs Qatar,0.301,0.285,0.414
-2024-11-19,European Nations League A in Bosnia and Herzegovina,Bosnia and Herzegovina vs Netherlands,0.066,0.07,0.863
-2024-11-19,European Nations League A in Hungary,Hungary vs Germany,0.209,0.208,0.582
-2024-11-19,European Nations League B in Albania,Albania vs Ukraine,0.254,0.228,0.518
-2024-11-19,European Nations League B in Czechia,Czechia vs Georgia,0.359,0.314,0.327
-2024-11-19,European Nations League B in Montenegro,Montenegro vs Turkey,0.127,0.128,0.745
-2024-11-19,European Nations League B in Wales,Wales vs Iceland,0.417,0.377,0.207
-2024-11-19,European Nations League C in Slovakia,Slovakia vs Estonia,0.467,0.444,0.088
-2024-11-19,European Nations League C in Sweden,Sweden vs Azerbaijan,0.478,0.431,0.09
-2024-11-19,European Nations League D in Malta,Malta vs Andorra,0.426,0.416,0.158
-2024-11-19,Friendly in Gibraltar,Gibraltar vs Moldova,0.171,0.149,0.68
-2024-11-19,Friendly in Hong Kong,Hong Kong vs Mauritius,0.362,0.342,0.296
-2024-11-19,Friendly in India,India vs Malaysia,0.265,0.244,0.491
-2024-11-19,Friendly in Myanmar,Myanmar vs Lebanon,0.102,0.108,0.791
-2024-11-19,Friendly in Russia,Russia vs Syria,0.473,0.435,0.091
-2024-11-19,Friendly in Singapore,Singapore vs Taiwan,0.444,0.407,0.149
-2024-11-19,Friendly in Tajikistan,Tajikistan vs Nepal,0.484,0.448,0.068
-2024-11-19,World Cup qualifier in Argentina,Argentina vs Peru,0.516,0.446,0.038
-2024-11-19,World Cup qualifier in Bolivia,Bolivia vs Paraguay,0.274,0.267,0.458
-2024-11-19,World Cup qualifier in Brazil,Brazil vs Uruguay,0.392,0.348,0.26
-2024-11-19,World Cup qualifier in Chile,Chile vs Venezuela,0.288,0.288,0.423
-2024-11-19,World Cup qualifier in Colombia,Colombia vs Ecuador,0.409,0.401,0.19
-2024-11-19,CONCACAF Nations League B in the Dominican Republic,Antigua and Barbuda vs Dominica,0.3,0.268,0.431
-2024-11-19,CONCACAF Nations League B in the Dominican Republic,Dominican Republic vs Bermuda,0.394,0.366,0.241
-2024-12-07,East Asian Champ qual in Hong Kong,Hong Kong vs Northern Mariana Islands,0.49,0.501,0.009
-2024-12-07,East Asian Champ qual in Hong Kong,Mongolia vs Taiwan,0.254,0.242,0.504
-2024-12-08,Southeast Asian Champ in Cambodia,Cambodia vs Malaysia,0.078,0.064,0.857
-2024-12-08,Southeast Asian Champ in East Timor,East Timor vs Thailand,0.0,0.019,0.981
-2024-12-08,East Asian Champ qual in Hong Kong,Guam vs North Korea,0.01,0.038,0.952
-2024-12-09,Southeast Asian Champ in Laos,Laos vs Vietnam,0.045,0.059,0.896
-2024-12-09,Southeast Asian Champ in Myanmar,Myanmar vs Indonesia,0.108,0.081,0.811
-2024-12-10,East Asian Champ qual in Hong Kong,Hong Kong vs Mongolia,0.474,0.448,0.078
-2024-12-10,East Asian Champ qual in Hong Kong,Northern Mariana Islands vs Taiwan,0.119,0.085,0.796
-2024-12-11,Southeast Asian Champ in Malaysia,Malaysia vs East Timor,0.496,0.5,0.004
-2024-12-11,Southeast Asian Champ in Singapore,Singapore vs Cambodia,0.458,0.429,0.114
-2024-12-11,East Asian Champ qual in Hong Kong,Guam vs Macao,0.362,0.32,0.318
-2024-12-12,Southeast Asian Champ in Indonesia,Indonesia vs Laos,0.493,0.497,0.01
-2024-12-12,Southeast Asian Champ in the Philippines,Philippines vs Myanmar,0.431,0.384,0.185
-2024-12-13,East Asian Champ qual in Hong Kong,Hong Kong vs Taiwan,0.419,0.416,0.165
-2024-12-13,East Asian Champ qual in Hong Kong,Mongolia vs Northern Mariana Islands,0.455,0.444,0.1
-2024-12-14,Southeast Asian Champ in East Timor,East Timor vs Singapore,0.112,0.095,0.793
-2024-12-14,Southeast Asian Champ in Thailand,Thailand vs Malaysia,0.442,0.371,0.187
-2024-12-14,East Asian Champ qual in Hong Kong,Macao vs North Korea,0.001,0.018,0.981
-2024-12-15,Southeast Asian Champ in Laos,Laos vs Philippines,0.116,0.083,0.801
-2024-12-15,Southeast Asian Champ in Vietnam,Vietnam vs Indonesia,0.261,0.237,0.502
-2024-12-17,Southeast Asian Champ in Cambodia,Cambodia vs East Timor,0.404,0.387,0.209
-2024-12-17,Southeast Asian Champ in Singapore,Singapore vs Thailand,0.126,0.151,0.723
-2024-12-18,Southeast Asian Champ in Myanmar,Myanmar vs Laos,0.441,0.41,0.149
-2024-12-18,Southeast Asian Champ in the Philippines,Philippines vs Vietnam,0.253,0.197,0.549
-2024-12-20,Southeast Asian Champ in Malaysia,Malaysia vs Singapore,0.423,0.378,0.199
-2024-12-20,Southeast Asian Champ in Thailand,Thailand vs Cambodia,0.501,0.495,0.004
-2024-12-21,Southeast Asian Champ in Indonesia,Indonesia vs Philippines,0.467,0.418,0.116
-2024-12-21,Southeast Asian Champ in Vietnam,Vietnam vs Myanmar,0.481,0.431,0.087
-2024-01-06,Friendly in the United States,Mexico vs Thailand,0.496,0.441,0.063
-2024-01-13,Friendly in the United States,El Salvador vs Thailand,0.291,0.273,0.435
-2024-03-20,World Cup qualifier in Australia,Australia vs Indonesia,0.493,0.445,0.062
-2024-03-20,World Cup qualifier in Iran,Iran vs United Arab Emirates,0.471,0.438,0.09
-2024-03-20,World Cup qualifier in Iraq,Iraq vs Kuwait,0.458,0.451,0.09
-2024-03-20,World Cup qualifier in Japan,Japan vs Bahrain,0.51,0.455,0.035
-2024-03-20,World Cup qualifier in Jordan,Jordan vs Palestine,0.453,0.408,0.139
-2024-03-20,World Cup qualifier in Qatar,Qatar vs North Korea,0.401,0.395,0.204
-2024-03-20,World Cup qualifier in Saudi Arabia,Saudi Arabia vs China,0.416,0.399,0.185
-2024-03-20,World Cup qualifier in South Korea,South Korea vs Oman,0.481,0.414,0.106
-2024-03-20,World Cup qualifier in Uzbekistan,Uzbekistan vs Kyrgyzstan,0.507,0.454,0.039
-2024-03-20,World Cup qualifier in Brazil,Brazil vs Colombia,0.309,0.31,0.381
-2024-03-20,World Cup qualifier in Ecuador,Ecuador vs Venezuela,0.41,0.365,0.226
-2024-03-20,World Cup qualifier in Paraguay,Paraguay vs Chile,0.372,0.33,0.298
-2024-03-20,World Cup qualifier in Peru,Peru vs Bolivia,0.361,0.346,0.293
-2024-03-20,World Cup qualifier in Uruguay,Uruguay vs Argentina,0.171,0.193,0.635
-2024-03-25,World Cup qualifier in China,China vs Australia,0.11,0.123,0.768
-2024-03-25,World Cup qualifier in Indonesia,Indonesia vs Bahrain,0.277,0.234,0.489
-2024-03-25,World Cup qualifier in Iran,Iran vs Uzbekistan,0.395,0.374,0.232
-2024-03-25,World Cup qualifier in Japan,Japan vs Saudi Arabia,0.468,0.437,0.094
-2024-03-25,World Cup qualifier in Kuwait,Kuwait vs Oman,0.248,0.24,0.512
-2024-03-25,World Cup qualifier in Kyrgyzstan,Kyrgyzstan vs Qatar,0.173,0.141,0.686
-2024-03-25,World Cup qualifier in North Korea,North Korea vs United Arab Emirates,0.242,0.253,0.505
-2024-03-25,World Cup qualifier in Palestine,Palestine vs Iraq,0.18,0.166,0.654
-2024-03-25,World Cup qualifier in South Korea,South Korea vs Jordan,0.43,0.403,0.167
-2024-03-25,World Cup qualifier in Argentina,Argentina vs Brazil,0.414,0.363,0.224
-2024-03-25,World Cup qualifier in Bolivia,Bolivia vs Uruguay,0.177,0.186,0.636
-2024-03-25,World Cup qualifier in Chile,Chile vs Ecuador,0.22,0.205,0.574
-2024-03-25,World Cup qualifier in Colombia,Colombia vs Paraguay,0.483,0.422,0.096
-2024-03-25,World Cup qualifier in Venezuela,Venezuela vs Peru,0.373,0.31,0.317
-2025-06-04,World Cup qualifier in Chile,Chile vs Argentina,0.065,0.061,0.873
-2025-06-04,World Cup qualifier in Colombia,Colombia vs Peru,0.489,0.419,0.093
-2025-06-04,World Cup qualifier in Ecuador,Ecuador vs Brazil,0.24,0.23,0.53
-2025-06-04,World Cup qualifier in Paraguay,Paraguay vs Uruguay,0.22,0.214,0.565
-2025-06-04,World Cup qualifier in Venezuela,Venezuela vs Bolivia,0.374,0.349,0.277
-2025-06-04,World Cup qualifier in Barbados,Barbados vs Aruba,0.394,0.297,0.309
-2025-06-04,World Cup qualifier in Bermuda,Bermuda vs Cayman Islands,0.447,0.457,0.095
-2025-06-04,World Cup qualifier in Dominica,Dominica vs British Virgin Islands,0.478,0.444,0.078
-2025-06-04,World Cup qualifier in Grenada,Grenada vs Bahamas,0.472,0.419,0.11
-2025-06-04,World Cup qualifier in Montserrat,Montserrat vs Belize,0.285,0.258,0.456
-2025-06-04,World Cup qualifier in St Vincent & Grenadines,St Vincent & Grenadines vs Anguilla,0.515,0.463,0.022
-2025-06-05,World Cup qualifier in Australia,Australia vs Japan,0.251,0.25,0.499
-2025-06-05,World Cup qualifier in Bahrain,Bahrain vs Saudi Arabia,0.287,0.268,0.444
-2025-06-05,World Cup qualifier in Indonesia,Indonesia vs China,0.317,0.285,0.398
-2025-06-05,World Cup qualifier in Iraq,Iraq vs South Korea,0.259,0.251,0.49
-2025-06-05,World Cup qualifier in Kuwait,Kuwait vs Palestine,0.311,0.266,0.422
-2025-06-05,World Cup qualifier in North Korea,North Korea vs Kyrgyzstan,0.395,0.364,0.242
-2025-06-05,World Cup qualifier in Oman,Oman vs Jordan,0.261,0.234,0.505
-2025-06-05,World Cup qualifier in Qatar,Qatar vs Iran,0.175,0.149,0.676
-2025-06-05,World Cup qualifier in the United Arab Emirates,United Arab Emirates vs Uzbekistan,0.217,0.211,0.571
-2025-06-06,World Cup qualifier in Antigua and Barbuda,Antigua and Barbuda vs Cuba,0.111,0.118,0.772
-2025-06-06,World Cup qualifier in Curaçao,Curaçao vs Saint Lucia,0.435,0.405,0.16
-2025-06-06,World Cup qualifier in Guatemala,Guatemala vs Dominican Republic,0.461,0.394,0.145
-2025-06-06,World Cup qualifier in Nicaragua,Nicaragua vs Guyana,0.419,0.368,0.214
-2025-06-06,World Cup qualifier in Suriname,Suriname vs Puerto Rico,0.442,0.41,0.148
-2025-06-06,World Cup qualifier in Trinidad and Tobago,Trinidad and Tobago vs Saint Kitts and Nevis,0.437,0.462,0.1
-2025-06-07,World Cup qualifier in Anguilla,Anguilla vs El Salvador,0.0,0.023,0.977
-2025-06-07,World Cup qualifier in Aruba,Aruba vs Haiti,0.045,0.067,0.888
-2025-06-07,World Cup qualifier in the Bahamas,Bahamas vs Costa Rica,0.004,0.013,0.983
-2025-06-07,World Cup qualifier in Belize,Belize vs Panama,0.026,0.031,0.942
-2025-06-07,World Cup qualifier in the British Virgin Islands,British Virgin Islands vs Jamaica,0.002,0.015,0.983
-2025-06-07,World Cup qualifier in the Cayman Islands,Cayman Islands vs Honduras,0.025,0.027,0.947
-2025-06-09,World Cup qualifier in Argentina,Argentina vs Colombia,0.399,0.361,0.241
-2025-06-09,World Cup qualifier in Bolivia,Bolivia vs Chile,0.351,0.287,0.362
-2025-06-09,World Cup qualifier in Brazil,Brazil vs Paraguay,0.449,0.438,0.114
-2025-06-09,World Cup qualifier in Peru,Peru vs Ecuador,0.248,0.25,0.502
-2025-06-09,World Cup qualifier in Uruguay,Uruguay vs Venezuela,0.419,0.381,0.2
-2025-06-10,World Cup qualifier in China,China vs Bahrain,0.274,0.257,0.468
-2025-06-10,World Cup qualifier in Iran,Iran vs North Korea,0.516,0.449,0.035
-2025-06-10,World Cup qualifier in Japan,Japan vs Indonesia,0.492,0.482,0.026
-2025-06-10,World Cup qualifier in Jordan,Jordan vs Iraq,0.307,0.278,0.415
-2025-06-10,World Cup qualifier in Kyrgyzstan,Kyrgyzstan vs United Arab Emirates,0.198,0.192,0.609
-2025-06-10,World Cup qualifier in Palestine,Palestine vs Oman,0.28,0.27,0.449
-2025-06-10,World Cup qualifier in Saudi Arabia,Saudi Arabia vs Australia,0.222,0.209,0.568
-2025-06-10,World Cup qualifier in South Korea,South Korea vs Kuwait,0.505,0.454,0.041
-2025-06-10,World Cup qualifier in Uzbekistan,Uzbekistan vs Qatar,0.419,0.361,0.221
-2025-06-10,World Cup qualifier in Costa Rica,Costa Rica vs Trinidad and Tobago,0.477,0.414,0.11
-2025-06-10,World Cup qualifier in Cuba,Cuba vs Bermuda,0.415,0.366,0.22
-2025-06-10,World Cup qualifier in the Dominican Republic,Dominican Republic vs Dominica,0.454,0.422,0.125
-2025-06-10,World Cup qualifier in El Salvador,El Salvador vs Suriname,0.362,0.317,0.321
-2025-06-10,World Cup qualifier in Guyana,Guyana vs Montserrat,0.414,0.446,0.141
-2025-06-10,World Cup qualifier in Haiti,Haiti vs Curaçao,0.415,0.41,0.175
-2025-06-10,World Cup qualifier in Honduras,Honduras vs Antigua and Barbuda,0.501,0.497,0.002
-2025-06-10,World Cup qualifier in Jamaica,Jamaica vs Guatemala,0.378,0.333,0.289
-2025-06-10,World Cup qualifier in Panama,Panama vs Nicaragua,0.477,0.456,0.067
-2025-06-10,World Cup qualifier in Puerto Rico,Puerto Rico vs St Vincent & Grenadines,0.354,0.292,0.354
-2025-06-10,World Cup qualifier in Saint Kitts and Nevis,Saint Kitts and Nevis vs Grenada,0.362,0.309,0.329
-2025-06-10,World Cup qualifier in Saint Lucia,Saint Lucia vs Barbados,0.393,0.368,0.24
-2025-07-01,East Asian Championship in South Korea,China vs Japan,0.066,0.058,0.875
-2025-07-01,East Asian Championship in South Korea,South Korea vs China,0.509,0.437,0.054
-2025-07-01,East Asian Championship in South Korea,South Korea vs Japan,0.266,0.275,0.458
-2025-09-09,World Cup qualifier in Argentina,Argentina vs Venezuela,0.486,0.454,0.06
-2025-09-09,World Cup qualifier in Brazil,Brazil vs Chile,0.473,0.45,0.076
-2025-09-09,World Cup qualifier in Colombia,Colombia vs Bolivia,0.496,0.448,0.056
-2025-09-09,World Cup qualifier in Paraguay,Paraguay vs Ecuador,0.248,0.251,0.501
-2025-09-09,World Cup qualifier in Uruguay,Uruguay vs Peru,0.422,0.403,0.175
-2025-09-14,World Cup qualifier in Bolivia,Bolivia vs Brazil,0.119,0.13,0.751
-2025-09-14,World Cup qualifier in Chile,Chile vs Uruguay,0.166,0.188,0.645
-2025-09-14,World Cup qualifier in Ecuador,Ecuador vs Argentina,0.167,0.15,0.683
-2025-09-14,World Cup qualifier in Peru,Peru vs Paraguay,0.32,0.288,0.392
-2025-09-14,World Cup qualifier in Venezuela,Venezuela vs Colombia,0.163,0.158,0.679
+date,game,T1,Draw,T2
+2025-01-27,Jordan vs Uzbekistan,0.282,0.284,0.434
+2025-02-06,Jamaica vs Trinidad and Tobago,0.567,0.257,0.176
+2025-02-08,Chile vs Panama,0.34,0.289,0.371
+2025-02-09,Jamaica vs Trinidad and Tobago,0.567,0.257,0.176
+2025-03-17,Guatemala vs Honduras,0.296,0.286,0.418
+2025-03-20,Australia vs Indonesia,0.769,0.173,0.059
+2025-03-20,Iran vs United Arab Emirates,0.691,0.211,0.098
+2025-03-20,Iraq vs Kuwait,0.634,0.235,0.131
+2025-03-20,Japan vs Bahrain,0.738,0.189,0.073
+2025-03-20,Jordan vs Palestine,0.597,0.248,0.155
+2025-03-20,Qatar vs North Korea,0.518,0.27,0.212
+2025-03-20,Saudi Arabia vs China,0.502,0.273,0.225
+2025-03-20,South Korea vs Oman,0.651,0.228,0.121
+2025-03-20,Uzbekistan vs Kyrgyzstan,0.772,0.171,0.057
+2025-03-20,Croatia vs France,0.187,0.261,0.552
+2025-03-20,Denmark vs Portugal,0.215,0.271,0.515
+2025-03-20,Italy vs Germany,0.309,0.287,0.404
+2025-03-20,Netherlands vs Spain,0.135,0.237,0.628
+2025-03-20,Austria vs Serbia,0.426,0.285,0.288
+2025-03-20,Belgium vs Ukraine,0.412,0.287,0.301
+2025-03-20,Greece vs Scotland,0.417,0.286,0.297
+2025-03-20,Turkey vs Hungary,0.35,0.289,0.361
+2025-03-20,Armenia vs Georgia,0.111,0.222,0.667
+2025-03-20,Bulgaria vs Ireland,0.227,0.274,0.499
+2025-03-20,Kosovo vs Iceland,0.331,0.289,0.381
+2025-03-20,Slovakia vs Slovenia,0.327,0.289,0.384
+2025-03-20,Tajikistan vs Belarus,0.198,0.265,0.536
+2025-03-20,Vietnam vs Myanmar,0.796,0.157,0.047
+2025-03-20,Brazil vs Colombia,0.376,0.289,0.335
+2025-03-20,Ecuador vs Venezuela,0.559,0.259,0.182
+2025-03-20,Paraguay vs Chile,0.426,0.285,0.288
+2025-03-20,Peru vs Bolivia,0.43,0.285,0.285
+2025-03-20,Uruguay vs Argentina,0.196,0.264,0.54
+2025-03-20,Canada vs Mexico,0.374,0.289,0.337
+2025-03-20,United States vs Panama,0.414,0.287,0.3
+2025-03-21,New Caledonia vs Tahiti,0.421,0.286,0.294
+2025-03-21,New Zealand vs Fiji,0.729,0.193,0.078
+2025-03-21,Andorra vs Latvia,0.168,0.253,0.579
+2025-03-21,Cyprus vs San Marino,0.803,0.153,0.044
+2025-03-21,England vs Albania,0.747,0.184,0.069
+2025-03-21,Malta vs Finland,0.117,0.226,0.657
+2025-03-21,Poland vs Lithuania,0.779,0.167,0.054
+2025-03-21,Romania vs Bosnia and Herzegovina,0.623,0.239,0.139
+2025-03-21,Thailand vs Afghanistan,0.681,0.216,0.103
+2025-03-21,Costa Rica vs Belize,0.856,0.119,0.025
+2025-03-21,Guatemala vs Guyana,0.651,0.228,0.121
+2025-03-21,Honduras vs Bermuda,0.781,0.166,0.053
+2025-03-21,Jamaica vs St Vincent & Grenadines,0.797,0.156,0.046
+2025-03-21,Martinique vs Suriname,0.425,0.285,0.289
+2025-03-21,Nicaragua vs Guadeloupe,0.387,0.288,0.325
+2025-03-21,Trinidad and Tobago vs Cuba,0.488,0.276,0.236
+2025-03-22,Czechia vs Faroe Islands,0.817,0.144,0.038
+2025-03-22,Israel vs Estonia,0.612,0.243,0.145
+2025-03-22,Liechtenstein vs North Macedonia,0.01,0.079,0.911
+2025-03-22,Moldova vs Norway,0.045,0.154,0.801
+2025-03-22,Montenegro vs Gibraltar,0.81,0.149,0.041
+2025-03-22,Wales vs Kazakhstan,0.689,0.212,0.099
+2025-03-22,Luxembourg vs Sweden,0.1,0.213,0.687
+2025-03-23,France vs Croatia,0.552,0.261,0.187
+2025-03-23,Germany vs Italy,0.404,0.287,0.309
+2025-03-23,Portugal vs Denmark,0.515,0.271,0.215
+2025-03-23,Spain vs Netherlands,0.628,0.237,0.135
+2025-03-23,Belgium vs Ukraine,0.412,0.287,0.301
+2025-03-23,Hungary vs Turkey,0.361,0.289,0.35
+2025-03-23,Scotland vs Greece,0.297,0.286,0.417
+2025-03-23,Serbia vs Austria,0.288,0.285,0.426
+2025-03-23,Georgia vs Armenia,0.667,0.222,0.111
+2025-03-23,Iceland vs Kosovo,0.381,0.289,0.331
+2025-03-23,Ireland vs Bulgaria,0.499,0.274,0.227
+2025-03-23,Slovenia vs Slovakia,0.384,0.289,0.327
+2025-03-24,Albania vs Andorra,0.857,0.118,0.025
+2025-03-24,Bosnia and Herzegovina vs Cyprus,0.568,0.257,0.175
+2025-03-24,England vs Latvia,0.92,0.072,0.008
+2025-03-24,Lithuania vs Finland,0.126,0.231,0.643
+2025-03-24,Poland vs Malta,0.789,0.161,0.05
+2025-03-24,San Marino vs Romania,0.004,0.047,0.949
+2025-03-25,China vs Australia,0.096,0.21,0.694
+2025-03-25,Indonesia vs Bahrain,0.154,0.247,0.598
+2025-03-25,Iran vs Uzbekistan,0.535,0.266,0.199
+2025-03-25,Japan vs Saudi Arabia,0.732,0.192,0.076
+2025-03-25,Kuwait vs Oman,0.183,0.26,0.558
+2025-03-25,Kyrgyzstan vs Qatar,0.13,0.234,0.636
+2025-03-25,North Korea vs United Arab Emirates,0.206,0.268,0.526
+2025-03-25,Palestine vs Iraq,0.181,0.259,0.56
+2025-03-25,South Korea vs Jordan,0.539,0.265,0.197
+2025-03-25,Bhutan vs Yemen,0.033,0.134,0.833
+2025-03-25,Brunei vs Lebanon,0.012,0.084,0.904
+2025-03-25,India vs Bangladesh,0.659,0.225,0.116
+2025-03-25,Maldives vs Philippines,0.139,0.239,0.621
+2025-03-25,Myanmar vs Afghanistan,0.187,0.261,0.552
+2025-03-25,Nepal vs Malaysia,0.089,0.204,0.706
+2025-03-25,Pakistan vs Syria,0.017,0.101,0.882
+2025-03-25,Singapore vs Hong Kong,0.288,0.285,0.426
+2025-03-25,Taiwan vs Turkmenistan,0.11,0.221,0.669
+2025-03-25,Tajikistan vs East Timor,0.894,0.092,0.014
+2025-03-25,Thailand vs Sri Lanka,0.898,0.089,0.013
+2025-03-25,Vietnam vs Laos,0.898,0.088,0.013
+2025-03-25,Gibraltar vs Czechia,0.01,0.079,0.911
+2025-03-25,Israel vs Norway,0.159,0.25,0.591
+2025-03-25,Liechtenstein vs Kazakhstan,0.031,0.13,0.839
+2025-03-25,Moldova vs Estonia,0.332,0.289,0.38
+2025-03-25,Montenegro vs Faroe Islands,0.632,0.236,0.133
+2025-03-25,North Macedonia vs Wales,0.228,0.274,0.498
+2025-03-25,Azerbaijan vs Belarus,0.289,0.285,0.425
+2025-03-25,Sweden vs Northern Ireland,0.57,0.256,0.174
+2025-03-25,Switzerland vs Luxembourg,0.745,0.185,0.07
+2025-03-25,Argentina vs Brazil,0.484,0.277,0.239
+2025-03-25,Bolivia vs Uruguay,0.105,0.217,0.677
+2025-03-25,Chile vs Ecuador,0.165,0.252,0.583
+2025-03-25,Colombia vs Paraguay,0.592,0.249,0.159
+2025-03-25,Venezuela vs Peru,0.369,0.289,0.342
+2025-03-25,Belize vs Costa Rica,0.025,0.119,0.856
+2025-03-25,Bermuda vs Honduras,0.053,0.166,0.781
+2025-03-25,Cuba vs Trinidad and Tobago,0.236,0.276,0.488
+2025-03-25,Guadeloupe vs Nicaragua,0.325,0.288,0.387
+2025-03-25,Guyana vs Guatemala,0.121,0.228,0.651
+2025-03-25,St Vincent & Grenadines vs Jamaica,0.046,0.156,0.797
+2025-03-25,Suriname vs Martinique,0.289,0.285,0.425
+2025-06-04,Chile vs Argentina,0.061,0.175,0.764
+2025-06-04,Colombia vs Peru,0.645,0.231,0.125
+2025-06-04,Ecuador vs Brazil,0.261,0.281,0.457
+2025-06-04,Paraguay vs Uruguay,0.182,0.259,0.559
+2025-06-04,Venezuela vs Bolivia,0.444,0.283,0.273
+2025-06-04,Barbados vs Aruba,0.41,0.287,0.303
+2025-06-04,Bermuda vs Cayman Islands,0.699,0.208,0.093
+2025-06-04,Dominica vs British Virgin Islands,0.732,0.192,0.076
+2025-06-04,Grenada vs Bahamas,0.659,0.225,0.116
+2025-06-04,Montserrat vs Belize,0.21,0.269,0.521
+2025-06-04,St Vincent & Grenadines vs Anguilla,0.836,0.132,0.032
+2025-06-05,Australia vs Japan,0.186,0.261,0.553
+2025-06-05,Bahrain vs Saudi Arabia,0.347,0.289,0.363
+2025-06-05,Indonesia vs China,0.256,0.28,0.464
+2025-06-05,Iraq vs South Korea,0.169,0.254,0.577
+2025-06-05,Kuwait vs Palestine,0.28,0.284,0.436
+2025-06-05,North Korea vs Kyrgyzstan,0.482,0.277,0.241
+2025-06-05,Oman vs Jordan,0.244,0.278,0.478
+2025-06-05,Qatar vs Iran,0.094,0.208,0.698
+2025-06-05,United Arab Emirates vs Uzbekistan,0.202,0.266,0.532
+2025-06-06,Czechia vs Montenegro,0.621,0.239,0.139
+2025-06-06,Estonia vs Israel,0.145,0.243,0.612
+2025-06-06,North Macedonia vs Belgium,0.135,0.237,0.629
+2025-06-06,Wales vs Liechtenstein,0.94,0.055,0.005
+2025-06-06,Scotland vs Iceland,0.569,0.256,0.175
+2025-06-06,Antigua and Barbuda vs Cuba,0.072,0.188,0.739
+2025-06-06,Curaçao vs Saint Lucia,0.688,0.213,0.1
+2025-06-06,Guatemala vs Dominican Republic,0.606,0.245,0.149
+2025-06-06,Nicaragua vs Guyana,0.494,0.275,0.231
+2025-06-06,Suriname vs Puerto Rico,0.625,0.238,0.137
+2025-06-06,Trinidad and Tobago vs Saint Kitts and Nevis,0.677,0.217,0.105
+2025-06-07,Albania vs Serbia,0.182,0.259,0.559
+2025-06-07,Andorra vs England,0.003,0.04,0.957
+2025-06-07,Austria vs Romania,0.533,0.266,0.201
+2025-06-07,Bosnia and Herzegovina vs San Marino,0.891,0.094,0.015
+2025-06-07,Malta vs Lithuania,0.34,0.289,0.371
+2025-06-07,Anguilla vs El Salvador,0.007,0.064,0.929
+2025-06-07,Aruba vs Haiti,0.015,0.094,0.891
+2025-06-07,Bahamas vs Costa Rica,0.004,0.05,0.946
+2025-06-07,Belize vs Panama,0.015,0.095,0.89
+2025-06-07,British Virgin Islands vs Jamaica,0.002,0.037,0.961
+2025-06-07,Cayman Islands vs Honduras,0.008,0.071,0.92
+2025-06-09,Belgium vs Wales,0.494,0.275,0.231
+2025-06-09,Estonia vs Norway,0.05,0.162,0.787
+2025-06-09,Faroe Islands vs Gibraltar,0.609,0.244,0.147
+2025-06-09,Kazakhstan vs North Macedonia,0.177,0.257,0.566
+2025-06-09,Liechtenstein vs Scotland,0.004,0.051,0.945
+2025-06-09,Montenegro vs Armenia,0.483,0.277,0.24
+2025-06-10,China vs Bahrain,0.231,0.275,0.494
+2025-06-10,Iran vs North Korea,0.802,0.153,0.044
+2025-06-10,Japan vs Indonesia,0.865,0.113,0.022
+2025-06-10,Jordan vs Iraq,0.395,0.288,0.317
+2025-06-10,Kyrgyzstan vs United Arab Emirates,0.126,0.231,0.643
+2025-06-10,Palestine vs Oman,0.244,0.278,0.478
+2025-06-10,Saudi Arabia vs Australia,0.175,0.257,0.568
+2025-06-10,South Korea vs Kuwait,0.793,0.159,0.048
+2025-06-10,Uzbekistan vs Qatar,0.54,0.264,0.196
+2025-06-10,Afghanistan vs Syria,0.076,0.192,0.731
+2025-06-10,Bangladesh vs Singapore,0.186,0.261,0.553
+2025-06-10,Brunei vs Bhutan,0.409,0.287,0.304
+2025-06-10,East Timor vs Maldives,0.143,0.242,0.615
+2025-06-10,Hong Kong vs India,0.312,0.288,0.401
+2025-06-10,Laos vs Nepal,0.139,0.239,0.623
+2025-06-10,Lebanon vs Yemen,0.604,0.246,0.151
+2025-06-10,Malaysia vs Vietnam,0.247,0.278,0.475
+2025-06-10,Pakistan vs Myanmar,0.258,0.281,0.461
+2025-06-10,Philippines vs Tajikistan,0.174,0.256,0.57
+2025-06-10,Sri Lanka vs Taiwan,0.161,0.25,0.589
+2025-06-10,Turkmenistan vs Thailand,0.183,0.26,0.557
+2025-06-10,Finland vs Poland,0.192,0.263,0.544
+2025-06-10,Latvia vs Albania,0.074,0.189,0.737
+2025-06-10,Romania vs Cyprus,0.78,0.166,0.054
+2025-06-10,San Marino vs Austria,0.001,0.03,0.969
+2025-06-10,Serbia vs Andorra,0.919,0.072,0.009
+2025-06-10,Azerbaijan vs Hungary,0.066,0.181,0.753
+2025-06-10,Argentina vs Colombia,0.505,0.273,0.222
+2025-06-10,Bolivia vs Chile,0.296,0.286,0.418
+2025-06-10,Brazil vs Paraguay,0.611,0.243,0.146
+2025-06-10,Peru vs Ecuador,0.172,0.255,0.572
+2025-06-10,Uruguay vs Venezuela,0.602,0.246,0.152
+2025-06-10,Costa Rica vs Trinidad and Tobago,0.64,0.233,0.128
+2025-06-10,Cuba vs Bermuda,0.517,0.27,0.213
+2025-06-10,Dominican Republic vs Dominica,0.695,0.21,0.096
+2025-06-10,El Salvador vs Suriname,0.395,0.288,0.317
+2025-06-10,Guyana vs Montserrat,0.68,0.216,0.104
+2025-06-10,Haiti vs Curaçao,0.589,0.25,0.161
+2025-06-10,Honduras vs Antigua and Barbuda,0.893,0.093,0.014
+2025-06-10,Jamaica vs Guatemala,0.436,0.284,0.28
+2025-06-10,Panama vs Nicaragua,0.741,0.187,0.072
+2025-06-10,Puerto Rico vs St Vincent & Grenadines,0.342,0.289,0.369
+2025-06-10,Saint Kitts and Nevis vs Grenada,0.401,0.288,0.312
+2025-06-10,Saint Lucia vs Barbados,0.456,0.282,0.263
+2025-07-01,China vs Hong Kong,0.663,0.223,0.113
+2025-07-01,China vs Japan,0.038,0.144,0.818
+2025-07-01,Hong Kong vs Japan,0.007,0.067,0.926
+2025-07-01,South Korea vs China,0.74,0.188,0.072
+2025-07-01,South Korea vs Hong Kong,0.892,0.094,0.015
+2025-07-01,South Korea vs Japan,0.234,0.276,0.49
+2025-09-09,Argentina vs Venezuela,0.747,0.184,0.069
+2025-09-09,Brazil vs Chile,0.672,0.22,0.108
+2025-09-09,Colombia vs Bolivia,0.705,0.205,0.09
+2025-09-09,Paraguay vs Ecuador,0.215,0.271,0.515
+2025-09-09,Uruguay vs Peru,0.614,0.242,0.144
+2025-09-14,Bolivia vs Brazil,0.082,0.198,0.72
+2025-09-14,Chile vs Uruguay,0.137,0.238,0.625
+2025-09-14,Ecuador vs Argentina,0.165,0.252,0.583
+2025-09-14,Peru vs Paraguay,0.299,0.286,0.415
+2025-09-14,Venezuela vs Colombia,0.132,0.235,0.633
+2025-10-09,Bangladesh vs Hong Kong,0.141,0.24,0.619
+2025-10-09,Bhutan vs Lebanon,0.009,0.074,0.917
+2025-10-09,Brunei vs Yemen,0.043,0.151,0.807
+2025-10-09,East Timor vs Philippines,0.042,0.15,0.808
+2025-10-09,Laos vs Malaysia,0.024,0.117,0.859
+2025-10-09,Maldives vs Tajikistan,0.053,0.166,0.781
+2025-10-09,Myanmar vs Syria,0.03,0.129,0.842
+2025-10-09,Nepal vs Vietnam,0.052,0.164,0.785
+2025-10-09,Pakistan vs Afghanistan,0.123,0.229,0.648
+2025-10-09,Singapore vs India,0.249,0.279,0.473
+2025-10-09,Sri Lanka vs Turkmenistan,0.037,0.142,0.821
+2025-10-09,Taiwan vs Thailand,0.044,0.152,0.804
+2025-10-09,Romania vs Moldova,0.74,0.188,0.072
+2025-10-13,Montenegro vs Liechtenstein,0.88,0.102,0.018
+2025-10-14,Afghanistan vs Pakistan,0.648,0.229,0.123
+2025-10-14,Bhutan vs Lebanon,0.009,0.074,0.917
+2025-10-14,Brunei vs Yemen,0.043,0.151,0.807
+2025-10-14,Hong Kong vs Bangladesh,0.619,0.24,0.141
+2025-10-14,India vs Singapore,0.473,0.279,0.249
+2025-10-14,Malaysia vs Laos,0.859,0.117,0.024
+2025-10-14,Myanmar vs Syria,0.03,0.129,0.842
+2025-10-14,Philippines vs East Timor,0.808,0.15,0.042
+2025-10-14,Tajikistan vs Maldives,0.781,0.166,0.053
+2025-10-14,Thailand vs Taiwan,0.804,0.152,0.044
+2025-10-14,Turkmenistan vs Sri Lanka,0.821,0.142,0.037
+2025-10-14,Vietnam vs Nepal,0.785,0.164,0.052
+2025-11-18,Afghanistan vs Myanmar,0.552,0.261,0.187
+2025-11-18,Bangladesh vs India,0.116,0.225,0.659
+2025-11-18,Bhutan vs Yemen,0.033,0.134,0.833
+2025-11-18,Brunei vs Lebanon,0.012,0.084,0.904
+2025-11-18,East Timor vs Tajikistan,0.014,0.092,0.894
+2025-11-18,Hong Kong vs Singapore,0.426,0.285,0.288
+2025-11-18,Laos vs Vietnam,0.013,0.088,0.898
+2025-11-18,Malaysia vs Nepal,0.706,0.204,0.089
+2025-11-18,Pakistan vs Syria,0.017,0.101,0.882
+2025-11-18,Philippines vs Maldives,0.621,0.239,0.139
+2025-11-18,Sri Lanka vs Thailand,0.013,0.089,0.898
+2025-11-18,Turkmenistan vs Taiwan,0.669,0.221,0.11
+2026-03-26,Gibraltar vs Latvia,0.149,0.244,0.607
+2026-03-26,Malta vs Luxembourg,0.182,0.259,0.559
+2026-03-31,Afghanistan vs Syria,0.076,0.192,0.731
+2026-03-31,Bhutan vs Brunei,0.304,0.287,0.409
+2026-03-31,India vs Hong Kong,0.401,0.288,0.312
+2026-03-31,Lebanon vs Yemen,0.604,0.246,0.151
+2026-03-31,Maldives vs East Timor,0.615,0.242,0.143
+2026-03-31,Myanmar vs Pakistan,0.461,0.281,0.258
+2026-03-31,Nepal vs Laos,0.623,0.239,0.139
+2026-03-31,Singapore vs Bangladesh,0.553,0.261,0.186
+2026-03-31,Taiwan vs Sri Lanka,0.589,0.25,0.161
+2026-03-31,Tajikistan vs Philippines,0.57,0.256,0.174
+2026-03-31,Thailand vs Turkmenistan,0.557,0.26,0.183
+2026-03-31,Vietnam vs Malaysia,0.475,0.278,0.247
+2026-03-31,Latvia vs Gibraltar,0.607,0.244,0.149
+2026-03-31,Luxembourg vs Malta,0.559,0.259,0.182

@@ -6,6 +6,8 @@ from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.model_selection import GroupShuffleSplit
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LogisticRegression
+import joblib
 import numpy as np
 import joblib
 import math
@@ -120,3 +122,14 @@ def calculate_historical_elo_win_rate_model():
     joined["pct"] = joined["count"] / joined["total_c"]
     joined["result_class"] = pd.Categorical(joined["result_class"], categories = ["T1", "D", "T2"], ordered = True)
     joined.to_csv('../international_soccer_forecasts/Models/elo_win_rates.csv', index=False)
+
+
+def logistic_regression():
+    """
+    Method to fit logisitic regression eq to predict win / draw / loss probabilities given elo difference
+    """
+    df_stacked = get_df_stacked()
+    df_home = df_stacked[["elo_diff", "result_class"]]
+    model_ft = LogisticRegression(multi_class='multinomial', solver='lbfgs')
+    model_ft.fit(df_home[["elo_diff"]], df_home["result_class"])
+    joblib.dump(model_ft, f"../international_soccer_forecasts/Models/logistic_regression.pkl")

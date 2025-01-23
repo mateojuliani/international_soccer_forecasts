@@ -1,7 +1,7 @@
 import soccer_functions as sf
 import pandas as pd
 
-def clean_scraped_historical_data(start_year: int = 2016, end_year: int = 2024):
+def clean_scraped_historical_data(start_year: int = 2016, end_year: int = 2025):
 
     """
     In this function, we ingest in the scraped data and create two dataframes:

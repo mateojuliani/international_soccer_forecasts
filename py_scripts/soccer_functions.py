@@ -181,7 +181,16 @@ def get_historical_elo(elo_diff, joined):
     elo_rounded = apply_elo_50_rounding(int(elo_diff))
     return joined[joined["rounded_elo"] == elo_rounded].sort_values("result_class")["pct"].to_list()
 
+def model_estimate_odds(elo_diff, model, odds = True):
 
+    preds = model.predict_proba(np.array([elo_diff]).reshape(1, -1))
+
+    #in format D / T1 / T2
+    #re order to T1 / D / T2
+    if odds:
+        return [1/preds[0][1], 1/preds[0][0], 1/preds[0][2]]
+    else:
+        return [preds[0][1], preds[0][0], preds[0][2]]
 
 #Given two xgs, simulates scores of each side using a poisson distribution and then sees which side won / loss
 def possion_sim(xg, opp_xg, num):

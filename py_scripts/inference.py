@@ -17,6 +17,7 @@ def win_probability_inference():
     #Import the two sklearn models
     gb_model = joblib.load('../international_soccer_forecasts/Models/sklearn_gradient_boosted_model.pkl')
     lin_reg_model = joblib.load('../international_soccer_forecasts/Models/linreg_model.pkl')
+    logistic_reg_model = joblib.load('../international_soccer_forecasts/Models/logistic_regression.pkl')
 
 
     #get the correct inputs for the xG Models
@@ -47,6 +48,7 @@ def win_probability_inference():
     #get ELO probabilities
     elo_historical_average = pd.read_csv('../international_soccer_forecasts/Models/elo_win_rates.csv')
     current_fixtures["elo_probs"] = current_fixtures.apply(lambda row: sf.get_historical_elo(row['elo_diff_1'], elo_historical_average), axis = 1)
+    current_fixtures["elo_reg_probs"] = current_fixtures.apply(lambda row: sf.model_estimate_odds(row['elo_diff_1'], logistic_reg_model, odds= False), axis = 1)
 
     #Get implied odds by using either the lr or gb model to forecast xG, and then simulate 500 games using poisson simulations
     current_fixtures['lr_probs'] = current_fixtures.apply(lambda row: sf.possion_sim(row['lr_xg_1'], row['lr_xg_2'], 500), axis=1)
@@ -62,15 +64,15 @@ def win_probability_inference():
 
 
     #Parse out the probabilities into their own seperate columns
-    current_fixtures[['team_1_w', 'draw', 'team_2_w']] = pd.DataFrame(current_fixtures['ensemble_preds'].tolist(), index=current_fixtures.index)
+    current_fixtures[['team_1_w', 'draw', 'team_2_w']] = pd.DataFrame(current_fixtures['elo_reg_probs'].tolist(), index=current_fixtures.index)
 
     #clean up table to get final results
     to_publish = current_fixtures[["date", "location", "team_1", "team_2", 'team_1_w', 'draw', 'team_2_w']]
     to_publish["game"] = current_fixtures["team_1"] + " vs " + current_fixtures["team_2"]
-    to_publish["team_1_prob"] = to_publish["team_1_w"].apply(sf.odds_round)
-    to_publish["draw_prob"] = to_publish["draw"].apply(sf.odds_round)
-    to_publish["team_2_prob"] = to_publish["team_2_w"].apply(sf.odds_round)
-    to_publish = to_publish[["date", "location", "game", "team_1_prob", "draw_prob", "team_2_prob"]]
+    to_publish["T1"] = to_publish["team_1_w"].apply(sf.odds_round)
+    to_publish["Draw"] = to_publish["draw"].apply(sf.odds_round)
+    to_publish["T2"] = to_publish["team_2_w"].apply(sf.odds_round)
+    to_publish = to_publish[["date", "game", "T1", "Draw", "T2"]]
 
     to_publish.to_csv('../international_soccer_forecasts/Data/current_odds.csv', index=False) #save current version
 
