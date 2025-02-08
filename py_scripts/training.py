@@ -129,7 +129,7 @@ def logistic_regression():
     Method to fit logisitic regression eq to predict win / draw / loss probabilities given elo difference
     """
     df_stacked = get_df_stacked()
-    df_home = df_stacked[["elo_diff", "result_class"]]
+    df_home = df_stacked[["elo_diff", "team_home", "opp_home", "result_class"]]
     model_ft = LogisticRegression(multi_class='multinomial', solver='lbfgs')
-    model_ft.fit(df_home[["elo_diff"]], df_home["result_class"])
+    model_ft.fit(df_home[["elo_diff", "team_home", "opp_home"]], df_home["result_class"])
     joblib.dump(model_ft, f"../international_soccer_forecasts/Models/logistic_regression.pkl")

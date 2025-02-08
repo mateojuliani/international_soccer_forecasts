@@ -51,3 +51,14 @@ def clean_scraped_historical_data(start_year: int = 2016, end_year: int = 2025):
     #Save down the two tables
     df_clean_fin.to_csv(f'../international_soccer_forecasts/Data/cleaned_matches.csv', index=False)
     df_stacked_fin.to_csv(f'../international_soccer_forecasts/Data/cleaned_matches_stacked.csv', index=False)
+
+
+
+if __name__ == "__main__":
+
+    df_raw = pd.read_csv(f"../international_soccer_forecasts/Data/2024_matches.csv")
+    df_clean = sf.clean_raw_scraped_df(df_raw)
+    df_merged = sf.create_one_col_df(df_clean)
+    df_stacked = sf.get_opp_stats(df_merged)
+
+    print(df_stacked)

@@ -67,6 +67,12 @@ def result_classification(score_1, score_2):
         return "T2"
     else:
         return "ERROR"
+    
+def is_home_game(location, team):
+    if team in location: 
+        return 1
+    else: 
+        return 0
 
 
 def clean_raw_scraped_df(df_raw): #cleans the base df that we scraped from elorankings.com
@@ -80,6 +86,7 @@ def clean_raw_scraped_df(df_raw): #cleans the base df that we scraped from elora
     df_clean[["new_elo_1", "new_elo_2"]] = df_raw["score_1_points"].apply(lambda x: split_space(x))
     df_clean[["rank_change_1", "rank_change_2"]] = df_raw["change_2"].apply(lambda x: split_space(x))
     df_clean[["new_rank_1", "new_rank_2"]] = df_raw["score_2_points"].apply(lambda x: split_space(x))
+
 
     df_clean["old_elo_1"] = df_clean["new_elo_1"].apply(int) - (df_clean["elo_change_1"].apply(convert_string_to_int))
     df_clean["old_elo_2"] = df_clean["new_elo_2"].apply(int) - (df_clean["elo_change_2"].apply(convert_string_to_int))
@@ -157,7 +164,9 @@ def get_opp_stats(df): #Used to get data on the opponent
                          "date", 
                          "location", 
                          "team", 
+                         
                          "opp", 
+                         
                          "score", 
                          "opp_score", 
                          "old_elo", 
@@ -167,6 +176,9 @@ def get_opp_stats(df): #Used to get data on the opponent
 
                             "old_elo":"elo"
                         })
+    
+    df_joined["team_home"] = df_joined.apply(lambda row: is_home_game( row["location"], row["team"] ), axis = 1)
+    df_joined["opp_home"] = df_joined.apply(lambda row: is_home_game( row["location"], row["opp"] ), axis = 1)
     
     return df_joined
 
@@ -181,9 +193,9 @@ def get_historical_elo(elo_diff, joined):
     elo_rounded = apply_elo_50_rounding(int(elo_diff))
     return joined[joined["rounded_elo"] == elo_rounded].sort_values("result_class")["pct"].to_list()
 
-def model_estimate_odds(elo_diff, model, odds = True):
+def model_estimate_odds(elo_diff, team_home, away_home, model, odds = True):
 
-    preds = model.predict_proba(np.array([elo_diff]).reshape(1, -1))
+    preds = model.predict_proba(np.array([elo_diff, team_home, away_home]).reshape(1, -1))
 
     #in format D / T1 / T2
     #re order to T1 / D / T2
@@ -244,3 +256,7 @@ def single_brier_score(list_pred, list_outcome):
         cum+= (list_pred[x] - list_outcome[x])**2
     
     return cum
+
+
+
+

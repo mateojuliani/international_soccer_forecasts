@@ -8702,3 +8702,5 @@ date,team_1,team_2,score_1,score_2,location,elo_change_1,elo_change_2,new_elo_1,
 2025-01-05,Thailand,Vietnam,2,3,Southeast Asian Championship in Thailand,−30,+30,1377,1355,−12,+7,116,124,1407,1325,128,117,82,-82,"[0, 0, 1]",T2,2025-01-05ThailandVietnam
 2025-01-18,United States,Venezuela,3,1,Friendly in the United States,+10,−10,1769,1735,+2,−1,32,37,1759,1745,30,38,14,-14,"[1, 0, 0]",T1,2025-01-18United StatesVenezuela
 2025-01-22,United States,Costa Rica,3,0,Friendly in the United States,+8,−8,1777,1645,+4,0,28,52,1769,1653,24,52,116,-116,"[1, 0, 0]",T1,2025-01-22United StatesCosta Rica
+2025-01-27,Jordan,Uzbekistan,0,0,Friendly in Qatar,+2,−2,1618,1681,0,0,54,49,1616,1683,54,49,-67,67,"[0, 1, 0]",D,2025-01-27JordanUzbekistan
+2025-02-06,Jamaica,Trinidad and Tobago,1,0,Friendly in Jamaica,+3,−3,1579,1391,+1,−1,64,109,1576,1394,63,110,182,-182,"[1, 0, 0]",T1,2025-02-06JamaicaTrinidad and Tobago

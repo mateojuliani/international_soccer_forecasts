@@ -12,6 +12,9 @@ def win_probability_inference():
     current_fixtures[["elo_1", "elo_2"]] = current_fixtures["elo"].apply(lambda x: sf.split_space(x))
     current_fixtures["elo_diff_1"] = current_fixtures["elo_1"].apply(int) - current_fixtures["elo_2"].apply(int)
     current_fixtures["elo_diff_2"] = -current_fixtures["elo_diff_1"]
+    current_fixtures["elo_diff"] = current_fixtures["elo_diff_1"]
+    current_fixtures["team_home"] = current_fixtures.apply(lambda row: sf.is_home_game( row["location"], row["team_1"] ), axis = 1)
+    current_fixtures["opp_home"] = current_fixtures.apply(lambda row: sf.is_home_game( row["location"], row["team_2"] ), axis = 1)
     current_fixtures = current_fixtures.drop(["rank", "elo", "win_pct"], axis = 1)
 
     #Import the two sklearn models
@@ -48,7 +51,7 @@ def win_probability_inference():
     #get ELO probabilities
     elo_historical_average = pd.read_csv('../international_soccer_forecasts/Models/elo_win_rates.csv')
     current_fixtures["elo_probs"] = current_fixtures.apply(lambda row: sf.get_historical_elo(row['elo_diff_1'], elo_historical_average), axis = 1)
-    current_fixtures["elo_reg_probs"] = current_fixtures.apply(lambda row: sf.model_estimate_odds(row['elo_diff_1'], logistic_reg_model, odds= False), axis = 1)
+    current_fixtures["elo_reg_probs"] = current_fixtures.apply(lambda row: sf.model_estimate_odds(row['elo_diff'], row['team_home'], row['opp_home'], logistic_reg_model, odds= False), axis = 1)
 
     #Get implied odds by using either the lr or gb model to forecast xG, and then simulate 500 games using poisson simulations
     current_fixtures['lr_probs'] = current_fixtures.apply(lambda row: sf.possion_sim(row['lr_xg_1'], row['lr_xg_2'], 500), axis=1)
