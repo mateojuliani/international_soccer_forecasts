@@ -8704,3 +8704,6 @@ date,team_1,team_2,score_1,score_2,location,elo_change_1,elo_change_2,new_elo_1,
 2025-01-22,United States,Costa Rica,3,0,Friendly in the United States,+8,−8,1777,1645,+4,0,28,52,1769,1653,24,52,116,-116,"[1, 0, 0]",T1,2025-01-22United StatesCosta Rica
 2025-01-27,Jordan,Uzbekistan,0,0,Friendly in Qatar,+2,−2,1618,1681,0,0,54,49,1616,1683,54,49,-67,67,"[0, 1, 0]",D,2025-01-27JordanUzbekistan
 2025-02-06,Jamaica,Trinidad and Tobago,1,0,Friendly in Jamaica,+3,−3,1579,1391,+1,−1,64,109,1576,1394,63,110,182,-182,"[1, 0, 0]",T1,2025-02-06JamaicaTrinidad and Tobago
+2025-02-08,Chile,Panama,6,1,Friendly in Chile,+15,−15,1728,1712,+5,−5,39,44,1713,1727,34,49,-14,14,"[1, 0, 0]",T1,2025-02-08ChilePanama
+2025-02-09,Jamaica,Trinidad and Tobago,1,1,Friendly in Jamaica,−7,+7,1572,1398,−2,+2,66,107,1579,1391,68,105,188,-188,"[0, 1, 0]",D,2025-02-09JamaicaTrinidad and Tobago
+2025-02-17,North Korea,Kazakhstan,2,0,Friendly in Turkey,+17,−17,1403,1413,+6,−3,106,99,1386,1430,100,102,-44,44,"[1, 0, 0]",T1,2025-02-17North KoreaKazakhstan

@@ -1,326 +1,433 @@
 date,team_1,team_2,location,rank,elo,win_pct,scrape_date
-Sat Feb 8,Chile,Panama,Friendly in Chile,44 39,1713 1727,62% 38%,2025-02-07
-Sun Feb 9,Jamaica,Trinidad and Tobago,Friendly in Jamaica,64 109,1579 1391,84% 16%,2025-02-07
-Sun Mar 16,Guatemala,Honduras,Friendly in the United States,81 68,1507 1561,42% 58%,2025-02-07
-Thu Mar 20,Australia,Indonesia,World Cup qualifier in Australia,43 134,1718 1317,95% 5%,2025-02-07
-Thu Mar 20,Iran,United Arab Emirates,World Cup qualifier in Iran,18 76,1837 1532,91% 9%,2025-02-07
-Thu Mar 20,Iraq,Kuwait,World Cup qualifier in Iraq,62 127,1582 1337,88% 12%,2025-02-07
-Thu Mar 20,Japan,Bahrain,World Cup qualifier in Japan,13 77,1888 1528,93% 7%,2025-02-07
-Thu Mar 20,Jordan,Palestine,World Cup qualifier in Jordan,54 104,1618 1406,86% 14%,2025-02-07
-Thu Mar 20,Qatar,North Korea,World Cup qualifier in Qatar,78 112,1525 1386,80% 20%,2025-02-07
-Thu Mar 20,Saudi Arabia,China,World Cup qualifier in Saudi Arabia,75 101,1535 1410,79% 21%,2025-02-07
-Thu Mar 20,South Korea,Oman,World Cup qualifier in South Korea,31 80,1773 1511,89% 11%,2025-02-07
-Thu Mar 20,Uzbekistan,Kyrgyzstan,World Cup qualifier in Uzbekistan,49 145,1681 1278,95% 5%,2025-02-07
-Thu Mar 20,Croatia,France,European Nations League in Croatia,14 3,1887 2056,40% 60%,2025-02-07
-Thu Mar 20,Denmark,Portugal,European Nations League in Denmark,16 6,1857 1993,45% 55%,2025-02-07
-Thu Mar 20,Italy,Germany,European Nations League in Italy,11 8,1930 1972,58% 42%,2025-02-07
-Thu Mar 20,Netherlands,Spain,European Nations League in the Netherlands,10 1,1939 2178,31% 69%,2025-02-07
-Thu Mar 20,Austria,Serbia,European League A/B in Austria,15 21,1871 1810,72% 28%,2025-02-07
-Thu Mar 20,Belgium,Ukraine,European League A/B in Spain,17 24,1851 1802,57% 43%,2025-02-07
-Thu Mar 20,Greece,Scotland,European League A/B in Greece,20 34,1813 1760,71% 29%,2025-02-07
-Thu Mar 20,Turkey,Hungary,European League A/B in Turkey,29 27,1774 1779,63% 37%,2025-02-07
-Thu Mar 20,Armenia,Georgia,European League B/C in Armenia,100 47,1412 1691,26% 74%,2025-02-07
-Thu Mar 20,Bulgaria,Ireland,European League B/C in Bulgaria,84 57,1486 1609,47% 53%,2025-02-07
-Thu Mar 20,Kosovo,Iceland,European League B/C in Kosovo,70 66,1554 1576,61% 39%,2025-02-07
-Thu Mar 20,Slovakia,Slovenia,European League B/C in Slovakia,45 39,1702 1727,61% 39%,2025-02-07
-Thu Mar 20,Tajikistan,Belarus,Friendly in Tajikistan,136 88,1304 1459,42% 58%,2025-02-07
-Thu Mar 20,Vietnam,Myanmar,Friendly in Vietnam,124 197,1355 914,96% 4%,2025-02-07
-Thu Mar 20,Brazil,Colombia,World Cup qualifier in Brazil,5 7,1997 1979,66% 34%,2025-02-07
-Thu Mar 20,Ecuador,Venezuela,World Cup qualifier in Ecuador,12 37,1910 1735,83% 17%,2025-02-07
-Thu Mar 20,Paraguay,Chile,World Cup qualifier in Paraguay,29 44,1774 1713,72% 28%,2025-02-07
-Thu Mar 20,Peru,Bolivia,World Cup qualifier in Peru,41 50,1723 1659,72% 28%,2025-02-07
-Thu Mar 20,Uruguay,Argentina,World Cup qualifier in Uruguay,9 2,1949 2107,42% 58%,2025-02-07
-Thu Mar 20,Canada,Mexico,CONCACAF Nations League in the United States,26 33,1785 1769,52% 48%,2025-02-07
-Thu Mar 20,United States,Panama,CONCACAF Nations League in the United States,28 39,1777 1727,70% 30%,2025-02-07
-Fri Mar 21,New Caledonia,Tahiti,World Cup qualifier in New Zealand,151 160,1264 1208,58% 42%,2025-02-07
-Fri Mar 21,New Zealand,Fiji,World Cup qualifier in New Zealand,61 154,1584 1235,93% 7%,2025-02-07
-Fri Mar 21,Andorra,Latvia,World Cup qualifier in Andorra,176 148,1083 1276,37% 63%,2025-02-07
-Fri Mar 21,Cyprus,San Marino,World Cup qualifier in Cyprus,137 205,1302 849,96% 4%,2025-02-07
-Fri Mar 21,England,Albania,World Cup qualifier in England,4 53,2007 1635,94% 6%,2025-02-07
-Fri Mar 21,Malta,Finland,World Cup qualifier in Malta,149 74,1270 1538,28% 72%,2025-02-07
-Fri Mar 21,Poland,Lithuania,World Cup qualifier in Poland,46 142,1700 1284,95% 5%,2025-02-07
-Fri Mar 21,Romania,Bosnia and Herzegovina,World Cup qualifier in Romania,42 85,1719 1485,87% 13%,2025-02-07
-Fri Mar 21,Northern Ireland,Switzerland,Friendly in Northern Ireland,69 19,1560 1814,29% 71%,2025-02-07
-Fri Mar 21,Puerto Rico,Dominican Republic,Friendly in Puerto Rico,171 140,1121 1289,40% 60%,2025-02-07
-Fri Mar 21,Thailand,Afghanistan,Friendly in Thailand,116 176,1377 1083,91% 9%,2025-02-07
-Fri Mar 21,Costa Rica,Belize,CONCACAF Champ qual in Costa Rica,52 175,1645 1094,98% 2%,2025-02-07
-Fri Mar 21,Guatemala,Guyana,CONCACAF Champ qual in Guatemala,81 153,1507 1245,89% 11%,2025-02-07
-Fri Mar 21,Honduras,Bermuda,CONCACAF Champ qual in Honduras,68 165,1561 1143,95% 5%,2025-02-07
-Fri Mar 21,Jamaica,St Vincent & Grenadines,CONCACAF Champ qual in Jamaica,64 167,1579 1133,96% 4%,2025-02-07
-Fri Mar 21,Martinique,Suriname,CONCACAF Champ qual in Martinique,99 122,1417 1357,72% 28%,2025-02-07
-Fri Mar 21,Nicaragua,Guadeloupe,CONCACAF Champ qual in Nicaragua,119 129,1363 1336,68% 32%,2025-02-07
-Fri Mar 21,Trinidad and Tobago,Cuba,CONCACAF Champ qual in Trinidad and Tobago,109 144,1391 1281,77% 23%,2025-02-07
-Sat Mar 22,Czechia,Faroe Islands,World Cup qualifier in Czechia,35 145,1754 1278,96% 4%,2025-02-07
-Sat Mar 22,Estonia,Israel,World Cup qualifier,116 58,1377 1601,22% 78%,2025-02-07
-Sat Mar 22,Liechtenstein,North Macedonia,World Cup qualifier in Liechtenstein,197 56,914 1611,3% 97%,2025-02-07
-Sat Mar 22,Moldova,Norway,World Cup qualifier in Moldova,123 22,1356 1805,12% 88%,2025-02-07
-Sat Mar 22,Montenegro,Gibraltar,World Cup qualifier in Montenegro,79 180,1521 1057,96% 4%,2025-02-07
-Sat Mar 22,Wales,Kazakhstan,World Cup qualifier in Wales,38 96,1733 1430,91% 9%,2025-02-07
-Sat Mar 22,Luxembourg,Sweden,Friendly in Luxembourg,91 36,1445 1745,24% 76%,2025-02-07
-Sun Mar 23,France,Croatia,European Nations League in France,3 14,2056 1887,82% 18%,2025-02-07
-Sun Mar 23,Germany,Italy,European Nations League in Germany,8 11,1972 1930,69% 31%,2025-02-07
-Sun Mar 23,Portugal,Denmark,European Nations League in Portugal,6 16,1993 1857,80% 20%,2025-02-07
-Sun Mar 23,Spain,Netherlands,European Nations League in Spain,1 10,2178 1939,88% 12%,2025-02-07
-Sun Mar 23,Belgium,Ukraine,European League A/B in Belgium,17 24,1851 1802,70% 30%,2025-02-07
-Sun Mar 23,Hungary,Turkey,European League A/B in Hungary,27 29,1779 1774,65% 35%,2025-02-07
-Sun Mar 23,Scotland,Greece,European League A/B in Scotland,34 20,1760 1813,57% 43%,2025-02-07
-Sun Mar 23,Serbia,Austria,European League A/B in Serbia,21 15,1810 1871,56% 44%,2025-02-07
-Sun Mar 23,Georgia,Armenia,European League B/C in Georgia,47 100,1691 1412,90% 10%,2025-02-07
-Sun Mar 23,Iceland,Kosovo,European League B/C in Spain,66 70,1576 1554,53% 47%,2025-02-07
-Sun Mar 23,Ireland,Bulgaria,European League B/C in Ireland,57 84,1609 1486,78% 22%,2025-02-07
-Sun Mar 23,Slovenia,Slovakia,European League B/C in Slovenia,39 45,1727 1702,67% 33%,2025-02-07
-Mon Mar 24,Albania,Andorra,World Cup qualifier in Albania,53 176,1635 1083,98% 2%,2025-02-07
-Mon Mar 24,Bosnia and Herzegovina,Cyprus,World Cup qualifier in Bosnia and Herzegovina,85 137,1485 1302,84% 16%,2025-02-07
-Mon Mar 24,England,Latvia,World Cup qualifier in England,4 148,2007 1276,99.2% 0.8%,2025-02-07
-Mon Mar 24,Lithuania,Finland,World Cup qualifier in Lithuania,142 74,1284 1538,29% 71%,2025-02-07
-Mon Mar 24,Poland,Malta,World Cup qualifier in Poland,46 149,1700 1270,95% 5%,2025-02-07
-Mon Mar 24,San Marino,Romania,World Cup qualifier in San Marino,205 42,849 1719,1.2% 98.8%,2025-02-07
-Tue Mar 25,China,Australia,World Cup qualifier in China,101 43,1410 1718,23% 77%,2025-02-07
-Tue Mar 25,Indonesia,Bahrain,World Cup qualifier in Indonesia,134 77,1317 1528,35% 65%,2025-02-07
-Tue Mar 25,Iran,Uzbekistan,World Cup qualifier in Iran,18 49,1837 1681,81% 19%,2025-02-07
-Tue Mar 25,Japan,Saudi Arabia,World Cup qualifier in Japan,13 75,1888 1535,93% 7%,2025-02-07
-Tue Mar 25,Kuwait,Oman,World Cup qualifier in Kuwait,127 80,1337 1511,40% 60%,2025-02-07
-Tue Mar 25,Kyrgyzstan,Qatar,World Cup qualifier in Kyrgyzstan,145 78,1278 1525,30% 70%,2025-02-07
-Tue Mar 25,North Korea,United Arab Emirates,World Cup qualifier in North Korea,112 76,1386 1532,43% 57%,2025-02-07
-Tue Mar 25,Palestine,Iraq,World Cup qualifier in Palestine,104 62,1406 1582,39% 61%,2025-02-07
-Tue Mar 25,South Korea,Jordan,World Cup qualifier in South Korea,31 54,1773 1618,81% 19%,2025-02-07
-Tue Mar 25,Bhutan,Yemen,Asian Cup qualifier in Bhutan,231 169,619 1123,9% 91%,2025-02-07
-Tue Mar 25,Brunei,Lebanon,Asian Cup qualifier in Qatar,224 126,665 1339,2% 98%,2025-02-07
-Tue Mar 25,India,Bangladesh,Asian Cup qualifier in India,162 199,1174 904,89% 11%,2025-02-07
-Tue Mar 25,Maldives,Philippines,Asian Cup qualifier in the Maldives,203 172,886 1119,32% 68%,2025-02-07
-Tue Mar 25,Myanmar,Afghanistan,Asian Cup qualifier in Myanmar,197 176,914 1083,40% 60%,2025-02-07
-Tue Mar 25,Nepal,Malaysia,Asian Cup qualifier in Nepal,194 152,931 1253,22% 78%,2025-02-07
-Tue Mar 25,Pakistan,Syria,Asian Cup qualifier,209 93,824 1435,3% 97%,2025-02-07
-Tue Mar 25,Singapore,Hong Kong,Asian Cup qualifier in Singapore,178 166,1074 1135,56% 44%,2025-02-07
-Tue Mar 25,Taiwan,Turkmenistan,Asian Cup qualifier in Taiwan,195 161,923 1204,26% 74%,2025-02-07
-Tue Mar 25,Tajikistan,East Timor,Asian Cup qualifier in Tajikistan,136 225,1304 659,98.6% 1.4%,2025-02-07
-Tue Mar 25,Thailand,Sri Lanka,Asian Cup qualifier in Thailand,116 217,1377 721,98.7% 1.3%,2025-02-07
-Tue Mar 25,Vietnam,Laos,Asian Cup qualifier in Vietnam,124 220,1355 697,98.7% 1.3%,2025-02-07
-Tue Mar 25,Gibraltar,Czechia,World Cup qualifier in Gibraltar,180 35,1057 1754,3% 97%,2025-02-07
-Tue Mar 25,Israel,Norway,World Cup qualifier,58 22,1601 1805,24% 76%,2025-02-07
-Tue Mar 25,Liechtenstein,Kazakhstan,World Cup qualifier in Liechtenstein,197 96,914 1430,8% 92%,2025-02-07
-Tue Mar 25,Moldova,Estonia,World Cup qualifier in Moldova,123 116,1356 1377,61% 39%,2025-02-07
-Tue Mar 25,Montenegro,Faroe Islands,World Cup qualifier in Montenegro,79 145,1521 1278,88% 12%,2025-02-07
-Tue Mar 25,North Macedonia,Wales,World Cup qualifier in North Macedonia,56 38,1611 1733,47% 53%,2025-02-07
-Tue Mar 25,Azerbaijan,Belarus,Friendly in Azerbaijan,106 88,1399 1459,56% 44%,2025-02-07
-Tue Mar 25,Dominican Republic,Puerto Rico,Friendly in the Dominican Republic,140 171,1289 1121,82% 18%,2025-02-07
-Tue Mar 25,Sweden,Northern Ireland,Friendly in Sweden,36 69,1745 1560,84% 16%,2025-02-07
-Tue Mar 25,Switzerland,Luxembourg,Friendly in Switzerland,19 91,1814 1445,94% 6%,2025-02-07
-Tue Mar 25,Argentina,Brazil,World Cup qualifier in Argentina,2 5,2107 1997,77% 23%,2025-02-07
-Tue Mar 25,Bolivia,Uruguay,World Cup qualifier in Bolivia,50 9,1659 1949,25% 75%,2025-02-07
-Tue Mar 25,Chile,Ecuador,World Cup qualifier in Chile,44 12,1713 1910,36% 64%,2025-02-07
-Tue Mar 25,Colombia,Paraguay,World Cup qualifier in Colombia,7 29,1979 1774,85% 15%,2025-02-07
-Tue Mar 25,Venezuela,Peru,World Cup qualifier in Venezuela,37 41,1735 1723,66% 34%,2025-02-07
-Tue Mar 25,Belize,Costa Rica,CONCACAF Champ qual in Belize,175 52,1094 1645,7% 93%,2025-02-07
-Tue Mar 25,Bermuda,Honduras,CONCACAF Champ qual in Bermuda,165 68,1143 1561,14% 86%,2025-02-07
-Tue Mar 25,Cuba,Trinidad and Tobago,CONCACAF Champ qual in Cuba,144 109,1281 1391,49% 51%,2025-02-07
-Tue Mar 25,Guadeloupe,Nicaragua,CONCACAF Champ qual in Guadeloupe,129 119,1336 1363,60% 40%,2025-02-07
-Tue Mar 25,Guyana,Guatemala,CONCACAF Champ qual in Guyana,153 81,1245 1507,28% 72%,2025-02-07
-Tue Mar 25,St Vincent & Grenadines,Jamaica,CONCACAF Champ qual in St Vincent & Grenadines,167 64,1133 1579,12% 88%,2025-02-07
-Tue Mar 25,Suriname,Martinique,CONCACAF Champ qual in Suriname,122 99,1357 1417,56% 44%,2025-02-07
-Wed Jun 4,Chile,Argentina,World Cup qualifier in Chile,44 2,1713 2107,16% 84%,2025-02-07
-Wed Jun 4,Colombia,Peru,World Cup qualifier in Colombia,7 41,1979 1723,89% 11%,2025-02-07
-Wed Jun 4,Ecuador,Brazil,World Cup qualifier in Ecuador,12 5,1910 1997,52% 48%,2025-02-07
-Wed Jun 4,Paraguay,Uruguay,World Cup qualifier in Paraguay,29 9,1774 1949,39% 61%,2025-02-07
-Wed Jun 4,Venezuela,Bolivia,World Cup qualifier in Venezuela,37 50,1735 1659,73% 27%,2025-02-07
-Wed Jun 4,Barbados,Aruba,World Cup qualifier in Barbados,190 200,950 903,70% 30%,2025-02-07
-Wed Jun 4,Bermuda,Cayman Islands,World Cup qualifier in Bermuda,165 208,1143 829,92% 8%,2025-02-07
-Wed Jun 4,Dominica,British Virgin Islands,World Cup qualifier in Dominica,188 228,980 627,93% 7%,2025-02-07
-Wed Jun 4,Grenada,Bahamas,World Cup qualifier in Grenada,179 210,1065 794,89% 11%,2025-02-07
-Wed Jun 4,Montserrat,Belize,World Cup qualifier in Montserrat,189 175,952 1094,44% 56%,2025-02-07
-Wed Jun 4,St Vincent & Grenadines,Anguilla,World Cup qualifier in St Vincent & Grenadines,167 229,1133 623,97% 3%,2025-02-07
-Thu Jun 5,Australia,Japan,World Cup qualifier in Australia,43 13,1718 1888,40% 60%,2025-02-07
-Thu Jun 5,Bahrain,Saudi Arabia,World Cup qualifier in Bahrain,77 75,1528 1535,63% 37%,2025-02-07
-Thu Jun 5,Indonesia,China,World Cup qualifier in Indonesia,134 101,1317 1410,51% 49%,2025-02-07
-Thu Jun 5,Iraq,South Korea,World Cup qualifier in Iraq,62 31,1582 1773,37% 63%,2025-02-07
-Thu Jun 5,Kuwait,Palestine,World Cup qualifier in Kuwait,127 104,1337 1406,54% 46%,2025-02-07
-Thu Jun 5,North Korea,Kyrgyzstan,World Cup qualifier in North Korea,112 145,1386 1278,77% 23%,2025-02-07
-Thu Jun 5,Oman,Jordan,World Cup qualifier in Oman,80 54,1511 1618,49% 51%,2025-02-07
-Thu Jun 5,Qatar,Iran,World Cup qualifier in Qatar,78 18,1525 1837,23% 77%,2025-02-07
-Thu Jun 5,United Arab Emirates,Uzbekistan,World Cup qualifier in the United Arab Emirates,76 49,1532 1681,43% 57%,2025-02-07
-Fri Jun 6,Czechia,Montenegro,World Cup qualifier in Czechia,35 79,1754 1521,87% 13%,2025-02-07
-Fri Jun 6,Estonia,Israel,World Cup qualifier in Estonia,116 58,1377 1601,33% 67%,2025-02-07
-Fri Jun 6,North Macedonia,Belgium,World Cup qualifier in North Macedonia,56 17,1611 1851,31% 69%,2025-02-07
-Fri Jun 6,Wales,Liechtenstein,World Cup qualifier in Wales,38 197,1733 914,99.5% 0.5%,2025-02-07
-Fri Jun 6,Bulgaria,Cyprus,Friendly in Bulgaria,84 137,1486 1302,84% 16%,2025-02-07
-Fri Jun 6,Hungary,Sweden,Friendly in Hungary,27 36,1779 1745,68% 32%,2025-02-07
-Fri Jun 6,Luxembourg,Slovenia,Friendly in Luxembourg,91 39,1445 1727,26% 74%,2025-02-07
-Fri Jun 6,Scotland,Iceland,Friendly in Scotland,34 66,1760 1576,84% 16%,2025-02-07
-Fri Jun 6,Antigua and Barbuda,Cuba,World Cup qualifier in Antigua and Barbuda,196 144,919 1281,18% 82%,2025-02-07
-Fri Jun 6,Curaçao,Saint Lucia,World Cup qualifier in Curaçao,127 183,1337 1036,91% 9%,2025-02-07
-Fri Jun 6,Guatemala,Dominican Republic,World Cup qualifier in Guatemala,81 140,1507 1289,86% 14%,2025-02-07
-Fri Jun 6,Nicaragua,Guyana,World Cup qualifier in Nicaragua,119 153,1363 1245,78% 22%,2025-02-07
-Fri Jun 6,Suriname,Puerto Rico,World Cup qualifier in Suriname,122 171,1357 1121,87% 13%,2025-02-07
-Fri Jun 6,Trinidad and Tobago,Saint Kitts and Nevis,World Cup qualifier in Trinidad and Tobago,109 173,1391 1104,90% 10%,2025-02-07
-Sat Jun 7,Albania,Serbia,World Cup qualifier in Albania,53 21,1635 1810,39% 61%,2025-02-07
-Sat Jun 7,Andorra,England,World Cup qualifier in Andorra,176 4,1083 2007,0.9% 99.1%,2025-02-07
-Sat Jun 7,Austria,Romania,World Cup qualifier in Austria,15 42,1871 1719,81% 19%,2025-02-07
-Sat Jun 7,Bosnia and Herzegovina,San Marino,World Cup qualifier in Bosnia and Herzegovina,85 205,1485 849,98.6% 1.4%,2025-02-07
-Sat Jun 7,Malta,Lithuania,World Cup qualifier in Malta,149 142,1270 1284,62% 38%,2025-02-07
-Sat Jun 7,Greece,Slovakia,Friendly in Greece,20 45,1813 1702,77% 23%,2025-02-07
-Sat Jun 7,Anguilla,El Salvador,World Cup qualifier in Anguilla,229 109,623 1391,2% 98%,2025-02-07
-Sat Jun 7,Aruba,Haiti,World Cup qualifier in Aruba,200 73,903 1539,4% 96%,2025-02-07
-Sat Jun 7,Bahamas,Costa Rica,World Cup qualifier in the Bahamas,210 52,794 1645,1.3% 98.7%,2025-02-07
-Sat Jun 7,Belize,Panama,World Cup qualifier in Belize,175 39,1094 1727,4% 96%,2025-02-07
-Sat Jun 7,British Virgin Islands,Jamaica,World Cup qualifier in the British Virgin Islands,228 64,627 1579,0.7% 99.3%,2025-02-07
-Sat Jun 7,Cayman Islands,Honduras,World Cup qualifier in the Cayman Islands,208 68,829 1561,3% 97%,2025-02-07
-Mon Jun 9,Belgium,Wales,World Cup qualifier in Belgium,17 38,1851 1733,78% 22%,2025-02-07
-Mon Jun 9,Estonia,Norway,World Cup qualifier in Estonia,116 22,1377 1805,13% 87%,2025-02-07
-Mon Jun 9,Faroe Islands,Gibraltar,World Cup qualifier in the Faroe Islands,145 180,1278 1057,86% 14%,2025-02-07
-Mon Jun 9,Kazakhstan,North Macedonia,World Cup qualifier in Kazakhstan,96 56,1430 1611,39% 61%,2025-02-07
-Mon Jun 9,Liechtenstein,Scotland,Friendly in Liechtenstein,197 34,914 1760,1.3% 98.7%,2025-02-07
-Mon Jun 9,Montenegro,Armenia,Friendly in Montenegro,79 100,1521 1412,77% 23%,2025-02-07
-Tue Jun 10,China,Bahrain,World Cup qualifier in China,101 77,1410 1528,47% 53%,2025-02-07
-Tue Jun 10,Iran,North Korea,World Cup qualifier in Iran,18 112,1837 1386,96% 4%,2025-02-07
-Tue Jun 10,Japan,Indonesia,World Cup qualifier in Japan,13 134,1888 1317,98% 2%,2025-02-07
-Tue Jun 10,Jordan,Iraq,World Cup qualifier in Jordan,54 62,1618 1582,69% 31%,2025-02-07
-Tue Jun 10,Kyrgyzstan,United Arab Emirates,World Cup qualifier in Kyrgyzstan,145 76,1278 1532,29% 71%,2025-02-07
-Tue Jun 10,Palestine,Oman,World Cup qualifier in Palestine,104 80,1406 1511,49% 51%,2025-02-07
-Tue Jun 10,Saudi Arabia,Australia,World Cup qualifier in Saudi Arabia,75 43,1535 1718,38% 62%,2025-02-07
-Tue Jun 10,South Korea,Kuwait,World Cup qualifier in South Korea,31 127,1773 1337,96% 4%,2025-02-07
-Tue Jun 10,Uzbekistan,Qatar,World Cup qualifier in Uzbekistan,49 78,1681 1525,81% 19%,2025-02-07
-Tue Jun 10,Afghanistan,Syria,Asian Cup qualifier,176 93,1083 1435,12% 88%,2025-02-07
-Tue Jun 10,Bangladesh,Singapore,Asian Cup qualifier in Bangladesh,199 178,904 1074,40% 60%,2025-02-07
-Tue Jun 10,Brunei,Bhutan,Asian Cup qualifier in Brunei,224 231,665 619,70% 30%,2025-02-07
-Tue Jun 10,East Timor,Maldives,Asian Cup qualifier,225 203,659 886,21% 79%,2025-02-07
-Tue Jun 10,Hong Kong,India,Asian Cup qualifier in Hong Kong,166 162,1135 1174,59% 41%,2025-02-07
-Tue Jun 10,Laos,Nepal,Asian Cup qualifier in Laos,220 194,697 931,32% 68%,2025-02-07
-Tue Jun 10,Lebanon,Yemen,Asian Cup qualifier,126 169,1339 1123,78% 22%,2025-02-07
-Tue Jun 10,Malaysia,Vietnam,Asian Cup qualifier in Malaysia,152 124,1253 1355,50% 50%,2025-02-07
-Tue Jun 10,Pakistan,Myanmar,Asian Cup qualifier in Pakistan,209 197,824 914,51% 49%,2025-02-07
-Tue Jun 10,Philippines,Tajikistan,Asian Cup qualifier in the Philippines,172 136,1119 1304,38% 62%,2025-02-07
-Tue Jun 10,Sri Lanka,Taiwan,Asian Cup qualifier in Sri Lanka,217 195,721 923,36% 64%,2025-02-07
-Tue Jun 10,Turkmenistan,Thailand,Asian Cup qualifier in Turkmenistan,161 116,1204 1377,40% 60%,2025-02-07
-Tue Jun 10,Finland,Poland,World Cup qualifier in Finland,74 46,1538 1700,41% 59%,2025-02-07
-Tue Jun 10,Latvia,Albania,World Cup qualifier in Latvia,148 53,1276 1635,18% 82%,2025-02-07
-Tue Jun 10,Romania,Cyprus,World Cup qualifier in Romania,42 137,1719 1302,95% 5%,2025-02-07
-Tue Jun 10,San Marino,Austria,World Cup qualifier in San Marino,205 15,849 1871,0.5% 99.5%,2025-02-07
-Tue Jun 10,Serbia,Andorra,World Cup qualifier in Serbia,21 176,1810 1083,99.2% 0.8%,2025-02-07
-Tue Jun 10,Azerbaijan,Hungary,Friendly in Azerbaijan,106 27,1399 1779,17% 83%,2025-02-07
-Tue Jun 10,Greece,Bulgaria,Friendly in Greece,20 84,1813 1486,92% 8%,2025-02-07
-Tue Jun 10,Northern Ireland,Iceland,Friendly in Northern Ireland,69 66,1560 1576,62% 38%,2025-02-07
-Tue Jun 10,Slovenia,Bosnia and Herzegovina,Friendly in Slovenia,39 85,1727 1485,88% 12%,2025-02-07
-Tue Jun 10,Argentina,Colombia,World Cup qualifier in Argentina,2 7,2107 1979,79% 21%,2025-02-07
-Tue Jun 10,Bolivia,Chile,World Cup qualifier in Bolivia,50 44,1659 1713,57% 43%,2025-02-07
-Tue Jun 10,Brazil,Paraguay,World Cup qualifier in Brazil,5 29,1997 1774,87% 13%,2025-02-07
-Tue Jun 10,Peru,Ecuador,World Cup qualifier in Peru,41 12,1723 1910,38% 62%,2025-02-07
-Tue Jun 10,Uruguay,Venezuela,World Cup qualifier in Uruguay,9 37,1949 1735,86% 14%,2025-02-07
-Tue Jun 10,Costa Rica,Trinidad and Tobago,World Cup qualifier in Costa Rica,52 109,1645 1391,88% 12%,2025-02-07
-Tue Jun 10,Cuba,Bermuda,World Cup qualifier in Cuba,144 165,1281 1143,80% 20%,2025-02-07
-Tue Jun 10,Dominican Republic,Dominica,World Cup qualifier in the Dominican Republic,140 188,1289 980,91% 9%,2025-02-07
-Tue Jun 10,El Salvador,Suriname,World Cup qualifier in El Salvador,109 122,1391 1357,68% 32%,2025-02-07
-Tue Jun 10,Guyana,Montserrat,World Cup qualifier in Guyana,153 189,1245 952,91% 9%,2025-02-07
-Tue Jun 10,Haiti,Curaçao,World Cup qualifier in Haiti,73 127,1539 1337,85% 15%,2025-02-07
-Tue Jun 10,Honduras,Antigua and Barbuda,World Cup qualifier in Honduras,68 196,1561 919,98.6% 1.4%,2025-02-07
-Tue Jun 10,Jamaica,Guatemala,World Cup qualifier in Jamaica,64 81,1579 1507,73% 27%,2025-02-07
-Tue Jun 10,Panama,Nicaragua,World Cup qualifier in Panama,39 119,1727 1363,94% 6%,2025-02-07
-Tue Jun 10,Puerto Rico,St Vincent & Grenadines,World Cup qualifier in Puerto Rico,171 167,1121 1133,62% 38%,2025-02-07
-Tue Jun 10,Saint Kitts and Nevis,Grenada,World Cup qualifier in Saint Kitts and Nevis,173 179,1104 1065,69% 31%,2025-02-07
-Tue Jun 10,Saint Lucia,Barbados,World Cup qualifier in Saint Lucia,183 190,1036 950,74% 26%,2025-02-07
-Jul 2025,China,Hong Kong,East Asian Championship in South Korea,101 166,1410 1135,83% 17%,2025-02-07
-Jul 2025,China,Japan,East Asian Championship in South Korea,101 13,1410 1888,6% 94%,2025-02-07
-Jul 2025,Hong Kong,Japan,East Asian Championship in South Korea,166 13,1135 1888,1.3% 98.7%,2025-02-07
-Jul 2025,South Korea,China,East Asian Championship in South Korea,31 101,1773 1410,93% 7%,2025-02-07
-Jul 2025,South Korea,Hong Kong,East Asian Championship in South Korea,31 166,1773 1135,98.6% 1.4%,2025-02-07
-Jul 2025,South Korea,Japan,East Asian Championship in South Korea,31 13,1773 1888,48% 52%,2025-02-07
-Sep 9 2025,Argentina,Venezuela,World Cup qualifier in Argentina,2 37,2107 1735,94% 6%,2025-02-07
-Sep 9 2025,Brazil,Chile,World Cup qualifier in Brazil,5 44,1997 1713,90% 10%,2025-02-07
-Sep 9 2025,Colombia,Bolivia,World Cup qualifier in Colombia,7 50,1979 1659,92% 8%,2025-02-07
-Sep 9 2025,Paraguay,Ecuador,World Cup qualifier in Paraguay,29 12,1774 1910,45% 55%,2025-02-07
-Sep 9 2025,Uruguay,Peru,World Cup qualifier in Uruguay,9 41,1949 1723,87% 13%,2025-02-07
-Sep 14 2025,Bolivia,Brazil,World Cup qualifier in Bolivia,50 5,1659 1997,20% 80%,2025-02-07
-Sep 14 2025,Chile,Uruguay,World Cup qualifier in Chile,44 9,1713 1949,31% 69%,2025-02-07
-Sep 14 2025,Ecuador,Argentina,World Cup qualifier in Ecuador,12 2,1910 2107,36% 64%,2025-02-07
-Sep 14 2025,Peru,Paraguay,World Cup qualifier in Peru,41 29,1723 1774,57% 43%,2025-02-07
-Sep 14 2025,Venezuela,Colombia,World Cup qualifier in Venezuela,37 7,1735 1979,30% 70%,2025-02-07
-Oct 9 2025,Bangladesh,Hong Kong,Asian Cup qualifier in Bangladesh,199 166,904 1135,32% 68%,2025-02-07
-Oct 9 2025,Bhutan,Lebanon,Asian Cup qualifier in Bhutan,231 126,619 1339,3% 97%,2025-02-07
-Oct 9 2025,Brunei,Yemen,Asian Cup qualifier in Brunei,224 169,665 1123,11% 89%,2025-02-07
-Oct 9 2025,East Timor,Philippines,Asian Cup qualifier,225 172,659 1119,7% 93%,2025-02-07
-Oct 9 2025,Laos,Malaysia,Asian Cup qualifier in Laos,220 152,697 1253,7% 93%,2025-02-07
-Oct 9 2025,Maldives,Tajikistan,Asian Cup qualifier in the Maldives,203 136,886 1304,14% 86%,2025-02-07
-Oct 9 2025,Myanmar,Syria,Asian Cup qualifier in Myanmar,197 93,914 1435,8% 92%,2025-02-07
-Oct 9 2025,Nepal,Vietnam,Asian Cup qualifier in Nepal,194 124,931 1355,13% 87%,2025-02-07
-Oct 9 2025,Pakistan,Afghanistan,Asian Cup qualifier in Pakistan,209 176,824 1083,29% 71%,2025-02-07
-Oct 9 2025,Singapore,India,Asian Cup qualifier in Singapore,178 162,1074 1174,50% 50%,2025-02-07
-Oct 9 2025,Sri Lanka,Turkmenistan,Asian Cup qualifier in Sri Lanka,217 161,721 1204,10% 90%,2025-02-07
-Oct 9 2025,Taiwan,Thailand,Asian Cup qualifier in Taiwan,195 116,923 1377,12% 88%,2025-02-07
-Oct 9 2025,Romania,Moldova,Friendly in Romania,42 123,1719 1356,93% 7%,2025-02-07
-Oct 13 2025,Montenegro,Liechtenstein,Friendly in Montenegro,79 197,1521 914,98.3% 1.7%,2025-02-07
-Oct 14 2025,Afghanistan,Pakistan,Asian Cup qualifier,176 209,1083 824,82% 18%,2025-02-07
-Oct 14 2025,Bhutan,Lebanon,Asian Cup qualifier,231 126,619 1339,1.6% 98.4%,2025-02-07
-Oct 14 2025,Brunei,Yemen,Asian Cup qualifier,224 169,665 1123,7% 93%,2025-02-07
-Oct 14 2025,Hong Kong,Bangladesh,Asian Cup qualifier in Hong Kong,166 199,1135 904,87% 13%,2025-02-07
-Oct 14 2025,India,Singapore,Asian Cup qualifier in India,162 178,1174 1074,76% 24%,2025-02-07
-Oct 14 2025,Malaysia,Laos,Asian Cup qualifier in Malaysia,152 220,1253 697,98% 2%,2025-02-07
-Oct 14 2025,Myanmar,Syria,Asian Cup qualifier,197 93,914 1435,5% 95%,2025-02-07
-Oct 14 2025,Philippines,East Timor,Asian Cup qualifier in the Philippines,172 225,1119 659,96% 4%,2025-02-07
-Oct 14 2025,Tajikistan,Maldives,Asian Cup qualifier in Tajikistan,136 203,1304 886,95% 5%,2025-02-07
-Oct 14 2025,Thailand,Taiwan,Asian Cup qualifier in Thailand,116 195,1377 923,96% 4%,2025-02-07
-Oct 14 2025,Turkmenistan,Sri Lanka,Asian Cup qualifier in Turkmenistan,161 217,1204 721,97% 3%,2025-02-07
-Oct 14 2025,Vietnam,Nepal,Asian Cup qualifier in Vietnam,124 194,1355 931,95% 5%,2025-02-07
-Nov 18 2025,Afghanistan,Myanmar,Asian Cup qualifier,176 197,1083 914,73% 27%,2025-02-07
-Nov 18 2025,Bangladesh,India,Asian Cup qualifier in Bangladesh,199 162,904 1174,27% 73%,2025-02-07
-Nov 18 2025,Bhutan,Yemen,Asian Cup qualifier,231 169,619 1123,5% 95%,2025-02-07
-Nov 18 2025,Brunei,Lebanon,Asian Cup qualifier in Brunei,224 126,665 1339,4% 96%,2025-02-07
-Nov 18 2025,East Timor,Tajikistan,Asian Cup qualifier,225 136,659 1304,2% 98%,2025-02-07
-Nov 18 2025,Hong Kong,Singapore,Asian Cup qualifier in Hong Kong,166 178,1135 1074,72% 28%,2025-02-07
-Nov 18 2025,Laos,Vietnam,Asian Cup qualifier in Laos,220 124,697 1355,4% 96%,2025-02-07
-Nov 18 2025,Malaysia,Nepal,Asian Cup qualifier in Malaysia,152 194,1253 931,92% 8%,2025-02-07
-Nov 18 2025,Pakistan,Syria,Asian Cup qualifier in Pakistan,209 93,824 1435,5% 95%,2025-02-07
-Nov 18 2025,Philippines,Maldives,Asian Cup qualifier in the Philippines,172 203,1119 886,87% 13%,2025-02-07
-Nov 18 2025,Sri Lanka,Thailand,Asian Cup qualifier in Sri Lanka,217 116,721 1377,4% 96%,2025-02-07
-Nov 18 2025,Turkmenistan,Taiwan,Asian Cup qualifier in Turkmenistan,161 195,1204 923,90% 10%,2025-02-07
-Nov 18 2025,Cyprus,Estonia,Friendly in Cyprus,137 116,1302 1377,54% 46%,2025-02-07
-Dec 21 2025,Morocco,Comoros,African Nations Cup in Morocco,23 97,1803 1425,94% 6%,2025-02-07
-Dec 22 2025,Angola,South Africa,African Nations Cup in Morocco,67 64,1570 1579,49% 51%,2025-02-07
-Dec 22 2025,Egypt,Zimbabwe,African Nations Cup in Morocco,50 115,1659 1380,83% 17%,2025-02-07
-Dec 22 2025,Mali,Zambia,African Nations Cup in Morocco,55 102,1612 1409,76% 24%,2025-02-07
-Dec 23 2025,Benin,DR Congo,African Nations Cup in Morocco,94 72,1434 1543,35% 65%,2025-02-07
-Dec 23 2025,Botswana,Senegal,African Nations Cup in Morocco,121 32,1359 1771,9% 91%,2025-02-07
-Dec 23 2025,Nigeria,Tanzania,African Nations Cup in Morocco,71 102,1553 1409,70% 30%,2025-02-07
-Dec 23 2025,Tunisia,Uganda,African Nations Cup in Morocco,59 107,1600 1398,76% 24%,2025-02-07
-Dec 24 2025,Algeria,Sudan,African Nations Cup in Morocco,48 111,1688 1388,85% 15%,2025-02-07
-Dec 24 2025,Burkina Faso,Equatorial Guinea,African Nations Cup in Morocco,86 82,1483 1498,48% 52%,2025-02-07
-Dec 24 2025,Cameroon,Gabon,African Nations Cup in Morocco,60 91,1597 1445,71% 29%,2025-02-07
-Dec 24 2025,Ivory Coast,Mozambique,African Nations Cup in Morocco,63 90,1581 1450,68% 32%,2025-02-07
-Dec 26 2025,Angola,Zimbabwe,African Nations Cup in Morocco,67 115,1570 1380,75% 25%,2025-02-07
-Dec 26 2025,Comoros,Zambia,African Nations Cup in Morocco,97 102,1425 1409,52% 48%,2025-02-07
-Dec 26 2025,Egypt,South Africa,African Nations Cup in Morocco,50 64,1659 1579,61% 39%,2025-02-07
-Dec 26 2025,Morocco,Mali,African Nations Cup in Morocco,23 55,1803 1612,84% 16%,2025-02-07
-Dec 27 2025,Benin,Botswana,African Nations Cup in Morocco,94 121,1434 1359,61% 39%,2025-02-07
-Dec 27 2025,DR Congo,Senegal,African Nations Cup in Morocco,72 32,1543 1771,21% 79%,2025-02-07
-Dec 27 2025,Nigeria,Tunisia,African Nations Cup in Morocco,71 59,1553 1600,43% 57%,2025-02-07
-Dec 27 2025,Tanzania,Uganda,African Nations Cup in Morocco,102 107,1409 1398,52% 48%,2025-02-07
-Dec 28 2025,Algeria,Burkina Faso,African Nations Cup in Morocco,48 86,1688 1483,76% 24%,2025-02-07
-Dec 28 2025,Cameroon,Ivory Coast,African Nations Cup in Morocco,60 63,1597 1581,52% 48%,2025-02-07
-Dec 28 2025,Equatorial Guinea,Sudan,African Nations Cup in Morocco,82 111,1498 1388,65% 35%,2025-02-07
-Dec 28 2025,Gabon,Mozambique,African Nations Cup in Morocco,91 90,1445 1450,49% 51%,2025-02-07
-Dec 29 2025,Angola,Egypt,African Nations Cup in Morocco,67 50,1570 1659,37% 63%,2025-02-07
-Dec 29 2025,Comoros,Mali,African Nations Cup in Morocco,97 55,1425 1612,25% 75%,2025-02-07
-Dec 29 2025,Morocco,Zambia,African Nations Cup in Morocco,23 102,1803 1409,94% 6%,2025-02-07
-Dec 29 2025,South Africa,Zimbabwe,African Nations Cup in Morocco,64 115,1579 1380,76% 24%,2025-02-07
-Dec 30 2025,Benin,Senegal,African Nations Cup in Morocco,94 32,1434 1771,13% 87%,2025-02-07
-Dec 30 2025,Botswana,DR Congo,African Nations Cup in Morocco,121 72,1359 1543,26% 74%,2025-02-07
-Dec 30 2025,Nigeria,Uganda,African Nations Cup in Morocco,71 107,1553 1398,71% 29%,2025-02-07
-Dec 30 2025,Tanzania,Tunisia,African Nations Cup in Morocco,102 59,1409 1600,25% 75%,2025-02-07
-Dec 31 2025,Algeria,Equatorial Guinea,African Nations Cup in Morocco,48 82,1688 1498,75% 25%,2025-02-07
-Dec 31 2025,Burkina Faso,Sudan,African Nations Cup in Morocco,86 111,1483 1388,63% 37%,2025-02-07
-Dec 31 2025,Cameroon,Mozambique,African Nations Cup in Morocco,60 90,1597 1450,70% 30%,2025-02-07
-Dec 31 2025,Gabon,Ivory Coast,African Nations Cup in Morocco,91 63,1445 1581,31% 69%,2025-02-07
-Mar 26 2026,Gibraltar,Latvia,European League C/D in Gibraltar,180 148,1057 1276,34% 66%,2025-02-07
-Mar 26 2026,Malta,Luxembourg,European League C/D in Malta,149 91,1270 1445,39% 61%,2025-02-07
-Mar 31 2026,Afghanistan,Syria,Asian Cup qualifier,176 93,1083 1435,12% 88%,2025-02-07
-Mar 31 2026,Bhutan,Brunei,Asian Cup qualifier in Bhutan,231 224,619 665,58% 42%,2025-02-07
-Mar 31 2026,India,Hong Kong,Asian Cup qualifier in India,162 166,1174 1135,69% 31%,2025-02-07
-Mar 31 2026,Lebanon,Yemen,Asian Cup qualifier,126 169,1339 1123,78% 22%,2025-02-07
-Mar 31 2026,Maldives,East Timor,Asian Cup qualifier in the Maldives,203 225,886 659,87% 13%,2025-02-07
-Mar 31 2026,Myanmar,Pakistan,Asian Cup qualifier in Myanmar,197 209,914 824,75% 25%,2025-02-07
-Mar 31 2026,Nepal,Laos,Asian Cup qualifier in Nepal,194 220,931 697,87% 13%,2025-02-07
-Mar 31 2026,Singapore,Bangladesh,Asian Cup qualifier in Singapore,178 199,1074 904,83% 17%,2025-02-07
-Mar 31 2026,Taiwan,Sri Lanka,Asian Cup qualifier in Taiwan,195 217,923 721,85% 15%,2025-02-07
-Mar 31 2026,Tajikistan,Philippines,Asian Cup qualifier in Tajikistan,136 172,1304 1119,84% 16%,2025-02-07
-Mar 31 2026,Thailand,Turkmenistan,Asian Cup qualifier in Thailand,116 161,1377 1204,83% 17%,2025-02-07
-Mar 31 2026,Vietnam,Malaysia,Asian Cup qualifier in Vietnam,124 152,1355 1253,76% 24%,2025-02-07
-Mar 31 2026,Latvia,Gibraltar,European League C/D in Latvia,148 180,1276 1057,86% 14%,2025-02-07
-Mar 31 2026,Luxembourg,Malta,European League C/D in Luxembourg,91 149,1445 1270,83% 17%,2025-02-07
+Fri Mar 14,Jordan,North Korea,Friendly in Jordan,54 106,1618 1403,86% 14%,2025-02-26
+Sun Mar 16,Guatemala,Honduras,Friendly in the United States,81 68,1507 1561,42% 58%,2025-02-26
+Wed Mar 19,Hong Kong,Macao,Friendly in Hong Kong,166 232,1135 597,98% 2%,2025-02-26
+Wed Mar 19,India,Maldives,Friendly in India,162 203,1174 886,90% 10%,2025-02-26
+Wed Mar 19,Vietnam,Cambodia,Friendly in Vietnam,124 206,1355 848,97% 3%,2025-02-26
+Thu Mar 20,Australia,Indonesia,World Cup qualifier in Australia,43 134,1718 1317,95% 5%,2025-02-26
+Thu Mar 20,Iran,United Arab Emirates,World Cup qualifier in Iran,18 76,1837 1532,91% 9%,2025-02-26
+Thu Mar 20,Iraq,Kuwait,World Cup qualifier in Iraq,62 127,1582 1337,88% 12%,2025-02-26
+Thu Mar 20,Japan,Bahrain,World Cup qualifier in Japan,13 77,1888 1528,93% 7%,2025-02-26
+Thu Mar 20,Jordan,Palestine,World Cup qualifier in Jordan,54 104,1618 1406,86% 14%,2025-02-26
+Thu Mar 20,Qatar,North Korea,World Cup qualifier in Qatar,78 106,1525 1403,78% 22%,2025-02-26
+Thu Mar 20,Saudi Arabia,China,World Cup qualifier in Saudi Arabia,75 101,1535 1410,79% 21%,2025-02-26
+Thu Mar 20,South Korea,Oman,World Cup qualifier in South Korea,31 80,1773 1511,89% 11%,2025-02-26
+Thu Mar 20,Uzbekistan,Kyrgyzstan,World Cup qualifier in Uzbekistan,49 145,1681 1278,95% 5%,2025-02-26
+Thu Mar 20,Croatia,France,European Nations League in Croatia,14 3,1887 2056,40% 60%,2025-02-26
+Thu Mar 20,Denmark,Portugal,European Nations League in Denmark,16 6,1857 1993,45% 55%,2025-02-26
+Thu Mar 20,Italy,Germany,European Nations League in Italy,11 8,1930 1972,58% 42%,2025-02-26
+Thu Mar 20,Netherlands,Spain,European Nations League in the Netherlands,10 1,1939 2178,31% 69%,2025-02-26
+Thu Mar 20,Austria,Serbia,European League A/B in Austria,15 21,1871 1810,72% 28%,2025-02-26
+Thu Mar 20,Belgium,Ukraine,European League A/B in Spain,17 24,1851 1802,57% 43%,2025-02-26
+Thu Mar 20,Greece,Scotland,European League A/B in Greece,20 34,1813 1760,71% 29%,2025-02-26
+Thu Mar 20,Turkey,Hungary,European League A/B in Turkey,29 27,1774 1779,63% 37%,2025-02-26
+Thu Mar 20,Armenia,Georgia,European League B/C in Armenia,100 47,1412 1691,26% 74%,2025-02-26
+Thu Mar 20,Bulgaria,Ireland,European League B/C in Bulgaria,84 57,1486 1609,47% 53%,2025-02-26
+Thu Mar 20,Kosovo,Iceland,European League B/C in Kosovo,70 65,1554 1576,61% 39%,2025-02-26
+Thu Mar 20,Slovakia,Slovenia,European League B/C in Slovakia,45 40,1702 1727,61% 39%,2025-02-26
+Thu Mar 20,Tajikistan,Belarus,Friendly in Tajikistan,136 88,1304 1459,42% 58%,2025-02-26
+Thu Mar 20,Vietnam,Myanmar,Friendly in Vietnam,124 197,1355 914,96% 4%,2025-02-26
+Thu Mar 20,Brazil,Colombia,World Cup qualifier in Brazil,5 7,1997 1979,66% 34%,2025-02-26
+Thu Mar 20,Paraguay,Chile,World Cup qualifier in Paraguay,29 39,1774 1728,70% 30%,2025-02-26
+Thu Mar 20,Peru,Bolivia,World Cup qualifier in Peru,41 50,1723 1659,72% 28%,2025-02-26
+Thu Mar 20,Canada,Mexico,CONCACAF Nations League in the United States,26 33,1785 1769,52% 48%,2025-02-26
+Thu Mar 20,United States,Panama,CONCACAF Nations League in the United States,28 44,1777 1712,72% 28%,2025-02-26
+Fri Mar 21,New Caledonia,Tahiti,World Cup qualifier in New Zealand,151 160,1264 1208,58% 42%,2025-02-26
+Fri Mar 21,New Zealand,Fiji,World Cup qualifier in New Zealand,61 154,1584 1235,93% 7%,2025-02-26
+Fri Mar 21,Andorra,Latvia,World Cup qualifier in Andorra,176 148,1083 1276,37% 63%,2025-02-26
+Fri Mar 21,Cyprus,San Marino,World Cup qualifier in Cyprus,137 205,1302 849,96% 4%,2025-02-26
+Fri Mar 21,England,Albania,World Cup qualifier in England,4 53,2007 1635,94% 6%,2025-02-26
+Fri Mar 21,Malta,Finland,World Cup qualifier in Malta,149 74,1270 1538,28% 72%,2025-02-26
+Fri Mar 21,Poland,Lithuania,World Cup qualifier in Poland,46 142,1700 1284,95% 5%,2025-02-26
+Fri Mar 21,Romania,Bosnia and Herzegovina,World Cup qualifier in Romania,42 85,1719 1485,87% 13%,2025-02-26
+Fri Mar 21,Northern Ireland,Switzerland,Friendly in Northern Ireland,69 19,1560 1814,29% 71%,2025-02-26
+Fri Mar 21,Puerto Rico,Dominican Republic,Friendly in Puerto Rico,171 140,1121 1289,40% 60%,2025-02-26
+Fri Mar 21,Thailand,Afghanistan,Friendly in Thailand,116 176,1377 1083,91% 9%,2025-02-26
+Fri Mar 21,Ecuador,Venezuela,World Cup qualifier in Ecuador,12 37,1910 1735,83% 17%,2025-02-26
+Fri Mar 21,Uruguay,Argentina,World Cup qualifier in Uruguay,9 2,1949 2107,42% 58%,2025-02-26
+Fri Mar 21,Belize,Costa Rica,CONCACAF Champ qual in Belize,175 52,1094 1645,7% 93%,2025-02-26
+Fri Mar 21,Bermuda,Honduras,CONCACAF Champ qual in Bermuda,165 68,1143 1561,14% 86%,2025-02-26
+Fri Mar 21,Cuba,Trinidad and Tobago,CONCACAF Champ qual in Cuba,144 108,1281 1398,48% 52%,2025-02-26
+Fri Mar 21,Guadeloupe,Nicaragua,CONCACAF Champ qual in Guadeloupe,129 119,1336 1363,60% 40%,2025-02-26
+Fri Mar 21,Guatemala,Guyana,CONCACAF Champ qual in Barbados,81 153,1507 1245,82% 18%,2025-02-26
+Fri Mar 21,St Vincent & Grenadines,Jamaica,CONCACAF Champ qual in St Vincent & Grenadines,167 66,1133 1572,12% 88%,2025-02-26
+Fri Mar 21,Suriname,Martinique,CONCACAF Champ qual in Suriname,122 98,1357 1417,56% 44%,2025-02-26
+Sat Mar 22,Czechia,Faroe Islands,World Cup qualifier in Czechia,35 145,1754 1278,96% 4%,2025-02-26
+Sat Mar 22,Estonia,Israel,World Cup qualifier in Hungary,116 58,1377 1601,22% 78%,2025-02-26
+Sat Mar 22,Liechtenstein,North Macedonia,World Cup qualifier in Liechtenstein,197 56,914 1611,3% 97%,2025-02-26
+Sat Mar 22,Moldova,Norway,World Cup qualifier in Moldova,123 22,1356 1805,12% 88%,2025-02-26
+Sat Mar 22,Montenegro,Gibraltar,World Cup qualifier in Montenegro,79 180,1521 1057,96% 4%,2025-02-26
+Sat Mar 22,Wales,Kazakhstan,World Cup qualifier in Wales,38 99,1733 1413,92% 8%,2025-02-26
+Sat Mar 22,Luxembourg,Sweden,Friendly in Luxembourg,91 36,1445 1745,24% 76%,2025-02-26
+Sun Mar 23,France,Croatia,European Nations League in France,3 14,2056 1887,82% 18%,2025-02-26
+Sun Mar 23,Germany,Italy,European Nations League in Germany,8 11,1972 1930,69% 31%,2025-02-26
+Sun Mar 23,Portugal,Denmark,European Nations League in Portugal,6 16,1993 1857,80% 20%,2025-02-26
+Sun Mar 23,Spain,Netherlands,European Nations League in Spain,1 10,2178 1939,88% 12%,2025-02-26
+Sun Mar 23,Belgium,Ukraine,European League A/B in Belgium,17 24,1851 1802,70% 30%,2025-02-26
+Sun Mar 23,Hungary,Turkey,European League A/B in Hungary,27 29,1779 1774,65% 35%,2025-02-26
+Sun Mar 23,Scotland,Greece,European League A/B in Scotland,34 20,1760 1813,57% 43%,2025-02-26
+Sun Mar 23,Serbia,Austria,European League A/B in Serbia,21 15,1810 1871,56% 44%,2025-02-26
+Sun Mar 23,Georgia,Armenia,European League B/C in Georgia,47 100,1691 1412,90% 10%,2025-02-26
+Sun Mar 23,Iceland,Kosovo,European League B/C in Spain,65 70,1576 1554,53% 47%,2025-02-26
+Sun Mar 23,Ireland,Bulgaria,European League B/C in Ireland,57 84,1609 1486,78% 22%,2025-02-26
+Sun Mar 23,Slovenia,Slovakia,European League B/C in Slovenia,40 45,1727 1702,67% 33%,2025-02-26
+Mon Mar 24,Albania,Andorra,World Cup qualifier in Albania,53 176,1635 1083,98% 2%,2025-02-26
+Mon Mar 24,Bosnia and Herzegovina,Cyprus,World Cup qualifier in Bosnia and Herzegovina,85 137,1485 1302,84% 16%,2025-02-26
+Mon Mar 24,England,Latvia,World Cup qualifier in England,4 148,2007 1276,99.2% 0.8%,2025-02-26
+Mon Mar 24,Lithuania,Finland,World Cup qualifier in Lithuania,142 74,1284 1538,29% 71%,2025-02-26
+Mon Mar 24,Poland,Malta,World Cup qualifier in Poland,46 149,1700 1270,95% 5%,2025-02-26
+Mon Mar 24,San Marino,Romania,World Cup qualifier in San Marino,205 42,849 1719,1.2% 98.8%,2025-02-26
+Tue Mar 25,China,Australia,World Cup qualifier in China,101 43,1410 1718,23% 77%,2025-02-26
+Tue Mar 25,Indonesia,Bahrain,World Cup qualifier in Indonesia,134 77,1317 1528,35% 65%,2025-02-26
+Tue Mar 25,Iran,Uzbekistan,World Cup qualifier in Iran,18 49,1837 1681,81% 19%,2025-02-26
+Tue Mar 25,Japan,Saudi Arabia,World Cup qualifier in Japan,13 75,1888 1535,93% 7%,2025-02-26
+Tue Mar 25,Kuwait,Oman,World Cup qualifier in Kuwait,127 80,1337 1511,40% 60%,2025-02-26
+Tue Mar 25,Kyrgyzstan,Qatar,World Cup qualifier in Kyrgyzstan,145 78,1278 1525,30% 70%,2025-02-26
+Tue Mar 25,North Korea,United Arab Emirates,World Cup qualifier in North Korea,106 76,1403 1532,46% 54%,2025-02-26
+Tue Mar 25,Palestine,Iraq,World Cup qualifier in Palestine,104 62,1406 1582,39% 61%,2025-02-26
+Tue Mar 25,South Korea,Jordan,World Cup qualifier in South Korea,31 54,1773 1618,81% 19%,2025-02-26
+Tue Mar 25,Bhutan,Yemen,Asian Cup qualifier in Bhutan,231 169,619 1123,9% 91%,2025-02-26
+Tue Mar 25,Brunei,Lebanon,Asian Cup qualifier in Qatar,224 126,665 1339,2% 98%,2025-02-26
+Tue Mar 25,India,Bangladesh,Asian Cup qualifier in India,162 199,1174 904,89% 11%,2025-02-26
+Tue Mar 25,Malaysia,Nepal,Asian Cup qualifier in Malaysia,152 194,1253 931,92% 8%,2025-02-26
+Tue Mar 25,Maldives,Philippines,Asian Cup qualifier in the Maldives,203 172,886 1119,32% 68%,2025-02-26
+Tue Mar 25,Myanmar,Afghanistan,Asian Cup qualifier in Myanmar,197 176,914 1083,40% 60%,2025-02-26
+Tue Mar 25,Singapore,Hong Kong,Asian Cup qualifier in Singapore,178 166,1074 1135,56% 44%,2025-02-26
+Tue Mar 25,Taiwan,Turkmenistan,Asian Cup qualifier in Taiwan,195 161,923 1204,26% 74%,2025-02-26
+Tue Mar 25,Tajikistan,East Timor,Asian Cup qualifier in Tajikistan,136 225,1304 659,98.6% 1.4%,2025-02-26
+Tue Mar 25,Thailand,Sri Lanka,Asian Cup qualifier in Thailand,116 217,1377 721,98.7% 1.3%,2025-02-26
+Tue Mar 25,Vietnam,Laos,Asian Cup qualifier in Vietnam,124 220,1355 697,98.7% 1.3%,2025-02-26
+Tue Mar 25,Gibraltar,Czechia,World Cup qualifier in Gibraltar,180 35,1057 1754,3% 97%,2025-02-26
+Tue Mar 25,Israel,Norway,World Cup qualifier in Hungary,58 22,1601 1805,24% 76%,2025-02-26
+Tue Mar 25,Liechtenstein,Kazakhstan,World Cup qualifier in Liechtenstein,197 99,914 1413,9% 91%,2025-02-26
+Tue Mar 25,Moldova,Estonia,World Cup qualifier in Moldova,123 116,1356 1377,61% 39%,2025-02-26
+Tue Mar 25,Montenegro,Faroe Islands,World Cup qualifier in Montenegro,79 145,1521 1278,88% 12%,2025-02-26
+Tue Mar 25,North Macedonia,Wales,World Cup qualifier in North Macedonia,56 38,1611 1733,47% 53%,2025-02-26
+Tue Mar 25,Azerbaijan,Belarus,Friendly in Azerbaijan,107 88,1399 1459,56% 44%,2025-02-26
+Tue Mar 25,Cambodia,Aruba,Friendly in Cambodia,206 200,848 903,56% 44%,2025-02-26
+Tue Mar 25,Dominican Republic,Puerto Rico,Friendly in the Dominican Republic,140 171,1289 1121,82% 18%,2025-02-26
+Tue Mar 25,Russia,Zambia,Friendly in Russia,25 102,1788 1409,94% 6%,2025-02-26
+Tue Mar 25,Sweden,Northern Ireland,Friendly in Sweden,36 69,1745 1560,84% 16%,2025-02-26
+Tue Mar 25,Switzerland,Luxembourg,Friendly in Switzerland,19 91,1814 1445,94% 6%,2025-02-26
+Tue Mar 25,Argentina,Brazil,World Cup qualifier in Argentina,2 5,2107 1997,77% 23%,2025-02-26
+Tue Mar 25,Bolivia,Uruguay,World Cup qualifier in Bolivia,50 9,1659 1949,25% 75%,2025-02-26
+Tue Mar 25,Chile,Ecuador,World Cup qualifier in Chile,39 12,1728 1910,38% 62%,2025-02-26
+Tue Mar 25,Colombia,Paraguay,World Cup qualifier in Colombia,7 29,1979 1774,85% 15%,2025-02-26
+Tue Mar 25,Venezuela,Peru,World Cup qualifier in Venezuela,37 41,1735 1723,66% 34%,2025-02-26
+Tue Mar 25,Costa Rica,Belize,CONCACAF Champ qual in Costa Rica,52 175,1645 1094,98% 2%,2025-02-26
+Tue Mar 25,Guatemala,Guyana,CONCACAF Champ qual in Guatemala,81 153,1507 1245,89% 11%,2025-02-26
+Tue Mar 25,Honduras,Bermuda,CONCACAF Champ qual in Honduras,68 165,1561 1143,95% 5%,2025-02-26
+Tue Mar 25,Jamaica,St Vincent & Grenadines,CONCACAF Champ qual in Jamaica,66 167,1572 1133,96% 4%,2025-02-26
+Tue Mar 25,Martinique,Suriname,CONCACAF Champ qual in Martinique,98 122,1417 1357,72% 28%,2025-02-26
+Tue Mar 25,Nicaragua,Guadeloupe,CONCACAF Champ qual in Nicaragua,119 129,1363 1336,68% 32%,2025-02-26
+Tue Mar 25,Trinidad and Tobago,Cuba,CONCACAF Champ qual in Trinidad and Tobago,108 144,1398 1281,78% 22%,2025-02-26
+Wed Jun 4,Chile,Argentina,World Cup qualifier in Chile,39 2,1728 2107,17% 83%,2025-02-26
+Wed Jun 4,Colombia,Peru,World Cup qualifier in Colombia,7 41,1979 1723,89% 11%,2025-02-26
+Wed Jun 4,Ecuador,Brazil,World Cup qualifier in Ecuador,12 5,1910 1997,52% 48%,2025-02-26
+Wed Jun 4,Paraguay,Uruguay,World Cup qualifier in Paraguay,29 9,1774 1949,39% 61%,2025-02-26
+Wed Jun 4,Venezuela,Bolivia,World Cup qualifier in Venezuela,37 50,1735 1659,73% 27%,2025-02-26
+Wed Jun 4,Barbados,Aruba,World Cup qualifier in Barbados,190 200,950 903,70% 30%,2025-02-26
+Wed Jun 4,Bermuda,Cayman Islands,World Cup qualifier in Bermuda,165 208,1143 829,92% 8%,2025-02-26
+Wed Jun 4,Dominica,British Virgin Islands,World Cup qualifier in Dominica,188 228,980 627,93% 7%,2025-02-26
+Wed Jun 4,Grenada,Bahamas,World Cup qualifier in Grenada,179 210,1065 794,89% 11%,2025-02-26
+Wed Jun 4,Montserrat,Belize,World Cup qualifier in Montserrat,189 175,952 1094,44% 56%,2025-02-26
+Wed Jun 4,St Vincent & Grenadines,Anguilla,World Cup qualifier in St Vincent & Grenadines,167 229,1133 623,97% 3%,2025-02-26
+Thu Jun 5,Australia,Japan,World Cup qualifier in Australia,43 13,1718 1888,40% 60%,2025-02-26
+Thu Jun 5,Bahrain,Saudi Arabia,World Cup qualifier in Bahrain,77 75,1528 1535,63% 37%,2025-02-26
+Thu Jun 5,Indonesia,China,World Cup qualifier in Indonesia,134 101,1317 1410,51% 49%,2025-02-26
+Thu Jun 5,Iraq,South Korea,World Cup qualifier in Iraq,62 31,1582 1773,37% 63%,2025-02-26
+Thu Jun 5,Kuwait,Palestine,World Cup qualifier in Kuwait,127 104,1337 1406,54% 46%,2025-02-26
+Thu Jun 5,North Korea,Kyrgyzstan,World Cup qualifier in North Korea,106 145,1403 1278,79% 21%,2025-02-26
+Thu Jun 5,Oman,Jordan,World Cup qualifier in Oman,80 54,1511 1618,49% 51%,2025-02-26
+Thu Jun 5,Qatar,Iran,World Cup qualifier in Qatar,78 18,1525 1837,23% 77%,2025-02-26
+Thu Jun 5,United Arab Emirates,Uzbekistan,World Cup qualifier in the United Arab Emirates,76 49,1532 1681,43% 57%,2025-02-26
+Fri Jun 6,Czechia,Montenegro,World Cup qualifier in Czechia,35 79,1754 1521,87% 13%,2025-02-26
+Fri Jun 6,Estonia,Israel,World Cup qualifier in Estonia,116 58,1377 1601,33% 67%,2025-02-26
+Fri Jun 6,North Macedonia,Belgium,World Cup qualifier in North Macedonia,56 17,1611 1851,31% 69%,2025-02-26
+Fri Jun 6,Wales,Liechtenstein,World Cup qualifier in Wales,38 197,1733 914,99.5% 0.5%,2025-02-26
+Fri Jun 6,Bulgaria,Cyprus,Friendly in Bulgaria,84 137,1486 1302,84% 16%,2025-02-26
+Fri Jun 6,Hungary,Sweden,Friendly in Hungary,27 36,1779 1745,68% 32%,2025-02-26
+Fri Jun 6,Luxembourg,Slovenia,Friendly in Luxembourg,91 40,1445 1727,26% 74%,2025-02-26
+Fri Jun 6,Russia,Nigeria,Friendly in Russia,25 71,1788 1553,87% 13%,2025-02-26
+Fri Jun 6,Scotland,Iceland,Friendly in Scotland,34 65,1760 1576,84% 16%,2025-02-26
+Fri Jun 6,Antigua and Barbuda,Cuba,World Cup qualifier in Antigua and Barbuda,196 144,919 1281,18% 82%,2025-02-26
+Fri Jun 6,Curaçao,Saint Lucia,World Cup qualifier in Curaçao,127 183,1337 1036,91% 9%,2025-02-26
+Fri Jun 6,Guatemala,Dominican Republic,World Cup qualifier in Guatemala,81 140,1507 1289,86% 14%,2025-02-26
+Fri Jun 6,Nicaragua,Guyana,World Cup qualifier in Nicaragua,119 153,1363 1245,78% 22%,2025-02-26
+Fri Jun 6,Suriname,Puerto Rico,World Cup qualifier in Suriname,122 171,1357 1121,87% 13%,2025-02-26
+Fri Jun 6,Trinidad and Tobago,Saint Kitts and Nevis,World Cup qualifier in Trinidad and Tobago,108 173,1398 1104,91% 9%,2025-02-26
+Sat Jun 7,Albania,Serbia,World Cup qualifier in Albania,53 21,1635 1810,39% 61%,2025-02-26
+Sat Jun 7,Andorra,England,World Cup qualifier in Andorra,176 4,1083 2007,0.9% 99.1%,2025-02-26
+Sat Jun 7,Austria,Romania,World Cup qualifier in Austria,15 42,1871 1719,81% 19%,2025-02-26
+Sat Jun 7,Bosnia and Herzegovina,San Marino,World Cup qualifier in Bosnia and Herzegovina,85 205,1485 849,98.6% 1.4%,2025-02-26
+Sat Jun 7,Malta,Lithuania,World Cup qualifier in Malta,149 142,1270 1284,62% 38%,2025-02-26
+Sat Jun 7,Greece,Slovakia,Friendly in Greece,20 45,1813 1702,77% 23%,2025-02-26
+Sat Jun 7,Latvia,Azerbaijan,Friendly in Latvia,148 107,1276 1399,47% 53%,2025-02-26
+Sat Jun 7,Morocco,Tunisia,Friendly in Morocco,23 59,1803 1600,85% 15%,2025-02-26
+Sat Jun 7,Anguilla,El Salvador,World Cup qualifier in Anguilla,229 111,623 1391,2% 98%,2025-02-26
+Sat Jun 7,Aruba,Haiti,World Cup qualifier in Aruba,200 73,903 1539,4% 96%,2025-02-26
+Sat Jun 7,Bahamas,Costa Rica,World Cup qualifier in the Bahamas,210 52,794 1645,1.3% 98.7%,2025-02-26
+Sat Jun 7,Belize,Panama,World Cup qualifier in Belize,175 44,1094 1712,5% 95%,2025-02-26
+Sat Jun 7,British Virgin Islands,Jamaica,World Cup qualifier in the British Virgin Islands,228 66,627 1572,0.8% 99.2%,2025-02-26
+Sat Jun 7,Cayman Islands,Honduras,World Cup qualifier in the Cayman Islands,208 68,829 1561,3% 97%,2025-02-26
+Mon Jun 9,Belgium,Wales,World Cup qualifier in Belgium,17 38,1851 1733,78% 22%,2025-02-26
+Mon Jun 9,Estonia,Norway,World Cup qualifier in Estonia,116 22,1377 1805,13% 87%,2025-02-26
+Mon Jun 9,Faroe Islands,Gibraltar,World Cup qualifier in the Faroe Islands,145 180,1278 1057,86% 14%,2025-02-26
+Mon Jun 9,Kazakhstan,North Macedonia,World Cup qualifier in Kazakhstan,99 56,1413 1611,36% 64%,2025-02-26
+Mon Jun 9,Liechtenstein,Scotland,Friendly in Liechtenstein,197 34,914 1760,1.3% 98.7%,2025-02-26
+Mon Jun 9,Montenegro,Armenia,Friendly in Montenegro,79 100,1521 1412,77% 23%,2025-02-26
+Tue Jun 10,China,Bahrain,World Cup qualifier in China,101 77,1410 1528,47% 53%,2025-02-26
+Tue Jun 10,Iran,North Korea,World Cup qualifier in Iran,18 106,1837 1403,96% 4%,2025-02-26
+Tue Jun 10,Japan,Indonesia,World Cup qualifier in Japan,13 134,1888 1317,98% 2%,2025-02-26
+Tue Jun 10,Jordan,Iraq,World Cup qualifier in Jordan,54 62,1618 1582,69% 31%,2025-02-26
+Tue Jun 10,Kyrgyzstan,United Arab Emirates,World Cup qualifier in Kyrgyzstan,145 76,1278 1532,29% 71%,2025-02-26
+Tue Jun 10,Palestine,Oman,World Cup qualifier in Palestine,104 80,1406 1511,49% 51%,2025-02-26
+Tue Jun 10,Saudi Arabia,Australia,World Cup qualifier in Saudi Arabia,75 43,1535 1718,38% 62%,2025-02-26
+Tue Jun 10,South Korea,Kuwait,World Cup qualifier in South Korea,31 127,1773 1337,96% 4%,2025-02-26
+Tue Jun 10,Uzbekistan,Qatar,World Cup qualifier in Uzbekistan,49 78,1681 1525,81% 19%,2025-02-26
+Tue Jun 10,Afghanistan,Syria,Asian Cup qualifier,176 93,1083 1435,12% 88%,2025-02-26
+Tue Jun 10,Bangladesh,Singapore,Asian Cup qualifier in Bangladesh,199 178,904 1074,40% 60%,2025-02-26
+Tue Jun 10,Brunei,Bhutan,Asian Cup qualifier in Brunei,224 231,665 619,70% 30%,2025-02-26
+Tue Jun 10,East Timor,Maldives,Asian Cup qualifier,225 203,659 886,21% 79%,2025-02-26
+Tue Jun 10,Hong Kong,India,Asian Cup qualifier in Hong Kong,166 162,1135 1174,59% 41%,2025-02-26
+Tue Jun 10,Laos,Nepal,Asian Cup qualifier in Laos,220 194,697 931,32% 68%,2025-02-26
+Tue Jun 10,Lebanon,Yemen,Asian Cup qualifier,126 169,1339 1123,78% 22%,2025-02-26
+Tue Jun 10,Malaysia,Vietnam,Asian Cup qualifier in Malaysia,152 124,1253 1355,50% 50%,2025-02-26
+Tue Jun 10,Philippines,Tajikistan,Asian Cup qualifier in the Philippines,172 136,1119 1304,38% 62%,2025-02-26
+Tue Jun 10,Sri Lanka,Taiwan,Asian Cup qualifier in Sri Lanka,217 195,721 923,36% 64%,2025-02-26
+Tue Jun 10,Turkmenistan,Thailand,Asian Cup qualifier in Turkmenistan,161 116,1204 1377,40% 60%,2025-02-26
+Tue Jun 10,Finland,Poland,World Cup qualifier in Finland,74 46,1538 1700,41% 59%,2025-02-26
+Tue Jun 10,Latvia,Albania,World Cup qualifier in Latvia,148 53,1276 1635,18% 82%,2025-02-26
+Tue Jun 10,Romania,Cyprus,World Cup qualifier in Romania,42 137,1719 1302,95% 5%,2025-02-26
+Tue Jun 10,San Marino,Austria,World Cup qualifier in San Marino,205 15,849 1871,0.5% 99.5%,2025-02-26
+Tue Jun 10,Serbia,Andorra,World Cup qualifier in Serbia,21 176,1810 1083,99.2% 0.8%,2025-02-26
+Tue Jun 10,Azerbaijan,Hungary,Friendly in Azerbaijan,107 27,1399 1779,17% 83%,2025-02-26
+Tue Jun 10,Belarus,Russia,Friendly in Belarus,88 25,1459 1788,21% 79%,2025-02-26
+Tue Jun 10,England,Senegal,Friendly in England,4 32,2007 1771,87% 13%,2025-02-26
+Tue Jun 10,Greece,Bulgaria,Friendly in Greece,20 84,1813 1486,92% 8%,2025-02-26
+Tue Jun 10,Morocco,Benin,Friendly in Morocco,23 94,1803 1434,94% 6%,2025-02-26
+Tue Jun 10,Northern Ireland,Iceland,Friendly in Northern Ireland,69 65,1560 1576,62% 38%,2025-02-26
+Tue Jun 10,Slovenia,Bosnia and Herzegovina,Friendly in Slovenia,40 85,1727 1485,88% 12%,2025-02-26
+Tue Jun 10,Argentina,Colombia,World Cup qualifier in Argentina,2 7,2107 1979,79% 21%,2025-02-26
+Tue Jun 10,Bolivia,Chile,World Cup qualifier in Bolivia,50 39,1659 1728,54% 46%,2025-02-26
+Tue Jun 10,Brazil,Paraguay,World Cup qualifier in Brazil,5 29,1997 1774,87% 13%,2025-02-26
+Tue Jun 10,Peru,Ecuador,World Cup qualifier in Peru,41 12,1723 1910,38% 62%,2025-02-26
+Tue Jun 10,Uruguay,Venezuela,World Cup qualifier in Uruguay,9 37,1949 1735,86% 14%,2025-02-26
+Tue Jun 10,Costa Rica,Trinidad and Tobago,World Cup qualifier in Costa Rica,52 108,1645 1398,88% 12%,2025-02-26
+Tue Jun 10,Cuba,Bermuda,World Cup qualifier in Cuba,144 165,1281 1143,80% 20%,2025-02-26
+Tue Jun 10,Dominican Republic,Dominica,World Cup qualifier in the Dominican Republic,140 188,1289 980,91% 9%,2025-02-26
+Tue Jun 10,El Salvador,Suriname,World Cup qualifier in El Salvador,111 122,1391 1357,68% 32%,2025-02-26
+Tue Jun 10,Guyana,Montserrat,World Cup qualifier in Guyana,153 189,1245 952,91% 9%,2025-02-26
+Tue Jun 10,Haiti,Curaçao,World Cup qualifier in Haiti,73 127,1539 1337,85% 15%,2025-02-26
+Tue Jun 10,Honduras,Antigua and Barbuda,World Cup qualifier in Honduras,68 196,1561 919,98.6% 1.4%,2025-02-26
+Tue Jun 10,Jamaica,Guatemala,World Cup qualifier in Jamaica,66 81,1572 1507,72% 28%,2025-02-26
+Tue Jun 10,Panama,Nicaragua,World Cup qualifier in Panama,44 119,1712 1363,93% 7%,2025-02-26
+Tue Jun 10,Puerto Rico,St Vincent & Grenadines,World Cup qualifier in Puerto Rico,171 167,1121 1133,62% 38%,2025-02-26
+Tue Jun 10,Saint Kitts and Nevis,Grenada,World Cup qualifier in Saint Kitts and Nevis,173 179,1104 1065,69% 31%,2025-02-26
+Tue Jun 10,Saint Lucia,Barbados,World Cup qualifier in Saint Lucia,183 190,1036 950,74% 26%,2025-02-26
+Jul 2025,China,Hong Kong,East Asian Championship in South Korea,101 166,1410 1135,83% 17%,2025-02-26
+Jul 2025,China,Japan,East Asian Championship in South Korea,101 13,1410 1888,6% 94%,2025-02-26
+Jul 2025,Hong Kong,Japan,East Asian Championship in South Korea,166 13,1135 1888,1.3% 98.7%,2025-02-26
+Jul 2025,South Korea,China,East Asian Championship in South Korea,31 101,1773 1410,93% 7%,2025-02-26
+Jul 2025,South Korea,Hong Kong,East Asian Championship in South Korea,31 166,1773 1135,98.6% 1.4%,2025-02-26
+Jul 2025,South Korea,Japan,East Asian Championship in South Korea,31 13,1773 1888,48% 52%,2025-02-26
+Sep 4 2025,Georgia,Turkey,World Cup qualifier in Georgia,47 29,1691 1774,52% 48%,2025-02-26
+Sep 4 2025,Kazakhstan,Wales,World Cup qualifier in Kazakhstan,99 38,1413 1733,22% 78%,2025-02-26
+Sep 4 2025,Liechtenstein,Belgium,World Cup qualifier in Liechtenstein,197 17,914 1851,0.8% 99.2%,2025-02-26
+Sep 4 2025,Lithuania,Malta,World Cup qualifier in Lithuania,142 149,1284 1270,66% 34%,2025-02-26
+Sep 4 2025,Luxembourg,Northern Ireland,World Cup qualifier in Luxembourg,91 69,1445 1560,48% 52%,2025-02-26
+Sep 4 2025,Norway,Finland,Friendly in Norway,22 74,1805 1538,89% 11%,2025-02-26
+Sep 5 2025,Greece,Belarus,World Cup qualifier in Greece,20 88,1813 1459,93% 7%,2025-02-26
+Sep 5 2025,Iceland,Azerbaijan,World Cup qualifier in Iceland,65 107,1576 1399,83% 17%,2025-02-26
+Sep 5 2025,Moldova,Israel,World Cup qualifier in Moldova,123 58,1356 1601,30% 70%,2025-02-26
+Sep 5 2025,Montenegro,Czechia,World Cup qualifier in Montenegro,79 35,1521 1754,32% 68%,2025-02-26
+Sep 5 2025,Slovenia,Sweden,World Cup qualifier in Slovenia,40 36,1727 1745,62% 38%,2025-02-26
+Sep 5 2025,Switzerland,Kosovo,World Cup qualifier in Switzerland,19 70,1814 1554,89% 11%,2025-02-26
+Sep 5 2025,Romania,Canada,Friendly in Romania,42 26,1719 1785,55% 45%,2025-02-26
+Sep 6 2025,Austria,Cyprus,World Cup qualifier in Austria,15 137,1871 1302,98% 2%,2025-02-26
+Sep 6 2025,England,Andorra,World Cup qualifier in England,4 176,2007 1083,99.7% 0.3%,2025-02-26
+Sep 6 2025,Ireland,Hungary,World Cup qualifier in Ireland,57 27,1609 1779,40% 60%,2025-02-26
+Sep 6 2025,Latvia,Serbia,World Cup qualifier in Latvia,148 21,1276 1810,8% 92%,2025-02-26
+Sep 6 2025,San Marino,Bosnia and Herzegovina,World Cup qualifier in San Marino,205 85,849 1485,4% 96%,2025-02-26
+Sep 7 2025,Belgium,Kazakhstan,World Cup qualifier in Belgium,17 99,1851 1413,96% 4%,2025-02-26
+Sep 7 2025,Georgia,Bulgaria,World Cup qualifier in Georgia,47 84,1691 1486,85% 15%,2025-02-26
+Sep 7 2025,Luxembourg,Slovakia,World Cup qualifier in Luxembourg,91 45,1445 1702,29% 71%,2025-02-26
+Sep 7 2025,North Macedonia,Liechtenstein,World Cup qualifier in North Macedonia,56 197,1611 914,99.0% 1.0%,2025-02-26
+Sep 7 2025,Poland,Finland,World Cup qualifier in Poland,46 74,1700 1538,82% 18%,2025-02-26
+Sep 8 2025,Belarus,Scotland,World Cup qualifier,88 34,1459 1760,15% 85%,2025-02-26
+Sep 8 2025,Gibraltar,Faroe Islands,World Cup qualifier in Gibraltar,180 145,1057 1278,33% 67%,2025-02-26
+Sep 8 2025,Kosovo,Sweden,World Cup qualifier in Kosovo,70 36,1554 1745,37% 63%,2025-02-26
+Sep 8 2025,Norway,Moldova,World Cup qualifier in Norway,22 123,1805 1356,96% 4%,2025-02-26
+Sep 8 2025,Switzerland,Slovenia,World Cup qualifier in Switzerland,19 40,1814 1727,75% 25%,2025-02-26
+Sep 9 2025,Albania,Latvia,World Cup qualifier in Albania,53 148,1635 1276,93% 7%,2025-02-26
+Sep 9 2025,Armenia,Ireland,World Cup qualifier in Armenia,100 57,1412 1609,36% 64%,2025-02-26
+Sep 9 2025,Azerbaijan,Ukraine,World Cup qualifier in Azerbaijan,107 24,1399 1802,15% 85%,2025-02-26
+Sep 9 2025,Bosnia and Herzegovina,Austria,World Cup qualifier in Bosnia and Herzegovina,85 15,1485 1871,16% 84%,2025-02-26
+Sep 9 2025,Cyprus,Romania,World Cup qualifier in Cyprus,137 42,1302 1719,14% 86%,2025-02-26
+Sep 9 2025,Serbia,England,World Cup qualifier in Serbia,21 4,1810 2007,36% 64%,2025-02-26
+Sep 9 2025,Wales,Canada,Friendly in Wales,38 26,1733 1785,57% 43%,2025-02-26
+Sep 9 2025,Argentina,Venezuela,World Cup qualifier in Argentina,2 37,2107 1735,94% 6%,2025-02-26
+Sep 9 2025,Brazil,Chile,World Cup qualifier in Brazil,5 39,1997 1728,89% 11%,2025-02-26
+Sep 9 2025,Colombia,Bolivia,World Cup qualifier in Colombia,7 50,1979 1659,92% 8%,2025-02-26
+Sep 9 2025,Paraguay,Ecuador,World Cup qualifier in Paraguay,29 12,1774 1910,45% 55%,2025-02-26
+Sep 9 2025,Uruguay,Peru,World Cup qualifier in Uruguay,9 41,1949 1723,87% 13%,2025-02-26
+Sep 14 2025,Bolivia,Brazil,World Cup qualifier in Bolivia,50 5,1659 1997,20% 80%,2025-02-26
+Sep 14 2025,Chile,Uruguay,World Cup qualifier in Chile,39 9,1728 1949,33% 67%,2025-02-26
+Sep 14 2025,Ecuador,Argentina,World Cup qualifier in Ecuador,12 2,1910 2107,36% 64%,2025-02-26
+Sep 14 2025,Peru,Paraguay,World Cup qualifier in Peru,41 29,1723 1774,57% 43%,2025-02-26
+Sep 14 2025,Venezuela,Colombia,World Cup qualifier in Venezuela,37 7,1735 1979,30% 70%,2025-02-26
+Oct 9 2025,Bangladesh,Hong Kong,Asian Cup qualifier in Bangladesh,199 166,904 1135,32% 68%,2025-02-26
+Oct 9 2025,Bhutan,Lebanon,Asian Cup qualifier in Bhutan,231 126,619 1339,3% 97%,2025-02-26
+Oct 9 2025,Brunei,Yemen,Asian Cup qualifier in Brunei,224 169,665 1123,11% 89%,2025-02-26
+Oct 9 2025,East Timor,Philippines,Asian Cup qualifier,225 172,659 1119,7% 93%,2025-02-26
+Oct 9 2025,Laos,Malaysia,Asian Cup qualifier in Laos,220 152,697 1253,7% 93%,2025-02-26
+Oct 9 2025,Maldives,Tajikistan,Asian Cup qualifier in the Maldives,203 136,886 1304,14% 86%,2025-02-26
+Oct 9 2025,Myanmar,Syria,Asian Cup qualifier in Myanmar,197 93,914 1435,8% 92%,2025-02-26
+Oct 9 2025,Singapore,India,Asian Cup qualifier in Singapore,178 162,1074 1174,50% 50%,2025-02-26
+Oct 9 2025,Sri Lanka,Turkmenistan,Asian Cup qualifier in Sri Lanka,217 161,721 1204,10% 90%,2025-02-26
+Oct 9 2025,Taiwan,Thailand,Asian Cup qualifier in Taiwan,195 116,923 1377,12% 88%,2025-02-26
+Oct 9 2025,Vietnam,Nepal,Asian Cup qualifier in Vietnam,124 194,1355 931,95% 5%,2025-02-26
+Oct 9 2025,Austria,San Marino,World Cup qualifier in Austria,15 205,1871 849,99.8% 0.2%,2025-02-26
+Oct 9 2025,Cyprus,Bosnia and Herzegovina,World Cup qualifier in Cyprus,137 85,1302 1485,38% 62%,2025-02-26
+Oct 9 2025,Faroe Islands,Montenegro,World Cup qualifier in the Faroe Islands,145 79,1278 1521,31% 69%,2025-02-26
+Oct 9 2025,Finland,Lithuania,World Cup qualifier in Finland,74 142,1538 1284,88% 12%,2025-02-26
+Oct 9 2025,Scotland,Greece,World Cup qualifier in Scotland,34 20,1760 1813,57% 43%,2025-02-26
+Oct 9 2025,England,Wales,Friendly in England,4 38,2007 1733,90% 10%,2025-02-26
+Oct 9 2025,Romania,Moldova,Friendly in Romania,42 123,1719 1356,93% 7%,2025-02-26
+Oct 10 2025,Belgium,North Macedonia,World Cup qualifier in Belgium,17 56,1851 1611,88% 12%,2025-02-26
+Oct 10 2025,Iceland,Ukraine,World Cup qualifier in Iceland,65 24,1576 1802,33% 67%,2025-02-26
+Oct 10 2025,Kazakhstan,Liechtenstein,World Cup qualifier in Kazakhstan,99 197,1413 914,97% 3%,2025-02-26
+Oct 10 2025,Kosovo,Slovenia,World Cup qualifier in Kosovo,70 40,1554 1727,40% 60%,2025-02-26
+Oct 10 2025,Northern Ireland,Slovakia,World Cup qualifier in Northern Ireland,69 45,1560 1702,44% 56%,2025-02-26
+Oct 10 2025,Sweden,Switzerland,World Cup qualifier in Sweden,36 19,1745 1814,54% 46%,2025-02-26
+Oct 11 2025,Bulgaria,Turkey,World Cup qualifier in Bulgaria,84 29,1486 1774,25% 75%,2025-02-26
+Oct 11 2025,Hungary,Armenia,World Cup qualifier in Hungary,27 100,1779 1412,94% 6%,2025-02-26
+Oct 11 2025,Latvia,Andorra,World Cup qualifier in Latvia,148 176,1276 1083,84% 16%,2025-02-26
+Oct 11 2025,Norway,Israel,World Cup qualifier in Norway,22 58,1805 1601,85% 15%,2025-02-26
+Oct 11 2025,Serbia,Albania,World Cup qualifier in Serbia,21 53,1810 1635,83% 17%,2025-02-26
+Oct 12 2025,Faroe Islands,Czechia,World Cup qualifier in the Faroe Islands,145 35,1278 1754,10% 90%,2025-02-26
+Oct 12 2025,Lithuania,Poland,World Cup qualifier in Lithuania,142 46,1284 1700,14% 86%,2025-02-26
+Oct 12 2025,Romania,Austria,World Cup qualifier in Romania,42 15,1719 1871,43% 57%,2025-02-26
+Oct 12 2025,San Marino,Cyprus,World Cup qualifier in San Marino,205 137,849 1302,12% 88%,2025-02-26
+Oct 12 2025,Scotland,Belarus,World Cup qualifier in Scotland,34 88,1760 1459,91% 9%,2025-02-26
+Oct 12 2025,Malta,Bosnia and Herzegovina,Friendly in Malta,149 85,1270 1485,34% 66%,2025-02-26
+Oct 13 2025,North Macedonia,Kazakhstan,World Cup qualifier in North Macedonia,56 99,1611 1413,85% 15%,2025-02-26
+Oct 13 2025,Slovakia,Luxembourg,World Cup qualifier in Slovakia,45 91,1702 1445,89% 11%,2025-02-26
+Oct 13 2025,Slovenia,Switzerland,World Cup qualifier in Slovenia,40 19,1727 1814,52% 48%,2025-02-26
+Oct 13 2025,Sweden,Kosovo,World Cup qualifier in Sweden,36 70,1745 1554,84% 16%,2025-02-26
+Oct 13 2025,Ukraine,Azerbaijan,World Cup qualifier,24 107,1802 1399,91% 9%,2025-02-26
+Oct 13 2025,Wales,Belgium,World Cup qualifier in Wales,38 17,1733 1851,47% 53%,2025-02-26
+Oct 13 2025,Montenegro,Liechtenstein,Friendly in Montenegro,79 197,1521 914,98.3% 1.7%,2025-02-26
+Oct 14 2025,Bhutan,Lebanon,Asian Cup qualifier,231 126,619 1339,1.6% 98.4%,2025-02-26
+Oct 14 2025,Brunei,Yemen,Asian Cup qualifier,224 169,665 1123,7% 93%,2025-02-26
+Oct 14 2025,Hong Kong,Bangladesh,Asian Cup qualifier in Hong Kong,166 199,1135 904,87% 13%,2025-02-26
+Oct 14 2025,India,Singapore,Asian Cup qualifier in India,162 178,1174 1074,76% 24%,2025-02-26
+Oct 14 2025,Malaysia,Laos,Asian Cup qualifier in Malaysia,152 220,1253 697,98% 2%,2025-02-26
+Oct 14 2025,Myanmar,Syria,Asian Cup qualifier,197 93,914 1435,5% 95%,2025-02-26
+Oct 14 2025,Nepal,Vietnam,Asian Cup qualifier in Nepal,194 124,931 1355,13% 87%,2025-02-26
+Oct 14 2025,Philippines,East Timor,Asian Cup qualifier in the Philippines,172 225,1119 659,96% 4%,2025-02-26
+Oct 14 2025,Tajikistan,Maldives,Asian Cup qualifier in Tajikistan,136 203,1304 886,95% 5%,2025-02-26
+Oct 14 2025,Thailand,Taiwan,Asian Cup qualifier in Thailand,116 195,1377 923,96% 4%,2025-02-26
+Oct 14 2025,Turkmenistan,Sri Lanka,Asian Cup qualifier in Turkmenistan,161 217,1204 721,97% 3%,2025-02-26
+Oct 14 2025,Andorra,Serbia,World Cup qualifier in Andorra,176 21,1083 1810,3% 97%,2025-02-26
+Oct 14 2025,Estonia,Moldova,World Cup qualifier in Estonia,116 123,1377 1356,67% 33%,2025-02-26
+Oct 14 2025,Ireland,Armenia,World Cup qualifier in Ireland,57 100,1609 1412,85% 15%,2025-02-26
+Oct 14 2025,Latvia,England,World Cup qualifier in Latvia,148 4,1276 2007,3% 97%,2025-02-26
+Oct 14 2025,Turkey,Georgia,World Cup qualifier in Turkey,29 47,1774 1691,74% 26%,2025-02-26
+Oct 14 2025,Norway,New Zealand,Friendly in Norway,22 61,1805 1584,86% 14%,2025-02-26
+Nov 13 2025,Andorra,Albania,World Cup qualifier in Andorra,176 53,1083 1635,7% 93%,2025-02-26
+Nov 13 2025,Armenia,Hungary,World Cup qualifier in Armenia,100 27,1412 1779,18% 82%,2025-02-26
+Nov 13 2025,Azerbaijan,Iceland,World Cup qualifier in Azerbaijan,107 65,1399 1576,39% 61%,2025-02-26
+Nov 13 2025,England,Serbia,World Cup qualifier in England,4 21,2007 1810,85% 15%,2025-02-26
+Nov 13 2025,Norway,Estonia,World Cup qualifier in Norway,22 116,1805 1377,95% 5%,2025-02-26
+Nov 14 2025,Finland,Malta,World Cup qualifier in Finland,74 149,1538 1270,89% 11%,2025-02-26
+Nov 14 2025,Gibraltar,Montenegro,World Cup qualifier in Gibraltar,180 79,1057 1521,11% 89%,2025-02-26
+Nov 14 2025,Slovakia,Northern Ireland,World Cup qualifier in Slovakia,45 69,1702 1560,80% 20%,2025-02-26
+Nov 15 2025,Bosnia and Herzegovina,Romania,World Cup qualifier in Bosnia and Herzegovina,85 42,1485 1719,32% 68%,2025-02-26
+Nov 15 2025,Cyprus,Austria,World Cup qualifier in Cyprus,137 15,1302 1871,6% 94%,2025-02-26
+Nov 15 2025,Greece,Scotland,World Cup qualifier in Greece,20 34,1813 1760,71% 29%,2025-02-26
+Nov 15 2025,Kazakhstan,Belgium,World Cup qualifier in Kazakhstan,99 17,1413 1851,13% 87%,2025-02-26
+Nov 15 2025,Liechtenstein,Wales,World Cup qualifier in Liechtenstein,197 38,914 1733,1.6% 98.4%,2025-02-26
+Nov 15 2025,Slovenia,Kosovo,World Cup qualifier in Slovenia,40 70,1727 1554,83% 17%,2025-02-26
+Nov 15 2025,Switzerland,Sweden,World Cup qualifier in Switzerland,19 36,1814 1745,73% 27%,2025-02-26
+Nov 15 2025,Turkey,Bulgaria,World Cup qualifier in Turkey,29 84,1774 1486,90% 10%,2025-02-26
+Nov 16 2025,Albania,England,World Cup qualifier in Albania,53 4,1635 2007,17% 83%,2025-02-26
+Nov 16 2025,Hungary,Ireland,World Cup qualifier in Hungary,27 57,1779 1609,83% 17%,2025-02-26
+Nov 16 2025,Israel,Moldova,World Cup qualifier,58 123,1601 1356,80% 20%,2025-02-26
+Nov 16 2025,Serbia,Latvia,World Cup qualifier in Serbia,21 148,1810 1276,97% 3%,2025-02-26
+Nov 16 2025,Ukraine,Iceland,World Cup qualifier,24 65,1802 1576,79% 21%,2025-02-26
+Nov 17 2025,Czechia,Gibraltar,World Cup qualifier in Czechia,35 180,1754 1057,99.0% 1.0%,2025-02-26
+Nov 17 2025,Malta,Poland,World Cup qualifier in Malta,149 46,1270 1700,13% 87%,2025-02-26
+Nov 17 2025,Northern Ireland,Luxembourg,World Cup qualifier in Northern Ireland,69 91,1560 1445,78% 22%,2025-02-26
+Nov 17 2025,Finland,Andorra,Friendly in Finland,74 176,1538 1083,96% 4%,2025-02-26
+Nov 18 2025,Afghanistan,Myanmar,Asian Cup qualifier,176 197,1083 914,73% 27%,2025-02-26
+Nov 18 2025,Bangladesh,India,Asian Cup qualifier in Bangladesh,199 162,904 1174,27% 73%,2025-02-26
+Nov 18 2025,Bhutan,Yemen,Asian Cup qualifier,231 169,619 1123,5% 95%,2025-02-26
+Nov 18 2025,Brunei,Lebanon,Asian Cup qualifier in Brunei,224 126,665 1339,4% 96%,2025-02-26
+Nov 18 2025,East Timor,Tajikistan,Asian Cup qualifier,225 136,659 1304,2% 98%,2025-02-26
+Nov 18 2025,Hong Kong,Singapore,Asian Cup qualifier in Hong Kong,166 178,1135 1074,72% 28%,2025-02-26
+Nov 18 2025,Laos,Vietnam,Asian Cup qualifier in Laos,220 124,697 1355,4% 96%,2025-02-26
+Nov 18 2025,Nepal,Malaysia,Asian Cup qualifier in Nepal,194 152,931 1253,22% 78%,2025-02-26
+Nov 18 2025,Philippines,Maldives,Asian Cup qualifier in the Philippines,172 203,1119 886,87% 13%,2025-02-26
+Nov 18 2025,Sri Lanka,Thailand,Asian Cup qualifier in Sri Lanka,217 116,721 1377,4% 96%,2025-02-26
+Nov 18 2025,Turkmenistan,Taiwan,Asian Cup qualifier in Turkmenistan,161 195,1204 923,90% 10%,2025-02-26
+Nov 18 2025,Austria,Bosnia and Herzegovina,World Cup qualifier in Austria,15 85,1871 1485,94% 6%,2025-02-26
+Nov 18 2025,Belarus,Greece,World Cup qualifier,88 20,1459 1813,12% 88%,2025-02-26
+Nov 18 2025,Belgium,Liechtenstein,World Cup qualifier in Belgium,17 197,1851 914,99.7% 0.3%,2025-02-26
+Nov 18 2025,Bulgaria,Georgia,World Cup qualifier in Bulgaria,84 47,1486 1691,35% 65%,2025-02-26
+Nov 18 2025,Kosovo,Switzerland,World Cup qualifier in Kosovo,70 19,1554 1814,28% 72%,2025-02-26
+Nov 18 2025,Romania,San Marino,World Cup qualifier in Romania,42 205,1719 849,99.6% 0.4%,2025-02-26
+Nov 18 2025,Sweden,Slovenia,World Cup qualifier in Sweden,36 40,1745 1727,66% 34%,2025-02-26
+Nov 18 2025,Wales,North Macedonia,World Cup qualifier in Wales,38 56,1733 1611,78% 22%,2025-02-26
+Nov 18 2025,Cyprus,Estonia,Friendly in Cyprus,137 116,1302 1377,54% 46%,2025-02-26
+Dec 21 2025,Morocco,Comoros,African Nations Cup in Morocco,23 96,1803 1425,94% 6%,2025-02-26
+Dec 22 2025,Angola,South Africa,African Nations Cup in Morocco,67 64,1570 1579,49% 51%,2025-02-26
+Dec 22 2025,Egypt,Zimbabwe,African Nations Cup in Morocco,50 115,1659 1380,83% 17%,2025-02-26
+Dec 22 2025,Mali,Zambia,African Nations Cup in Morocco,55 102,1612 1409,76% 24%,2025-02-26
+Dec 23 2025,Benin,DR Congo,African Nations Cup in Morocco,94 72,1434 1543,35% 65%,2025-02-26
+Dec 23 2025,Botswana,Senegal,African Nations Cup in Morocco,121 32,1359 1771,9% 91%,2025-02-26
+Dec 23 2025,Nigeria,Tanzania,African Nations Cup in Morocco,71 102,1553 1409,70% 30%,2025-02-26
+Dec 23 2025,Tunisia,Uganda,African Nations Cup in Morocco,59 108,1600 1398,76% 24%,2025-02-26
+Dec 24 2025,Algeria,Sudan,African Nations Cup in Morocco,48 112,1688 1388,85% 15%,2025-02-26
+Dec 24 2025,Burkina Faso,Equatorial Guinea,African Nations Cup in Morocco,86 82,1483 1498,48% 52%,2025-02-26
+Dec 24 2025,Cameroon,Gabon,African Nations Cup in Morocco,60 91,1597 1445,71% 29%,2025-02-26
+Dec 24 2025,Ivory Coast,Mozambique,African Nations Cup in Morocco,63 90,1581 1450,68% 32%,2025-02-26
+Dec 26 2025,Angola,Zimbabwe,African Nations Cup in Morocco,67 115,1570 1380,75% 25%,2025-02-26
+Dec 26 2025,Comoros,Zambia,African Nations Cup in Morocco,96 102,1425 1409,52% 48%,2025-02-26
+Dec 26 2025,Egypt,South Africa,African Nations Cup in Morocco,50 64,1659 1579,61% 39%,2025-02-26
+Dec 26 2025,Morocco,Mali,African Nations Cup in Morocco,23 55,1803 1612,84% 16%,2025-02-26
+Dec 27 2025,Benin,Botswana,African Nations Cup in Morocco,94 121,1434 1359,61% 39%,2025-02-26
+Dec 27 2025,DR Congo,Senegal,African Nations Cup in Morocco,72 32,1543 1771,21% 79%,2025-02-26
+Dec 27 2025,Nigeria,Tunisia,African Nations Cup in Morocco,71 59,1553 1600,43% 57%,2025-02-26
+Dec 27 2025,Tanzania,Uganda,African Nations Cup in Morocco,102 108,1409 1398,52% 48%,2025-02-26
+Dec 28 2025,Algeria,Burkina Faso,African Nations Cup in Morocco,48 86,1688 1483,76% 24%,2025-02-26
+Dec 28 2025,Cameroon,Ivory Coast,African Nations Cup in Morocco,60 63,1597 1581,52% 48%,2025-02-26
+Dec 28 2025,Equatorial Guinea,Sudan,African Nations Cup in Morocco,82 112,1498 1388,65% 35%,2025-02-26
+Dec 28 2025,Gabon,Mozambique,African Nations Cup in Morocco,91 90,1445 1450,49% 51%,2025-02-26
+Dec 29 2025,Angola,Egypt,African Nations Cup in Morocco,67 50,1570 1659,37% 63%,2025-02-26
+Dec 29 2025,Comoros,Mali,African Nations Cup in Morocco,96 55,1425 1612,25% 75%,2025-02-26
+Dec 29 2025,Morocco,Zambia,African Nations Cup in Morocco,23 102,1803 1409,94% 6%,2025-02-26
+Dec 29 2025,South Africa,Zimbabwe,African Nations Cup in Morocco,64 115,1579 1380,76% 24%,2025-02-26
+Dec 30 2025,Benin,Senegal,African Nations Cup in Morocco,94 32,1434 1771,13% 87%,2025-02-26
+Dec 30 2025,Botswana,DR Congo,African Nations Cup in Morocco,121 72,1359 1543,26% 74%,2025-02-26
+Dec 30 2025,Nigeria,Uganda,African Nations Cup in Morocco,71 108,1553 1398,71% 29%,2025-02-26
+Dec 30 2025,Tanzania,Tunisia,African Nations Cup in Morocco,102 59,1409 1600,25% 75%,2025-02-26
+Dec 31 2025,Algeria,Equatorial Guinea,African Nations Cup in Morocco,48 82,1688 1498,75% 25%,2025-02-26
+Dec 31 2025,Burkina Faso,Sudan,African Nations Cup in Morocco,86 112,1483 1388,63% 37%,2025-02-26
+Dec 31 2025,Cameroon,Mozambique,African Nations Cup in Morocco,60 90,1597 1450,70% 30%,2025-02-26
+Dec 31 2025,Gabon,Ivory Coast,African Nations Cup in Morocco,91 63,1445 1581,31% 69%,2025-02-26
+Mar 26 2026,Gibraltar,Latvia,European League C/D in Gibraltar,180 148,1057 1276,34% 66%,2025-02-26
+Mar 26 2026,Malta,Luxembourg,European League C/D in Malta,149 91,1270 1445,39% 61%,2025-02-26
+Mar 31 2026,Afghanistan,Syria,Asian Cup qualifier,176 93,1083 1435,12% 88%,2025-02-26
+Mar 31 2026,Bhutan,Brunei,Asian Cup qualifier in Bhutan,231 224,619 665,58% 42%,2025-02-26
+Mar 31 2026,India,Hong Kong,Asian Cup qualifier in India,162 166,1174 1135,69% 31%,2025-02-26
+Mar 31 2026,Lebanon,Yemen,Asian Cup qualifier,126 169,1339 1123,78% 22%,2025-02-26
+Mar 31 2026,Maldives,East Timor,Asian Cup qualifier in the Maldives,203 225,886 659,87% 13%,2025-02-26
+Mar 31 2026,Nepal,Laos,Asian Cup qualifier in Nepal,194 220,931 697,87% 13%,2025-02-26
+Mar 31 2026,Singapore,Bangladesh,Asian Cup qualifier in Singapore,178 199,1074 904,83% 17%,2025-02-26
+Mar 31 2026,Taiwan,Sri Lanka,Asian Cup qualifier in Taiwan,195 217,923 721,85% 15%,2025-02-26
+Mar 31 2026,Tajikistan,Philippines,Asian Cup qualifier in Tajikistan,136 172,1304 1119,84% 16%,2025-02-26
+Mar 31 2026,Thailand,Turkmenistan,Asian Cup qualifier in Thailand,116 161,1377 1204,83% 17%,2025-02-26
+Mar 31 2026,Vietnam,Malaysia,Asian Cup qualifier in Vietnam,124 152,1355 1253,76% 24%,2025-02-26
+Mar 31 2026,Latvia,Gibraltar,European League C/D in Latvia,148 180,1276 1057,86% 14%,2025-02-26
+Mar 31 2026,Luxembourg,Malta,European League C/D in Luxembourg,91 149,1445 1270,83% 17%,2025-02-26

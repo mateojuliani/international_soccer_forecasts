@@ -6,7 +6,7 @@ import pandas as pd
 import os 
 
 
-scrape = False
+scrape = True
 
 if scrape:
     #scrape any historical data we are missing

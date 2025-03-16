@@ -17417,3 +17417,9 @@ game_id,date,location,team,opp,score,opp_score,elo,opp_elo,elo_diff,result_class
 2025-01-27JordanUzbekistan,2025-01-27,Friendly in Qatar,Uzbekistan,Jordan,0,0,1683,1616,67,D,0,0
 2025-02-06JamaicaTrinidad and Tobago,2025-02-06,Friendly in Jamaica,Jamaica,Trinidad and Tobago,1,0,1576,1394,182,T1,1,0
 2025-02-06JamaicaTrinidad and Tobago,2025-02-06,Friendly in Jamaica,Trinidad and Tobago,Jamaica,0,1,1394,1576,-182,T2,0,1
+2025-02-08ChilePanama,2025-02-08,Friendly in Chile,Panama,Chile,1,6,1727,1713,14,T2,0,1
+2025-02-08ChilePanama,2025-02-08,Friendly in Chile,Chile,Panama,6,1,1713,1727,-14,T1,1,0
+2025-02-09JamaicaTrinidad and Tobago,2025-02-09,Friendly in Jamaica,Trinidad and Tobago,Jamaica,1,1,1391,1579,-188,D,0,1
+2025-02-09JamaicaTrinidad and Tobago,2025-02-09,Friendly in Jamaica,Jamaica,Trinidad and Tobago,1,1,1579,1391,188,D,1,0
+2025-02-17North KoreaKazakhstan,2025-02-17,Friendly in Turkey,North Korea,Kazakhstan,2,0,1386,1430,-44,T1,0,0
+2025-02-17North KoreaKazakhstan,2025-02-17,Friendly in Turkey,Kazakhstan,North Korea,0,2,1430,1386,44,T2,0,0
